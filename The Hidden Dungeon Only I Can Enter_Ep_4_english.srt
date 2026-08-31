@@ -1,0 +1,372 @@
+1
+00:03:56,670 --> 00:04:01,720
+#04 "The Untainted Cleric"
+
+2
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+3
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+4
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+5
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+6
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+7
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+8
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+9
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+10
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+11
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+12
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+13
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+14
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+15
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+16
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+17
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+18
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+19
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+20
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+21
+00:06:23,190 --> 00:06:32,370
+Lucky Lecher
+
+22
+00:06:25,650 --> 00:06:32,370
+Only takes 300 LP to get!
+
+23
+00:06:35,790 --> 00:06:36,500
+Noir Stardia   Lv.35
+LP.2270
+
+24
+00:06:35,790 --> 00:06:37,250
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+25
+00:06:35,790 --> 00:06:37,250
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+26
+00:06:35,790 --> 00:06:37,250
+Skills [Great Sage] [Get Creative] [Editor] [Bestow]
+Skills [LP Conversion] [Stone Bullet] [Discerning Eye]
+Skills [Headache Immunity] [Pocket Dimension (Grade C)]
+Skills [Improved Back Step] [Passive Defense]
+Skills [Shoulder Rub] [Lucky Lecher]
+
+27
+00:06:36,290 --> 00:06:37,250
+Noir Stardia   Lv.35
+LP.1970
+
+28
+00:07:51,860 --> 00:08:08,670
+Lucky Lecher
+
+29
+00:07:53,360 --> 00:08:08,670
+Causes erotic situations to occur
+
+30
+00:07:55,200 --> 00:07:59,660
+with nearby members of the opposite sex.
+
+31
+00:07:58,700 --> 00:07:59,330
+Spent
+
+32
+00:07:59,660 --> 00:08:08,670
+with nearby members of the opposite sex.
+
+33
+00:07:59,790 --> 00:08:08,670
+"rarely"
+
+34
+00:08:03,080 --> 00:08:03,710
+Spent
+
+35
+00:08:03,540 --> 00:08:08,630
+"Skill will not trigger during serious situations."
+
+36
+00:10:45,740 --> 00:10:49,000
+Species: Half-elf
+Age: 17
+Occupation: Cleric/Adventurer
+Skills: [Magical Firearms (Grade B)] [Energizing Shot]
+Skills: [Healing Shot] [Cowardice] [Lift Curse]
+
+37
+00:10:45,740 --> 00:10:56,380
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+38
+00:10:45,740 --> 00:10:56,380
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+39
+00:10:45,740 --> 00:10:56,380
+Luna Heela   Lv.35
+
+40
+00:10:49,040 --> 00:10:56,380
+Skill: Lift Curse
+Skill: Erases curse skills. However, the user's
+Skill: lifespan is reduced in proportion to
+Skill: the strength of the curse.
+
+41
+00:14:55,990 --> 00:14:58,960
+I don't
+wanna die
+
+42
+00:15:08,510 --> 00:15:09,670
+Skill
+
+43
+00:15:08,510 --> 00:15:09,670
+[Cowardice]
+
+44
+00:15:09,760 --> 00:15:15,970
+Cowardice
+
+45
+00:15:10,090 --> 00:15:15,970
+Depleting mana or receiving
+
+46
+00:15:10,880 --> 00:15:15,970
+intense attacks may make the
+
+47
+00:15:12,180 --> 00:15:15,970
+user even more cowardly.
+
+48
+00:18:40,010 --> 00:18:50,520
+[Lift Curse]
+
+49
+00:18:41,590 --> 00:18:47,980
+Erases curse skills.
+
+50
+00:18:41,590 --> 00:18:47,980
+However, the user's lifespan is reduced in
+
+51
+00:18:41,590 --> 00:18:47,980
+proportion to the strength of the curse.
+
+52
+00:18:48,020 --> 00:18:50,520
+Uses
+
+53
+00:18:48,020 --> 00:18:50,520
+Necessary
+
+54
+00:18:50,520 --> 00:18:54,980
+User's lifespan
+is reduced.
+
+55
+00:18:50,520 --> 00:18:55,020
+Lifespan
+
+56
+00:18:50,520 --> 00:18:55,020
+Finances
+
+57
+00:18:50,520 --> 00:18:55,020
+rels
+
+58
+00:18:50,520 --> 00:18:55,020
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+59
+00:18:50,520 --> 00:18:55,020
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+60
+00:18:55,020 --> 00:19:00,860
+[Lift Curse]
+
+61
+00:18:56,190 --> 00:18:59,070
+However, the user's lifespan is reduced in
+
+62
+00:18:56,190 --> 00:18:59,610
+Erases curse skills.
+
+63
+00:18:56,190 --> 00:18:59,610
+proportion to the strength of the curse.
+
+64
+00:18:57,400 --> 00:18:59,610
+However, the user's finances are reduced in
+
+65
+00:18:59,400 --> 00:19:00,860
+Uses
+
+66
+00:18:59,400 --> 00:19:00,860
+Necessary
+
+67
+00:19:00,860 --> 00:19:03,030
+Lifespan
+
+68
+00:19:00,860 --> 00:19:03,030
+Finances
+
+69
+00:19:00,860 --> 00:19:03,030
+rels
+
+70
+00:19:00,860 --> 00:19:03,030
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+71
+00:19:00,860 --> 00:19:03,030
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+72
+00:19:00,860 --> 00:19:03,030
+User's finances
+are reduced.
+
+73
+00:19:25,100 --> 00:19:25,810
+Lacking
+
+74
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+75
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+76
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+77
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+78
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+79
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+80
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+81
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+82
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+83
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+84
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+85
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+86
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+87
+00:23:22,000 --> 00:23:26,000
+Alice Theater
+
+88
+00:24:18,310 --> 00:24:21,980
+#05 "The Future of This Harem"
+
+89
+00:24:21,980 --> 00:24:27,730
+Illustration: Fuumi
+
