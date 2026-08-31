@@ -1,0 +1,468 @@
+1
+00:00:00,007 --> 00:00:00,007
+
+
+2
+00:00:00,007 --> 00:00:00,007
+
+
+3
+00:01:21,817 --> 00:01:26,817
+目覚めても　目覚めても　届かない
+
+4
+00:01:21,817 --> 00:01:26,817
+Mezametemo mezametemo todokanai
+
+5
+00:01:21,817 --> 00:01:26,817
+Even after awakening and awakening, it’s unreachable
+
+6
+00:01:26,817 --> 00:01:31,487
+結末に見慣れてしまいそうなほど
+
+7
+00:01:26,817 --> 00:01:31,487
+Ketsumatsu ni minarete shimaisou na hodo
+
+8
+00:01:26,817 --> 00:01:31,487
+To the point it seems I’m getting used to seeing the end
+
+9
+00:01:31,487 --> 00:01:36,787
+また一つ　また一つ　消えていく
+
+10
+00:01:31,487 --> 00:01:36,787
+Mata hitotsu mata hitotsu kiete yuku
+
+11
+00:01:31,487 --> 00:01:36,787
+Yet another, yet another disappears
+
+12
+00:01:36,787 --> 00:01:40,837
+増えすぎた犠牲　無機質な影
+
+13
+00:01:36,787 --> 00:01:40,837
+Fue sugita gisei mukishitsu na kage
+
+14
+00:01:36,787 --> 00:01:40,837
+Too many sacrifices, an inorganic shadow
+
+15
+00:01:40,837 --> 00:01:45,337
+どこかに置き去りにした
+
+16
+00:01:40,837 --> 00:01:45,337
+Dokoka ni okizari ni shita
+
+17
+00:01:40,837 --> 00:01:45,337
+Left behind somewhere,
+
+18
+00:01:45,337 --> 00:01:52,807
+正しさも　躊躇いも
+
+19
+00:01:45,337 --> 00:01:52,807
+Tadashisa mo tamerai mo
+
+20
+00:01:45,337 --> 00:01:52,807
+the righteousness and the hesitation
+
+21
+00:01:52,807 --> 00:01:55,637
+まるで何もなかったように
+
+22
+00:01:52,807 --> 00:01:55,637
+Marude nanimonakatta you ni
+
+23
+00:01:52,807 --> 00:01:55,637
+Like as if nothing has happened,
+
+24
+00:01:55,637 --> 00:01:57,807
+確実に仕留めるの
+
+25
+00:01:55,637 --> 00:01:57,807
+Kakujitsu ni shitomeru no
+
+26
+00:01:55,637 --> 00:01:57,807
+I’ll definitely bring it down
+
+27
+00:01:57,807 --> 00:02:02,687
+閉ざしかけた唇　触れて　繋いで
+
+28
+00:01:57,807 --> 00:02:02,687
+Tozashi kaketa kuchibiru furete tsunaide
+
+29
+00:01:57,807 --> 00:02:02,687
+Nearly closed lips, touching and connecting
+
+30
+00:02:02,687 --> 00:02:07,197
+唯一の望み以外　何も惜しくはないの
+
+31
+00:02:02,687 --> 00:02:07,197
+Yuiitsu no nozomi igai nanimo oshiku wa nai no
+
+32
+00:02:02,687 --> 00:02:07,197
+Other than the only hope, I do not hold anything else dear
+
+33
+00:02:07,197 --> 00:02:12,657
+優し過ぎるあなたの為なら
+
+34
+00:02:07,197 --> 00:02:12,657
+Yasashi sugiru anata no tame nara
+
+35
+00:02:07,197 --> 00:02:12,657
+If it’s for you who are too gentle
+
+36
+00:02:12,657 --> 00:02:17,497
+何度でも捧げましょう
+
+37
+00:02:12,657 --> 00:02:17,497
+Nando demo sasagemashou
+
+38
+00:02:12,657 --> 00:02:17,497
+Dedicating it over and over again.
+
+39
+00:02:17,497 --> 00:02:24,167
+諦めてくれるなら
+
+40
+00:02:17,497 --> 00:02:24,167
+Akiramete kureru nara
+
+41
+00:02:17,497 --> 00:02:24,167
+If you would give up…
+
+42
+00:05:48,457 --> 00:05:49,957
+Please input your name...
+
+43
+00:05:48,457 --> 00:05:49,957
+Please input your name...
+
+44
+00:05:48,457 --> 00:05:49,957
+m -29 8 l -29 -5 l 24 -5 l 24 8
+
+45
+00:05:54,207 --> 00:05:56,167
+Birthday
+
+46
+00:05:54,207 --> 00:05:56,167
+Birthday
+
+47
+00:05:54,207 --> 00:05:56,167
+29/2
+
+48
+00:05:54,207 --> 00:05:56,167
+29/2
+
+49
+00:05:54,207 --> 00:05:56,167
+HONJOU     NIA
+
+50
+00:05:54,207 --> 00:05:56,167
+HONJOU     NIA
+
+51
+00:05:54,207 --> 00:05:56,167
+BACK
+
+52
+00:05:54,207 --> 00:05:56,167
+START
+
+53
+00:05:54,707 --> 00:05:56,167
+START
+
+54
+00:06:30,497 --> 00:06:32,127
+Enter your date plans
+
+55
+00:06:30,497 --> 00:06:32,127
+Enter your date plans
+
+56
+00:06:30,497 --> 00:06:32,127
+m -29 8 l -29 -5 l 24 -5 l 24 8
+
+57
+00:06:35,377 --> 00:06:38,877
+Enter your date plans
+
+58
+00:06:35,377 --> 00:06:38,877
+Enter your date plans
+
+59
+00:06:35,377 --> 00:06:38,877
+m -29 8 l -29 -5 l 24 -5 l 24 8
+
+60
+00:06:35,377 --> 00:06:38,877
+I wanna buy doujinshi in Akiba
+
+61
+00:06:35,377 --> 00:06:38,877
+I wanna buy doujinshi in Akiba
+
+62
+00:06:35,377 --> 00:06:38,877
+m -29 8 l -29 -5 l 24 -5 l 24 8
+
+63
+00:07:57,957 --> 00:08:04,337
+Yatogami Tohka
+
+64
+00:08:09,217 --> 00:08:19,227
+Itsuka Kotori
+
+65
+00:09:01,777 --> 00:09:07,157
+Yamai Yuzuru
+
+66
+00:12:02,017 --> 00:12:04,997
+Nii-sama Fansubs
+
+67
+00:12:05,017 --> 00:12:07,997
+Nii-sama Fansubs
+
+68
+00:21:23,467 --> 00:21:25,977
+H-Hey, Natsumi?
+
+69
+00:21:38,487 --> 00:21:40,737
+Dummies...
+
+70
+00:21:38,487 --> 00:21:40,737
+W-Waaah
+
+71
+00:21:38,487 --> 00:21:40,737
+H-Hey, Natsumi?
+
+72
+00:21:49,247 --> 00:21:55,007
+Episode 02
+
+73
+00:21:49,247 --> 00:21:55,007
+Episode 02
+
+74
+00:21:49,247 --> 00:21:55,007
+So Be It! 2D It is
+
+75
+00:21:49,247 --> 00:21:55,007
+So Be It! 2D It is
+
+76
+00:21:49,247 --> 00:21:55,007
+Nii-sama Fansubs
+
+77
+00:21:55,507 --> 00:21:59,717
+It was something nice and sweet
+
+78
+00:21:55,507 --> 00:21:59,717
+It was something nice and sweet
+
+79
+00:21:59,717 --> 00:22:03,847
+’til I see the real
+
+80
+00:21:59,717 --> 00:22:03,847
+’til I see the real
+
+81
+00:22:03,847 --> 00:22:08,347
+It’s been always something cruel
+
+82
+00:22:03,847 --> 00:22:08,347
+It’s been always something cruel
+
+83
+00:22:08,347 --> 00:22:12,317
+dark and sore
+
+84
+00:22:08,347 --> 00:22:12,317
+dark and sore
+
+85
+00:22:12,317 --> 00:22:20,987
+近付くたび　煌めくたび　この胸　押し寄せる
+
+86
+00:22:12,317 --> 00:22:20,987
+Chikazuku tabi kirameku tabi kono mune oshiyoseru
+
+87
+00:22:12,317 --> 00:22:20,987
+Every time you get close, every time it glistens, it weighs upon this chest.
+
+88
+00:22:20,987 --> 00:22:29,997
+嬉しいでも苦しい　ここから先は　無理に近付かないで
+
+89
+00:22:20,987 --> 00:22:29,997
+Ureshii demo kurushii koko kara saki wa muri ni chikazukanaide
+
+90
+00:22:20,987 --> 00:22:29,997
+I’m happy but it’s painful. Don’t force your way any closer than this
+
+91
+00:22:29,997 --> 00:22:34,167
+<i>やさしい声で</i>
+
+92
+00:22:29,997 --> 00:22:34,167
+<i>yasashii koe de</i>
+
+93
+00:22:29,997 --> 00:22:34,167
+In a gentle voice
+
+94
+00:22:34,167 --> 00:22:38,377
+ただこのままでいたいだけ
+
+95
+00:22:34,167 --> 00:22:38,377
+Tada kono mama de itai dake
+
+96
+00:22:34,167 --> 00:22:38,377
+Even though all I want is to stay
+
+97
+00:22:38,377 --> 00:22:42,547
+<i>揺さぶらないで</i>
+
+98
+00:22:38,377 --> 00:22:42,547
+<i>yusaburanaide</i>
+
+99
+00:22:38,377 --> 00:22:42,547
+don’t shake me up
+
+100
+00:22:42,547 --> 00:22:45,767
+なのに
+
+101
+00:22:42,547 --> 00:22:45,767
+na no ni
+
+102
+00:22:42,547 --> 00:22:45,767
+like this
+
+103
+00:22:45,767 --> 00:22:50,687
+誰も崩せない
+
+104
+00:22:45,767 --> 00:22:50,687
+Daremo kuzusenai
+
+105
+00:22:45,767 --> 00:22:50,687
+Unbreakable by anyone,
+
+106
+00:22:50,687 --> 00:22:54,817
+築き上げた防壁-バリケード-
+
+107
+00:22:50,687 --> 00:22:54,817
+kizukiageta barikeedo
+
+108
+00:22:50,687 --> 00:22:54,817
+a built-up barricade
+
+109
+00:22:54,817 --> 00:23:05,657
+固く閉ざしてたはずだったのにどうして
+
+110
+00:22:54,817 --> 00:23:05,657
+Kataku tozashiteta hazu datta no ni doushite
+
+111
+00:22:54,817 --> 00:23:05,657
+It should have been firmly closed so why…
+
+112
+00:23:07,657 --> 00:23:21,217
+Do you hear weary heart’s S.O.S？
+
+113
+00:23:07,657 --> 00:23:21,217
+Do you hear weary heart’s S.O.S?
+
+114
+00:23:21,217 --> 00:23:23,217
+
+
+115
+00:23:35,857 --> 00:23:40,027
+Episode 2                   'What's Yours Is Mine.'
+
+116
+00:23:35,857 --> 00:23:40,027
+Episode 2                   'What's Yours Is Mine.'
+
+117
+00:23:41,657 --> 00:23:43,617
+
+
