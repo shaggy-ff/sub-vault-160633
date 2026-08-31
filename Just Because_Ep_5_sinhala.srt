@@ -1,0 +1,4563 @@
+1
+00:00:00,000 --> 00:00:00,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+2
+00:00:00,000 --> 00:00:00,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+3
+00:00:00,020 --> 00:00:00,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+4
+00:00:00,060 --> 00:00:00,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+5
+00:00:00,100 --> 00:00:00,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+6
+00:00:00,100 --> 00:00:00,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+7
+00:00:00,150 --> 00:00:00,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+8
+00:00:00,150 --> 00:00:00,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+9
+00:00:00,190 --> 00:00:00,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+10
+00:00:00,190 --> 00:00:00,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+11
+00:00:00,230 --> 00:00:00,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+12
+00:00:00,230 --> 00:00:00,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+13
+00:00:00,270 --> 00:00:00,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+14
+00:00:00,270 --> 00:00:00,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+15
+00:00:00,310 --> 00:00:00,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+16
+00:00:00,310 --> 00:00:00,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+17
+00:00:00,360 --> 00:00:00,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+18
+00:00:00,360 --> 00:00:00,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+19
+00:00:00,400 --> 00:00:00,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+20
+00:00:00,400 --> 00:00:00,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+21
+00:00:00,440 --> 00:00:00,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+22
+00:00:00,440 --> 00:00:00,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+23
+00:00:00,480 --> 00:00:00,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+24
+00:00:00,480 --> 00:00:00,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+25
+00:00:00,520 --> 00:00:00,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+26
+00:00:00,520 --> 00:00:00,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+27
+00:00:00,560 --> 00:00:00,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+28
+00:00:00,560 --> 00:00:00,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+29
+00:00:00,610 --> 00:00:00,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+30
+00:00:00,610 --> 00:00:00,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+31
+00:00:00,650 --> 00:00:00,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+32
+00:00:00,650 --> 00:00:00,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+33
+00:00:00,690 --> 00:00:00,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+34
+00:00:00,690 --> 00:00:00,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+35
+00:00:00,730 --> 00:00:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+36
+00:00:00,730 --> 00:00:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+37
+00:00:00,770 --> 00:00:00,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+38
+00:00:00,770 --> 00:00:00,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+39
+00:00:00,810 --> 00:00:00,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+40
+00:00:00,810 --> 00:00:00,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+41
+00:00:00,860 --> 00:00:00,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+42
+00:00:00,860 --> 00:00:00,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+43
+00:00:00,900 --> 00:00:00,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+44
+00:00:00,900 --> 00:00:00,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+45
+00:00:00,940 --> 00:00:00,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+46
+00:00:00,940 --> 00:00:00,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+47
+00:00:00,980 --> 00:00:01,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+48
+00:00:00,980 --> 00:00:01,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+49
+00:00:01,020 --> 00:00:01,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+50
+00:00:01,020 --> 00:00:01,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+51
+00:00:01,060 --> 00:00:01,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+52
+00:00:01,060 --> 00:00:01,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+53
+00:00:01,110 --> 00:00:01,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+54
+00:00:01,110 --> 00:00:01,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+55
+00:00:01,150 --> 00:00:01,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+56
+00:00:01,150 --> 00:00:01,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+57
+00:00:01,190 --> 00:00:01,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+58
+00:00:01,190 --> 00:00:01,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+59
+00:00:01,230 --> 00:00:01,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+60
+00:00:01,230 --> 00:00:01,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+61
+00:00:01,270 --> 00:00:01,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+62
+00:00:01,270 --> 00:00:01,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+63
+00:00:01,310 --> 00:00:01,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+64
+00:00:01,310 --> 00:00:01,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+65
+00:00:01,360 --> 00:00:01,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+66
+00:00:01,360 --> 00:00:01,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+67
+00:00:01,400 --> 00:00:01,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+68
+00:00:01,400 --> 00:00:01,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+69
+00:00:01,440 --> 00:00:01,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+70
+00:00:01,440 --> 00:00:01,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+71
+00:00:01,480 --> 00:00:01,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+72
+00:00:01,480 --> 00:00:01,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+73
+00:00:01,520 --> 00:00:01,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+74
+00:00:01,520 --> 00:00:01,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+75
+00:00:01,560 --> 00:00:01,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+76
+00:00:01,560 --> 00:00:01,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+77
+00:00:01,610 --> 00:00:01,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+78
+00:00:01,610 --> 00:00:01,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+79
+00:00:01,650 --> 00:00:01,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+80
+00:00:01,650 --> 00:00:01,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+81
+00:00:01,690 --> 00:00:01,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+82
+00:00:01,690 --> 00:00:01,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+83
+00:00:01,730 --> 00:00:01,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+84
+00:00:01,730 --> 00:00:01,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+85
+00:00:01,770 --> 00:00:01,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+86
+00:00:01,770 --> 00:00:01,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+87
+00:00:01,810 --> 00:00:01,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+88
+00:00:01,810 --> 00:00:01,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+89
+00:00:01,860 --> 00:00:01,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+90
+00:00:01,860 --> 00:00:01,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+91
+00:00:01,900 --> 00:00:01,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+92
+00:00:01,900 --> 00:00:01,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+93
+00:00:01,940 --> 00:00:01,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+94
+00:00:01,940 --> 00:00:01,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+95
+00:00:01,980 --> 00:00:02,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+96
+00:00:01,980 --> 00:00:02,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+97
+00:00:02,020 --> 00:00:02,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+98
+00:00:02,020 --> 00:00:02,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+99
+00:00:02,070 --> 00:00:02,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+100
+00:00:02,070 --> 00:00:02,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+101
+00:00:02,110 --> 00:00:02,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+102
+00:00:02,110 --> 00:00:02,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+103
+00:00:02,150 --> 00:00:02,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+104
+00:00:02,150 --> 00:00:02,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+105
+00:00:02,190 --> 00:00:02,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+106
+00:00:02,190 --> 00:00:02,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+107
+00:00:02,230 --> 00:00:02,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+108
+00:00:02,230 --> 00:00:02,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+109
+00:00:02,270 --> 00:00:02,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+110
+00:00:02,270 --> 00:00:02,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+111
+00:00:02,320 --> 00:00:02,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+112
+00:00:02,320 --> 00:00:02,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+113
+00:00:02,360 --> 00:00:02,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+114
+00:00:02,360 --> 00:00:02,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+115
+00:00:02,400 --> 00:00:02,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+116
+00:00:02,400 --> 00:00:02,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+117
+00:00:02,440 --> 00:00:02,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+118
+00:00:02,440 --> 00:00:02,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+119
+00:00:02,480 --> 00:00:02,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+120
+00:00:02,480 --> 00:00:02,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+121
+00:00:02,520 --> 00:00:02,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+122
+00:00:02,520 --> 00:00:02,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+123
+00:00:02,570 --> 00:00:02,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+124
+00:00:02,570 --> 00:00:02,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+125
+00:00:02,610 --> 00:00:02,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+126
+00:00:02,610 --> 00:00:02,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+127
+00:00:02,650 --> 00:00:02,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+128
+00:00:02,650 --> 00:00:02,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+129
+00:00:02,690 --> 00:00:02,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+130
+00:00:02,690 --> 00:00:02,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+131
+00:00:02,730 --> 00:00:02,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+132
+00:00:02,730 --> 00:00:02,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+133
+00:00:02,770 --> 00:00:02,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+134
+00:00:02,770 --> 00:00:02,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+135
+00:00:02,820 --> 00:00:02,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+136
+00:00:02,820 --> 00:00:02,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+137
+00:00:02,900 --> 00:00:03,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+138
+00:00:07,890 --> 00:00:09,750
+අද ඉස්කෝලේ පටන් ගන්නවා නේද?
+
+139
+00:00:11,930 --> 00:00:15,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+140
+00:00:15,620 --> 00:00:16,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+141
+00:00:18,960 --> 00:00:21,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+142
+00:00:22,630 --> 00:00:25,020
+ඔබේ පළමු පාසල් දිනය සඳහා ඔබ ප්‍රමාද වනු ඇත!
+
+143
+00:00:25,020 --> 00:00:27,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+144
+00:00:28,990 --> 00:00:30,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+145
+00:00:39,910 --> 00:00:42,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+146
+00:00:44,110 --> 00:00:44,320
+දක්වා
+
+147
+00:00:44,110 --> 00:00:45,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+148
+00:00:44,110 --> 00:00:45,530
+නැත
+
+149
+00:00:44,110 --> 00:00:45,690
+දක්වා
+
+150
+00:00:44,110 --> 00:00:46,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+151
+00:00:44,110 --> 00:00:46,480
+තුළ
+
+152
+00:00:44,110 --> 00:00:46,860
+tsu
+
+153
+00:00:44,110 --> 00:00:47,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+154
+00:00:44,110 --> 00:00:47,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+155
+00:00:44,110 --> 00:00:47,900
+yo
+
+156
+00:00:44,110 --> 00:00:48,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+157
+00:00:44,110 --> 00:00:48,360
+රා
+
+158
+00:00:44,110 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+159
+00:00:44,320 --> 00:00:50,780
+දක්වා
+
+160
+00:00:45,150 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+161
+00:00:45,530 --> 00:00:50,780
+නැත
+
+162
+00:00:45,690 --> 00:00:50,780
+දක්වා
+
+163
+00:00:46,110 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+164
+00:00:46,480 --> 00:00:50,780
+තුළ
+
+165
+00:00:46,860 --> 00:00:50,780
+tsu
+
+166
+00:00:47,150 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+167
+00:00:47,570 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+168
+00:00:47,900 --> 00:00:50,780
+yo
+
+169
+00:00:48,190 --> 00:00:50,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+170
+00:00:48,360 --> 00:00:50,780
+රා
+
+171
+00:00:54,370 --> 00:00:58,410
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+172
+00:00:59,620 --> 00:01:03,580
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+173
+00:01:05,340 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+174
+00:01:05,340 --> 00:01:05,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+175
+00:01:05,340 --> 00:01:06,250
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+176
+00:01:05,340 --> 00:01:06,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+177
+00:01:05,340 --> 00:01:06,800
+තුළ
+
+178
+00:01:05,340 --> 00:01:06,960
+වේ
+
+179
+00:01:05,340 --> 00:01:07,420
+හි
+
+180
+00:01:05,340 --> 00:01:07,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+181
+00:01:05,340 --> 00:01:08,090
+මුහුණ දෙයි
+
+182
+00:01:05,340 --> 00:01:08,380
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+183
+00:01:05,340 --> 00:01:08,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+184
+00:01:05,340 --> 00:01:08,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+185
+00:01:05,340 --> 00:01:09,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+186
+00:01:05,340 --> 00:01:09,380
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+187
+00:01:05,340 --> 00:01:09,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+188
+00:01:05,340 --> 00:01:09,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+189
+00:01:05,550 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+190
+00:01:06,250 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+191
+00:01:06,590 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+192
+00:01:06,800 --> 00:01:10,680
+තුළ
+
+193
+00:01:06,960 --> 00:01:10,680
+වේ
+
+194
+00:01:07,420 --> 00:01:10,680
+හි
+
+195
+00:01:07,880 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+196
+00:01:08,090 --> 00:01:10,680
+මුහුණ දෙයි
+
+197
+00:01:08,380 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+198
+00:01:08,720 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+199
+00:01:08,880 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+200
+00:01:09,090 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+201
+00:01:09,380 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+202
+00:01:09,720 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+203
+00:01:09,880 --> 00:01:10,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+204
+00:01:10,680 --> 00:01:16,010
+මම "ස්තූතියි" කියන හැම වෙලාවකම රතු වෙනවා.
+
+205
+00:01:10,680 --> 00:01:11,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+206
+00:01:10,680 --> 00:01:11,180
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+207
+00:01:10,680 --> 00:01:11,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+208
+00:01:10,680 --> 00:01:11,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+209
+00:01:10,680 --> 00:01:12,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+210
+00:01:10,680 --> 00:01:12,470
+මුහුණ දෙයි
+
+211
+00:01:10,680 --> 00:01:12,680
+ද්වි
+
+212
+00:01:10,680 --> 00:01:13,010
+තුළ
+
+213
+00:01:10,680 --> 00:01:13,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+214
+00:01:10,680 --> 00:01:14,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+215
+00:01:10,680 --> 00:01:14,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+216
+00:01:10,680 --> 00:01:15,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+217
+00:01:10,680 --> 00:01:15,260
+මුහුණ දෙයි
+
+218
+00:01:11,010 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+219
+00:01:11,180 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+220
+00:01:11,340 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+221
+00:01:11,680 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+222
+00:01:12,090 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+223
+00:01:12,470 --> 00:01:16,010
+මුහුණ දෙයි
+
+224
+00:01:12,680 --> 00:01:16,010
+ද්වි
+
+225
+00:01:13,010 --> 00:01:16,010
+තුළ
+
+226
+00:01:13,470 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+227
+00:01:14,100 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+228
+00:01:14,970 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+229
+00:01:15,100 --> 00:01:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+230
+00:01:15,260 --> 00:01:16,010
+මුහුණ දෙයි
+
+231
+00:01:15,970 --> 00:01:16,010
+fu
+
+232
+00:01:16,010 --> 00:01:20,890
+අපි එක්ව රහස් වාක්‍ය ඛණ්ඩයක් තීරණය කළෙමු.
+
+233
+00:01:16,010 --> 00:01:16,720
+fu
+
+234
+00:01:16,010 --> 00:01:16,720
+මුහුණ දෙයි
+
+235
+00:01:16,010 --> 00:01:17,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+236
+00:01:16,010 --> 00:01:17,270
+හි
+
+237
+00:01:16,010 --> 00:01:17,600
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+238
+00:01:16,010 --> 00:01:18,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+239
+00:01:16,010 --> 00:01:18,520
+මුහුණ දෙයි
+
+240
+00:01:16,010 --> 00:01:18,850
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+241
+00:01:16,010 --> 00:01:19,180
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+242
+00:01:16,010 --> 00:01:19,350
+tsu
+
+243
+00:01:16,010 --> 00:01:19,680
+නැත
+
+244
+00:01:16,010 --> 00:01:20,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+245
+00:01:16,720 --> 00:01:20,890
+fu
+
+246
+00:01:16,720 --> 00:01:20,890
+මුහුණ දෙයි
+
+247
+00:01:17,060 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+248
+00:01:17,270 --> 00:01:20,890
+හි
+
+249
+00:01:17,600 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+250
+00:01:18,060 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+251
+00:01:18,520 --> 00:01:20,890
+මුහුණ දෙයි
+
+252
+00:01:18,850 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+253
+00:01:19,180 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+254
+00:01:19,350 --> 00:01:20,890
+tsu
+
+255
+00:01:19,680 --> 00:01:20,890
+නැත
+
+256
+00:01:20,310 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+257
+00:01:20,850 --> 00:01:20,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+258
+00:01:20,890 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+259
+00:01:20,890 --> 00:01:21,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+260
+00:01:20,890 --> 00:01:21,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+261
+00:01:20,890 --> 00:01:21,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+262
+00:01:20,890 --> 00:01:21,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+263
+00:01:20,890 --> 00:01:22,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+264
+00:01:20,890 --> 00:01:22,690
+දක්වා
+
+265
+00:01:20,890 --> 00:01:22,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+266
+00:01:20,890 --> 00:01:23,190
+වේ
+
+267
+00:01:20,890 --> 00:01:23,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+268
+00:01:20,890 --> 00:01:23,980
+හි
+
+269
+00:01:20,890 --> 00:01:24,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+270
+00:01:20,890 --> 00:01:24,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+271
+00:01:20,890 --> 00:01:24,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+272
+00:01:20,890 --> 00:01:24,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+273
+00:01:21,480 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+274
+00:01:21,480 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+275
+00:01:21,690 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+276
+00:01:21,810 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+277
+00:01:22,230 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+278
+00:01:22,690 --> 00:01:26,270
+දක්වා
+
+279
+00:01:22,980 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+280
+00:01:23,190 --> 00:01:26,270
+වේ
+
+281
+00:01:23,480 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+282
+00:01:23,980 --> 00:01:26,270
+හි
+
+283
+00:01:24,110 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+284
+00:01:24,310 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+285
+00:01:24,400 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+286
+00:01:24,860 --> 00:01:26,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+287
+00:01:26,270 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+288
+00:01:26,270 --> 00:01:26,900
+මුහුණ දෙයි
+
+289
+00:01:26,270 --> 00:01:27,190
+රා
+
+290
+00:01:26,270 --> 00:01:27,360
+shii
+
+291
+00:01:26,270 --> 00:01:27,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+292
+00:01:26,270 --> 00:01:27,900
+ද්වි
+
+293
+00:01:26,270 --> 00:01:28,110
+තුළ
+
+294
+00:01:26,270 --> 00:01:28,400
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+295
+00:01:26,270 --> 00:01:28,740
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+296
+00:01:26,270 --> 00:01:28,990
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+297
+00:01:26,270 --> 00:01:29,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+298
+00:01:26,270 --> 00:01:29,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+299
+00:01:26,900 --> 00:01:31,490
+මුහුණ දෙයි
+
+300
+00:01:27,190 --> 00:01:31,490
+රා
+
+301
+00:01:27,360 --> 00:01:31,490
+shii
+
+302
+00:01:27,690 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+303
+00:01:27,900 --> 00:01:31,490
+ද්වි
+
+304
+00:01:28,110 --> 00:01:31,490
+තුළ
+
+305
+00:01:28,400 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+306
+00:01:28,740 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+307
+00:01:28,990 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+308
+00:01:29,320 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+309
+00:01:29,530 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+310
+00:01:31,450 --> 00:01:31,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+311
+00:01:31,490 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+312
+00:01:31,490 --> 00:01:32,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+313
+00:01:31,490 --> 00:01:32,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+314
+00:01:31,490 --> 00:01:32,660
+මුහුණ දෙයි
+
+315
+00:01:31,490 --> 00:01:32,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+316
+00:01:31,490 --> 00:01:33,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+317
+00:01:31,490 --> 00:01:33,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+318
+00:01:31,490 --> 00:01:33,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+319
+00:01:31,490 --> 00:01:33,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+320
+00:01:31,490 --> 00:01:34,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+321
+00:01:31,490 --> 00:01:34,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+322
+00:01:32,160 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+323
+00:01:32,160 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+324
+00:01:32,660 --> 00:01:35,870
+මුහුණ දෙයි
+
+325
+00:01:32,740 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+326
+00:01:33,160 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+327
+00:01:33,280 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+328
+00:01:33,610 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+329
+00:01:33,950 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+330
+00:01:34,280 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+331
+00:01:34,620 --> 00:01:35,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+332
+00:01:35,870 --> 00:01:38,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+333
+00:01:35,870 --> 00:01:36,740
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+334
+00:01:35,870 --> 00:01:37,120
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+335
+00:01:35,870 --> 00:01:37,540
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+336
+00:01:36,740 --> 00:01:38,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+337
+00:01:37,120 --> 00:01:38,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+338
+00:01:37,540 --> 00:01:38,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+339
+00:01:38,950 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+340
+00:01:38,950 --> 00:01:39,200
+yo
+
+341
+00:01:38,950 --> 00:01:39,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+342
+00:01:38,950 --> 00:01:39,370
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+343
+00:01:38,950 --> 00:01:39,450
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+344
+00:01:38,950 --> 00:01:39,700
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+345
+00:01:38,950 --> 00:01:40,040
+හි
+
+346
+00:01:38,950 --> 00:01:41,580
+දක්වා
+
+347
+00:01:38,950 --> 00:01:41,660
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+348
+00:01:38,950 --> 00:01:42,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+349
+00:01:38,950 --> 00:01:42,290
+සහ
+
+350
+00:01:38,950 --> 00:01:42,540
+rou
+
+351
+00:01:39,200 --> 00:01:44,500
+yo
+
+352
+00:01:39,200 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+353
+00:01:39,370 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+354
+00:01:39,450 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+355
+00:01:39,700 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+356
+00:01:40,040 --> 00:01:44,500
+හි
+
+357
+00:01:41,580 --> 00:01:44,500
+දක්වා
+
+358
+00:01:41,660 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+359
+00:01:42,000 --> 00:01:44,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+360
+00:01:42,290 --> 00:01:44,500
+සහ
+
+361
+00:01:42,540 --> 00:01:44,500
+rou
+
+362
+00:01:44,710 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+363
+00:01:44,710 --> 00:01:44,920
+දක්වා
+
+364
+00:01:44,710 --> 00:01:45,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+365
+00:01:44,710 --> 00:01:45,920
+නැත
+
+366
+00:01:44,710 --> 00:01:46,090
+දක්වා
+
+367
+00:01:44,710 --> 00:01:46,420
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+368
+00:01:44,710 --> 00:01:46,750
+තුළ
+
+369
+00:01:44,710 --> 00:01:47,170
+tsu
+
+370
+00:01:44,710 --> 00:01:47,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+371
+00:01:44,710 --> 00:01:47,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+372
+00:01:44,710 --> 00:01:48,130
+yo
+
+373
+00:01:44,710 --> 00:01:48,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+374
+00:01:44,710 --> 00:01:48,670
+රා
+
+375
+00:01:44,920 --> 00:01:50,170
+දක්වා
+
+376
+00:01:45,590 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+377
+00:01:45,920 --> 00:01:50,170
+නැත
+
+378
+00:01:46,090 --> 00:01:50,170
+දක්වා
+
+379
+00:01:46,420 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+380
+00:01:46,750 --> 00:01:50,170
+තුළ
+
+381
+00:01:47,170 --> 00:01:50,170
+tsu
+
+382
+00:01:47,590 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+383
+00:01:47,750 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+384
+00:01:48,130 --> 00:01:50,170
+yo
+
+385
+00:01:48,500 --> 00:01:50,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+386
+00:01:48,670 --> 00:01:50,170
+රා
+
+387
+00:01:50,170 --> 00:01:55,350
+ඔබේ දිගු කොණ්ඩය ඔබේ කම්මුල් නොපෙනී යයි,
+
+388
+00:01:50,170 --> 00:01:50,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+389
+00:01:50,170 --> 00:01:50,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+390
+00:01:50,170 --> 00:01:51,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+391
+00:01:50,170 --> 00:01:51,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+392
+00:01:50,170 --> 00:01:51,670
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+393
+00:01:50,170 --> 00:01:51,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+394
+00:01:50,170 --> 00:01:53,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+395
+00:01:50,170 --> 00:01:53,430
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+396
+00:01:50,170 --> 00:01:54,010
+වේ
+
+397
+00:01:50,170 --> 00:01:54,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+398
+00:01:50,170 --> 00:01:55,090
+රා
+
+399
+00:01:50,550 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+400
+00:01:50,550 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+401
+00:01:51,170 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+402
+00:01:51,340 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+403
+00:01:51,670 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+404
+00:01:51,970 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+405
+00:01:53,090 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+406
+00:01:53,430 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+407
+00:01:54,010 --> 00:01:55,350
+වේ
+
+408
+00:01:54,760 --> 00:01:55,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+409
+00:01:55,090 --> 00:01:55,350
+රා
+
+410
+00:01:55,350 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+411
+00:01:55,350 --> 00:01:55,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+412
+00:01:55,350 --> 00:01:56,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+413
+00:01:55,350 --> 00:01:56,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+414
+00:01:55,350 --> 00:01:56,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+415
+00:01:55,350 --> 00:01:57,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+416
+00:01:55,350 --> 00:01:58,010
+හි
+
+417
+00:01:55,350 --> 00:01:58,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+418
+00:01:55,350 --> 00:01:59,270
+සහ
+
+419
+00:01:55,760 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+420
+00:01:56,100 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+421
+00:01:56,390 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+422
+00:01:56,800 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+423
+00:01:57,220 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+424
+00:01:58,010 --> 00:02:00,770
+හි
+
+425
+00:01:58,350 --> 00:02:00,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+426
+00:01:59,270 --> 00:02:00,770
+සහ
+
+427
+00:02:00,770 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+428
+00:02:00,770 --> 00:02:01,020
+දක්වා
+
+429
+00:02:00,770 --> 00:02:01,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+430
+00:02:00,770 --> 00:02:01,480
+සහ
+
+431
+00:02:00,770 --> 00:02:01,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+432
+00:02:00,770 --> 00:02:01,810
+yo
+
+433
+00:02:00,770 --> 00:02:02,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+434
+00:02:00,770 --> 00:02:02,310
+fu
+
+435
+00:02:00,770 --> 00:02:02,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+436
+00:02:00,770 --> 00:02:02,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+437
+00:02:00,770 --> 00:02:03,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+438
+00:02:00,770 --> 00:02:03,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+439
+00:02:00,770 --> 00:02:05,230
+මුහුණ දෙයි
+
+440
+00:02:00,770 --> 00:02:05,900
+නැත
+
+441
+00:02:00,770 --> 00:02:06,560
+තුළ
+
+442
+00:02:01,020 --> 00:02:08,650
+දක්වා
+
+443
+00:02:01,020 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+444
+00:02:01,480 --> 00:02:08,650
+සහ
+
+445
+00:02:01,640 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+446
+00:02:01,810 --> 00:02:08,650
+yo
+
+447
+00:02:02,140 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+448
+00:02:02,310 --> 00:02:08,650
+fu
+
+449
+00:02:02,480 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+450
+00:02:02,810 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+451
+00:02:03,230 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+452
+00:02:03,980 --> 00:02:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+453
+00:02:05,230 --> 00:02:08,650
+මුහුණ දෙයි
+
+454
+00:02:05,900 --> 00:02:08,650
+නැත
+
+455
+00:02:06,560 --> 00:02:08,650
+තුළ
+
+456
+00:02:08,650 --> 00:02:12,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+457
+00:02:08,650 --> 00:02:08,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+458
+00:02:08,650 --> 00:02:08,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+459
+00:02:08,650 --> 00:02:09,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+460
+00:02:08,650 --> 00:02:09,360
+නැත
+
+461
+00:02:08,650 --> 00:02:09,440
+සමඟ
+
+462
+00:02:08,650 --> 00:02:09,650
+දක්වා
+
+463
+00:02:08,650 --> 00:02:09,860
+නැත
+
+464
+00:02:08,650 --> 00:02:09,980
+දක්වා
+
+465
+00:02:08,650 --> 00:02:10,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+466
+00:02:08,650 --> 00:02:10,320
+හි
+
+467
+00:02:08,650 --> 00:02:11,530
+නයි
+
+468
+00:02:08,860 --> 00:02:12,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+469
+00:02:08,860 --> 00:02:12,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+470
+00:02:09,070 --> 00:02:12,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+471
+00:02:09,360 --> 00:02:12,900
+නැත
+
+472
+00:02:09,440 --> 00:02:12,900
+සමඟ
+
+473
+00:02:09,650 --> 00:02:12,900
+දක්වා
+
+474
+00:02:09,860 --> 00:02:12,900
+නැත
+
+475
+00:02:09,980 --> 00:02:12,900
+දක්වා
+
+476
+00:02:10,150 --> 00:02:12,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+477
+00:02:10,320 --> 00:02:12,900
+හි
+
+478
+00:02:11,530 --> 00:02:12,900
+නයි
+
+479
+00:02:14,490 --> 00:02:16,240
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+480
+00:02:15,410 --> 00:02:16,240
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+481
+00:02:16,240 --> 00:02:18,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+482
+00:02:21,620 --> 00:02:22,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+483
+00:02:22,870 --> 00:02:24,580
+ඒ නිල ඇඳුම මොන පාසලෙන්ද?
+
+484
+00:02:24,580 --> 00:02:26,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+485
+00:02:31,880 --> 00:02:35,760
+හොඳයි, මම හිතන්නේ මමත් බොහෝ දුර ගියා ...
+
+486
+00:02:35,760 --> 00:02:36,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+487
+00:02:37,300 --> 00:02:38,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+488
+00:02:38,510 --> 00:02:41,140
+උදෑසන! සුභ නව වසරක්! හොඳ එකක් ගමු!
+
+489
+00:02:41,140 --> 00:02:44,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+490
+00:02:47,150 --> 00:02:49,320
+කුමක් ද? ඔබ සෝමාට සහ ඔහුට කැමතිද?
+
+491
+00:02:49,320 --> 00:02:50,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+492
+00:02:50,860 --> 00:02:53,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+493
+00:02:53,440 --> 00:02:54,780
+ඔබට කුමක් ද?
+
+494
+00:02:54,780 --> 00:02:56,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+495
+00:02:57,280 --> 00:02:59,080
+ඔහ්! සෞඛ්ය සම්පන්න!
+
+496
+00:03:05,460 --> 00:03:08,460
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+497
+00:03:08,460 --> 00:03:09,750
+ඔයා ගොඩක් කොර වෙලා!
+
+498
+00:03:09,750 --> 00:03:10,710
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+499
+00:03:10,710 --> 00:03:11,960
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+500
+00:03:11,960 --> 00:03:14,050
+අපරාදේ! මම ඔබට ඊළඟ එක සමඟ පෙන්වන්නම්!
+
+501
+00:03:14,630 --> 00:03:15,760
+ඔහ්, හසුකි!
+
+502
+00:03:16,430 --> 00:03:17,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+503
+00:03:17,390 --> 00:03:18,930
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+504
+00:03:18,930 --> 00:03:19,680
+අපි ඇතුලට යමු.
+
+505
+00:03:19,680 --> 00:03:22,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+506
+00:03:22,270 --> 00:03:24,520
+මම කිව්වා ඒක පේනවා කියලා. හරිද?
+
+507
+00:03:24,520 --> 00:03:26,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+508
+00:03:26,810 --> 00:03:31,400
+ඔබේ සියලු වාසනාව මෙතැනින් භාවිතා කරන්න, යාලුවනේ!
+ මම එය මගේ ප්‍රවේශ විභාගය සඳහා තබා ගන්නම්.
+
+509
+00:03:31,400 --> 00:03:33,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+510
+00:03:33,320 --> 00:03:34,940
+මට ප්‍රවේශ විභාග කිසිවක් නැත.
+
+511
+00:03:34,940 --> 00:03:38,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+512
+00:03:35,530 --> 00:03:38,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+513
+00:03:38,130 --> 00:03:39,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+514
+00:03:39,280 --> 00:03:41,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+515
+00:03:41,280 --> 00:03:44,080
+ඒක ඇත්ත ඒත්...
+
+516
+00:03:46,460 --> 00:03:47,580
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+517
+00:03:51,000 --> 00:03:52,250
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+518
+00:03:52,040 --> 00:03:56,550
+සුභ අලුත් අවුරුද්දක් වේවා, හැමෝටම! අපි 
+උපාධිය අවසන් වන තුරුම හඹා යමු. දැන්, වාඩි වෙන්න.
+
+519
+00:03:56,550 --> 00:03:59,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+520
+00:03:59,300 --> 00:04:05,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+521
+00:04:05,140 --> 00:04:08,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+522
+00:04:08,270 --> 00:04:12,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+523
+00:04:12,320 --> 00:04:15,320
+අපි දැනට ඉන්න ආසනවලම හිටියා නම් හොඳයි.
+
+524
+00:04:30,080 --> 00:04:35,710
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+525
+00:04:35,710 --> 00:04:37,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+526
+00:04:37,930 --> 00:04:43,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+527
+00:04:43,260 --> 00:04:46,470
+දකුණු හෝ වම පරීක්ෂණයක් නොමැත...
+
+528
+00:04:44,970 --> 00:04:46,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+529
+00:04:47,020 --> 00:04:49,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+530
+00:04:50,020 --> 00:04:55,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+531
+00:04:56,230 --> 00:04:57,740
+ඔහ්, සෙන්පායි! ආයුබෝවන්!
+
+532
+00:04:57,740 --> 00:04:58,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+533
+00:04:59,320 --> 00:05:00,990
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+534
+00:05:00,990 --> 00:05:01,990
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+535
+00:05:01,990 --> 00:05:05,660
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+536
+00:05:05,660 --> 00:05:09,660
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+537
+00:05:09,660 --> 00:05:10,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+538
+00:05:10,750 --> 00:05:12,830
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+539
+00:05:12,830 --> 00:05:13,750
+බලන්න.
+
+540
+00:05:13,750 --> 00:05:14,540
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+541
+00:05:14,540 --> 00:05:16,920
+ප්‍රවේශ විභාග ඉතා තීව්‍රයි!
+
+542
+00:05:16,920 --> 00:05:22,040
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+543
+00:05:25,560 --> 00:05:26,930
+ඔබ ඉවරද?
+
+544
+00:05:26,930 --> 00:05:29,480
+ඔව්. ස්තූතියි, මියෝ.
+
+545
+00:05:29,480 --> 00:05:30,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+546
+00:05:30,810 --> 00:05:32,350
+හරි, අපි ගෙදර යමු!
+
+547
+00:05:32,350 --> 00:05:34,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+548
+00:05:34,480 --> 00:05:35,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+549
+00:05:37,320 --> 00:05:38,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+550
+00:05:38,230 --> 00:05:41,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+551
+00:05:41,360 --> 00:05:43,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+552
+00:05:45,870 --> 00:05:49,120
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+553
+00:05:49,120 --> 00:05:51,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+554
+00:05:51,160 --> 00:05:52,250
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+555
+00:05:52,250 --> 00:05:55,540
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+556
+00:05:55,540 --> 00:05:57,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+557
+00:05:56,000 --> 00:05:57,500
+සාර්ථකත්වය
+
+558
+00:05:56,000 --> 00:05:57,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+559
+00:05:57,500 --> 00:05:58,670
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+560
+00:05:58,670 --> 00:06:01,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+561
+00:06:01,170 --> 00:06:03,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+562
+00:06:04,890 --> 00:06:06,640
+සාර්ථකත්වය
+
+563
+00:06:04,890 --> 00:06:06,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+564
+00:06:04,890 --> 00:06:06,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+565
+00:06:06,120 --> 00:06:08,510
+ඒක කොහෙත්ම හොඳ නෑ...
+
+566
+00:06:08,910 --> 00:06:11,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+567
+00:06:12,690 --> 00:06:14,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+568
+00:06:14,150 --> 00:06:15,150
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+569
+00:06:15,480 --> 00:06:16,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+570
+00:06:16,480 --> 00:06:17,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+571
+00:06:17,980 --> 00:06:19,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+572
+00:06:19,610 --> 00:06:21,320
+මට ඔබ වෙනුවෙන් එකක් නැත, එබැවින් මට කිසිවක් නැත.
+
+573
+00:06:21,320 --> 00:06:23,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+574
+00:06:22,610 --> 00:06:23,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+575
+00:06:23,360 --> 00:06:26,820
+මට ඔබ වෙනුවෙන් එකක් නැත, එබැවින් මට කිසිවක් නැත.
+
+576
+00:06:23,700 --> 00:06:26,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+577
+00:06:24,030 --> 00:06:26,740
+ඔව්, සමාවෙන්න, මම යනවා.
+
+578
+00:06:27,450 --> 00:06:29,120
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+579
+00:06:29,120 --> 00:06:31,370
+කුමක් ද? Slides සමඟ කතා කරනවාද?
+
+580
+00:06:31,370 --> 00:06:34,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+581
+00:06:42,010 --> 00:06:43,590
+හහ්? හහ්?
+
+582
+00:07:00,320 --> 00:07:03,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+583
+00:07:06,320 --> 00:07:08,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+584
+00:07:08,810 --> 00:07:10,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+585
+00:07:10,490 --> 00:07:12,790
+සමහරවිට ඇගේ ආදරය හෝ වෙනත් දෙයක් පාපොච්චාරණය කරන්න.
+
+586
+00:07:12,790 --> 00:07:14,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+587
+00:07:14,000 --> 00:07:15,250
+ඔහ්! නමුත්...
+
+588
+00:07:16,000 --> 00:07:17,240
+සෝමා!
+
+589
+00:07:17,880 --> 00:07:18,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+590
+00:07:18,880 --> 00:07:21,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+591
+00:07:22,250 --> 00:07:22,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+592
+00:07:23,380 --> 00:07:25,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+593
+00:07:30,390 --> 00:07:33,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+594
+00:07:35,530 --> 00:07:38,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+595
+00:07:38,900 --> 00:07:40,060
+"සමාවෙන්න."
+
+596
+00:07:40,770 --> 00:07:41,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+597
+00:07:45,030 --> 00:07:46,530
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+598
+00:08:00,170 --> 00:08:02,000
+ඔබ මා අනුගමනය කළ යුතු නැත.
+
+599
+00:08:02,000 --> 00:08:05,050
+ඔබ තනිව දුටුවහොත් ඔබ කැපී පෙනෙනු ඇත, 
+ඒ ගකුරන් නිල ඇඳුම ඇඳගෙන.
+
+600
+00:08:05,050 --> 00:08:07,380
+ඔබ සමඟ මා දුටුවහොත් මම කැපී පෙනෙනු ඇත.
+
+601
+00:08:07,380 --> 00:08:11,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+602
+00:08:13,550 --> 00:08:15,020
+Natsume-san?
+
+603
+00:08:16,230 --> 00:08:17,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+604
+00:08:18,350 --> 00:08:20,230
+නැහැ, මම නිකම්
+
+605
+00:08:21,610 --> 00:08:22,690
+ඔයා නිකන්...?
+
+606
+00:08:27,110 --> 00:08:28,700
+මම දන්නේ නැහැ...
+
+607
+00:08:33,810 --> 00:08:36,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+608
+00:08:40,540 --> 00:08:43,500
+ශීත සෘතුවේදී යමක් සිදු වූවාද?
+
+609
+00:08:44,750 --> 00:08:45,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+610
+00:09:19,290 --> 00:09:23,290
+අවසන් පන්දුව තෙක්!
+
+611
+00:09:21,580 --> 00:09:23,290
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+612
+00:09:23,290 --> 00:09:24,420
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+613
+00:09:28,460 --> 00:09:31,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+614
+00:09:31,790 --> 00:09:34,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+615
+00:09:34,390 --> 00:09:38,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+616
+00:09:38,770 --> 00:09:40,100
+ඔබ රණ්ඩු වී හෝ යමක් කළාද?
+
+617
+00:09:41,640 --> 00:09:44,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+618
+00:09:50,320 --> 00:09:54,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+619
+00:09:54,870 --> 00:10:01,210
+ඇත්තටම මට ඒ දේවල් ගැන කතා කරන්න ඕන වුණේ නැහැ. 
+ මම හිතන්නේ මම ඔහුට ටිකක් සැර වැඩියි.
+
+620
+00:10:01,540 --> 00:10:03,710
+ඉතින්, දේවල් අවුල්ද?
+
+621
+00:10:03,710 --> 00:10:05,210
+ඒ වගේ දෙයක්.
+
+622
+00:10:07,170 --> 00:10:09,960
+ඉතින්, මම සමාව ඉල්ලන්න හිතුවා, නමුත් ...
+
+623
+00:10:09,960 --> 00:10:13,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+624
+00:10:13,590 --> 00:10:16,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+625
+00:10:16,430 --> 00:10:19,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+626
+00:10:19,890 --> 00:10:22,180
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+627
+00:10:22,180 --> 00:10:24,230
+සියල්ලට පසු සෝමාගේ නැව ද ගිලී ගියේය.
+
+628
+00:10:25,480 --> 00:10:26,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+629
+00:10:28,980 --> 00:10:32,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+630
+00:10:34,410 --> 00:10:37,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+631
+00:10:45,920 --> 00:10:46,920
+මම Home.
+
+632
+00:10:47,540 --> 00:10:49,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+633
+00:10:51,050 --> 00:10:52,050
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+634
+00:10:53,670 --> 00:11:09,980
+අවසන් පන්දුව තෙක්!
+
+635
+00:11:11,280 --> 00:11:14,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+636
+00:11:14,070 --> 00:11:16,780
+ඔව්, ස්තුතියි. බලන්න.
+
+637
+00:11:18,530 --> 00:11:20,330
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+638
+00:11:20,330 --> 00:11:21,330
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+639
+00:11:23,750 --> 00:11:26,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+640
+00:11:31,750 --> 00:11:34,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+641
+00:11:34,880 --> 00:11:37,590
+මම කුණු කූඩයක්, ආච්චි.
+
+642
+00:11:37,590 --> 00:11:40,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+643
+00:11:40,890 --> 00:11:43,370
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+644
+00:11:43,370 --> 00:11:46,140
+Saeki-san ගේ කොල්ලා ඔයාට ආරාධනා කළා නේද?
+
+645
+00:11:46,140 --> 00:11:47,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+646
+00:11:47,900 --> 00:11:50,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+647
+00:11:50,440 --> 00:11:54,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+648
+00:11:55,210 --> 00:11:57,860
+ඒ ළමයා කොහොමත් ඉගෙන ගන්නෙ නැතුව ඇති.
+
+649
+00:12:00,910 --> 00:12:05,790
+Saeki-senpai
+
+650
+00:12:00,910 --> 00:12:05,790
+අද
+
+651
+00:12:00,910 --> 00:12:05,790
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+652
+00:12:00,910 --> 00:12:05,790
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+653
+00:12:03,290 --> 00:12:05,790
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+654
+00:12:08,290 --> 00:12:10,540
+නැත
+
+655
+00:12:08,290 --> 00:12:10,540
+අද
+
+656
+00:12:08,290 --> 00:12:10,540
+ඔබ නිදහස්ද? කොහේ හරි ඉන්න ඕනද?
+
+657
+00:12:13,960 --> 00:12:16,430
+ඔබව මා සමඟ මෙහි ගෙන ඒම ගැන මට කණගාටුයි.
+
+658
+00:12:17,300 --> 00:12:19,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+659
+00:12:21,010 --> 00:12:25,430
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+660
+00:12:26,680 --> 00:12:27,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+661
+00:12:31,810 --> 00:12:32,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+662
+00:12:33,940 --> 00:12:35,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+663
+00:12:35,320 --> 00:12:36,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+664
+00:12:38,900 --> 00:12:40,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+665
+00:12:40,700 --> 00:12:42,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+666
+00:12:42,570 --> 00:12:45,450
+මට සමාවෙන්න මම පරක්කු උනාට Saeki-senpai.
+
+667
+00:12:45,450 --> 00:12:48,410
+මම ඔයාට මෙහෙ එන්න කිව්වා. දාඩිය දාන්න එපා.
+
+668
+00:12:48,410 --> 00:12:49,120
+ඒ කව්ද?
+
+669
+00:12:49,120 --> 00:12:50,710
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+670
+00:12:50,710 --> 00:12:53,950
+අපි මධ්‍යම පාසලේ බෝල සෙල්ලම් කළා, 
+ඉතින් මම එයාව එක්කගෙන ආවා.
+
+671
+00:12:54,460 --> 00:12:55,630
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+672
+00:12:55,630 --> 00:12:58,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+673
+00:12:59,340 --> 00:13:01,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+674
+00:13:01,920 --> 00:13:05,060
+ඔහු මගේ උසස් පාසලේ කනිෂ්ඨයා. 
+එයා වසන්තයේ අපේ ෆැක්ටරියේ වැඩට එයි.
+
+675
+00:13:05,060 --> 00:13:05,850
+මම දකියි.
+
+676
+00:13:07,140 --> 00:13:08,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+677
+00:13:10,140 --> 00:13:12,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+678
+00:13:21,410 --> 00:13:23,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+679
+00:13:23,320 --> 00:13:26,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+680
+00:13:26,490 --> 00:13:27,830
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+681
+00:13:28,950 --> 00:13:31,670
+ඔයාලා මේ ගැන ගොඩක් බරපතලයි.
+
+682
+00:13:31,670 --> 00:13:33,630
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+683
+00:13:34,040 --> 00:13:36,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+684
+00:13:37,800 --> 00:13:39,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+685
+00:13:42,430 --> 00:13:43,570
+මම දකියි.
+
+686
+00:13:44,220 --> 00:13:46,960
+ඉතින් සෝමා ඇත්තටම ඔයාගෙන් ඇහුවා.
+
+687
+00:13:47,430 --> 00:13:51,520
+හැමෝම දැනගෙන හිටියා නේද?
+ යොරිකෝ පසුගිය දවසක ඒ ගැන කතා කළා.
+
+688
+00:13:51,520 --> 00:13:56,930
+සමාවෙන්න. මම තමයි 
+ඔබවයි සෝමාවයි එකට තනිකරමු කියලා යෝජනා කළේ.
+
+689
+00:13:57,320 --> 00:13:58,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+690
+00:13:59,440 --> 00:14:05,280
+තවම ඒ කියන්නේ... ඔයා එයාව ප්‍රතික්ෂේප කලාට හොදයි නේද?
+
+691
+00:14:05,950 --> 00:14:07,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+692
+00:14:11,120 --> 00:14:14,170
+එය මට පළමු විය.
+
+693
+00:14:14,170 --> 00:14:18,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+694
+00:14:19,060 --> 00:14:25,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+695
+00:14:27,260 --> 00:14:28,370
+ඒ කියන්නේ...
+
+696
+00:14:29,980 --> 00:14:34,570
+ඔබට වෙනස් ලෙස පිළිතුරු දිය හැකිය 
+ඔබෙන් දැන් ඇසුවොත්?
+
+697
+00:14:35,650 --> 00:14:39,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+698
+00:14:41,470 --> 00:14:47,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+699
+00:14:47,610 --> 00:14:48,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+700
+00:14:49,250 --> 00:14:54,960
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+701
+00:14:54,960 --> 00:14:56,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+702
+00:14:57,300 --> 00:14:59,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+703
+00:14:59,800 --> 00:15:00,670
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+704
+00:15:00,670 --> 00:15:05,300
+අනික අපි උපාධිය ගත්තට පස්සේ මම ටවුන් එකේ ඉන්නේ නෑ.
+
+705
+00:15:07,180 --> 00:15:11,720
+එදා ඉදන් මම හැමදාම 
+ සෝමා ගැන හිතුවා.
+
+706
+00:15:14,770 --> 00:15:18,520
+ලැජ්ජයි වගේ... මේ දේවල් ගැන කතා කරන එක.
+
+707
+00:15:18,520 --> 00:15:20,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+708
+00:15:24,030 --> 00:15:26,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+709
+00:15:27,520 --> 00:15:28,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+710
+00:15:28,870 --> 00:15:31,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+711
+00:15:35,120 --> 00:15:40,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+712
+00:15:41,010 --> 00:15:44,460
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+713
+00:15:44,460 --> 00:15:47,590
+මම ඒ ගැන දන්නේ නැහැ.
+
+714
+00:15:48,890 --> 00:15:50,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+715
+00:15:51,510 --> 00:15:54,810
+ස්තූතියි, Natsume-san! මම උත්සහ කරලා බලන්නම්.
+
+716
+00:15:56,060 --> 00:15:57,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+717
+00:15:57,140 --> 00:15:57,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+718
+00:16:01,110 --> 00:16:03,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+719
+00:16:04,070 --> 00:16:06,070
+මමත් කරන්නම්.
+
+720
+00:16:06,070 --> 00:16:08,910
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+721
+00:16:08,910 --> 00:16:10,410
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+722
+00:16:11,910 --> 00:16:16,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+723
+00:16:16,750 --> 00:16:18,040
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+724
+00:16:18,040 --> 00:16:20,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+725
+00:16:20,130 --> 00:16:22,290
+මම කියන්නේ හෙට නෙවෙයි.
+
+726
+00:16:22,290 --> 00:16:25,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+727
+00:16:25,510 --> 00:16:26,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+728
+00:16:26,510 --> 00:16:28,930
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+729
+00:16:36,210 --> 00:16:38,770
+යමෙකුගේ අත්වැසුම් භාවිතා කිරීම සුදුසු යැයි හැඟෙන්නේ නැත.
+
+730
+00:16:39,690 --> 00:16:42,270
+එසේනම්, ඔබ මෙය භාවිතා නොකරන්නේ ඇයි?
+
+731
+00:16:42,270 --> 00:16:43,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+732
+00:16:45,320 --> 00:16:47,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+733
+00:16:47,950 --> 00:16:50,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+734
+00:16:50,950 --> 00:16:52,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+735
+00:16:52,820 --> 00:16:54,530
+අවසන් පන්දුව තෙක්!
+
+736
+00:16:54,530 --> 00:16:55,740
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+737
+00:16:57,290 --> 00:16:58,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+738
+00:16:59,790 --> 00:17:02,040
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+739
+00:17:02,040 --> 00:17:03,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+740
+00:17:03,750 --> 00:17:05,050
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+741
+00:17:10,010 --> 00:17:13,050
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+742
+00:17:15,140 --> 00:17:16,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+743
+00:17:16,970 --> 00:17:19,350
+හේයි, ඇත්තටම මගේ පැත්තට එන්න එපා!
+
+744
+00:17:21,730 --> 00:17:22,940
+අපරාදේ!
+
+745
+00:17:30,700 --> 00:17:33,240
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+746
+00:17:45,340 --> 00:17:47,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+747
+00:17:47,340 --> 00:17:49,380
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+748
+00:17:49,380 --> 00:17:50,840
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+749
+00:17:50,840 --> 00:17:51,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+750
+00:17:51,510 --> 00:17:52,840
+අපිට තව එක පිත්තක් තිබුණා නම්, අපි
+
+751
+00:17:52,840 --> 00:17:55,550
+කොමඩ-සන් යනු ග්‍රෑන්ඩ් ස්ලෑම් ක්‍රීඩකයෙකි.
+
+752
+00:17:55,550 --> 00:17:57,850
+තේරුම, එය නිසැකවම පහසු වනු ඇත.
+
+753
+00:17:57,850 --> 00:17:59,430
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+754
+00:17:59,100 --> 00:18:01,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+755
+00:18:01,690 --> 00:18:02,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+756
+00:18:02,640 --> 00:18:04,600
+මොකද ඇය හැමදාම වැඩ කරනවා.
+
+757
+00:18:04,600 --> 00:18:06,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+758
+00:18:06,820 --> 00:18:09,440
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+759
+00:18:11,320 --> 00:18:15,620
+අද MVP එක කොනේ මොකද කරන්නේ?
+
+760
+00:18:15,620 --> 00:18:20,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+761
+00:18:20,620 --> 00:18:24,790
+හාස්‍යජනක නොවන්න! යකිසෝබා ටිකක් කන්න!
+
+762
+00:18:24,790 --> 00:18:26,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+763
+00:18:26,880 --> 00:18:28,840
+ඔබ තවමත් තරුණයි! වැඩිපුර කන්න!
+
+764
+00:18:28,840 --> 00:18:31,840
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+765
+00:18:31,840 --> 00:18:34,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+766
+00:18:42,020 --> 00:18:44,850
+ඔව්, යකිසෝබා මෙහි ඇත්තෙන්ම හොඳයි.
+
+767
+00:18:45,480 --> 00:18:48,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+768
+00:18:48,110 --> 00:18:49,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+769
+00:18:49,360 --> 00:18:50,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+770
+00:18:51,150 --> 00:18:55,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+771
+00:18:55,490 --> 00:18:57,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+772
+00:18:58,410 --> 00:18:59,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+773
+00:18:59,200 --> 00:18:59,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+774
+00:19:00,620 --> 00:19:02,370
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+775
+00:19:03,410 --> 00:19:05,670
+එය කිසිවක් නොවීය. මම උස්සලා ගත්තා විතරයි.
+
+776
+00:19:06,710 --> 00:19:08,170
+අපි ගෙදර යමු.
+
+777
+00:19:08,170 --> 00:19:10,670
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+778
+00:19:12,670 --> 00:19:15,180
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+779
+00:19:20,180 --> 00:19:21,890
+Suizan විශ්ව විද්යාලය
+
+780
+00:19:25,100 --> 00:19:25,770
+ආ...
+
+781
+00:19:28,400 --> 00:19:29,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+782
+00:19:29,310 --> 00:19:30,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+783
+00:19:35,030 --> 00:19:36,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+784
+00:19:39,740 --> 00:19:42,410
+දක්වා
+
+785
+00:19:39,740 --> 00:19:42,410
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+786
+00:19:43,870 --> 00:19:44,910
+ඔහ්?
+
+787
+00:19:50,000 --> 00:19:52,630
+ඔයා බේස්බෝල් සෙල්ලම් කරන්න ගියා නේද?
+
+788
+00:19:54,170 --> 00:19:57,590
+මගේ සගයා මට ආරාධනා කළ නිසා, මට පිරිනැමීම ප්‍රතික්ෂේප කළ නොහැකි විය.
+
+789
+00:19:58,260 --> 00:19:59,930
+එය කොහොම වුවා ද?
+
+790
+00:20:01,050 --> 00:20:05,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+791
+00:20:05,350 --> 00:20:08,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+792
+00:20:09,440 --> 00:20:11,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+793
+00:20:11,730 --> 00:20:13,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+794
+00:20:13,750 --> 00:20:16,030
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+795
+00:20:16,320 --> 00:20:17,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+796
+00:20:17,780 --> 00:20:21,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+797
+00:20:21,200 --> 00:20:24,290
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+798
+00:20:24,870 --> 00:20:26,580
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+799
+00:20:26,580 --> 00:20:27,830
+මම ගැන කුමක් ද?
+
+800
+00:20:29,080 --> 00:20:31,330
+ඔබ සෑම විටම වැඩ සමඟ කාර්යබහුල බව පෙනේ.
+
+801
+00:20:32,590 --> 00:20:34,590
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+802
+00:20:36,590 --> 00:20:41,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+803
+00:20:43,100 --> 00:20:45,600
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+804
+00:20:46,060 --> 00:20:47,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+805
+00:20:48,980 --> 00:20:51,730
+හරියට මගේ පුතා මට මගේ දේවල් ගෙනියනවා වගේ.
+
+806
+00:20:52,360 --> 00:20:54,860
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+807
+00:20:55,130 --> 00:20:57,420
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+808
+00:21:06,370 --> 00:21:07,870
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+809
+00:21:07,870 --> 00:21:09,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+810
+00:21:10,370 --> 00:21:11,790
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+811
+00:21:11,790 --> 00:21:14,040
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+812
+00:21:15,080 --> 00:21:16,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+813
+00:21:18,160 --> 00:21:20,010
+ඔබ එය එතරම් පෞද්ගලිකව ගත යුතු නැත.
+
+814
+00:21:22,550 --> 00:21:23,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+815
+00:21:23,510 --> 00:21:24,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+816
+00:21:25,470 --> 00:21:27,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+817
+00:21:28,070 --> 00:21:30,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+818
+00:21:30,770 --> 00:21:33,560
+මට ඕනවට වඩා කිව්වේ මමයි. සමාවෙන්න.
+
+819
+00:21:34,270 --> 00:21:36,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+820
+00:21:36,820 --> 00:21:38,030
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+821
+00:21:39,590 --> 00:21:41,070
+ඉතින් ඇයි එහෙම කිව්වේ?
+
+822
+00:21:42,320 --> 00:21:43,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+823
+00:21:44,660 --> 00:21:46,740
+මොකක්ද, ඔයා බහින්නේ නැද්ද?
+
+824
+00:21:46,740 --> 00:21:48,010
+මම, නමුත් ...
+
+825
+00:21:48,500 --> 00:21:49,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+826
+00:21:50,830 --> 00:21:57,820
+ඒ ඔයා මට කියපු නිසා නෙවෙයි, 
+ඒත් මම හිතුවා සෝමාට ටිකක් පැහැදිලි කරන්න.
+
+827
+00:21:58,330 --> 00:21:59,330
+මම දකියි.
+
+828
+00:21:59,840 --> 00:22:05,350
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+829
+00:22:05,940 --> 00:22:07,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+830
+00:22:07,810 --> 00:22:10,810
+පහුගිය දවසක ඔයා මට කිව්වා ඒක එහෙමයි කියලා.
+
+831
+00:22:11,940 --> 00:22:13,850
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+832
+00:22:19,110 --> 00:22:19,530
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+833
+00:22:19,150 --> 00:22:20,030
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+834
+00:22:19,230 --> 00:22:20,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+835
+00:22:19,320 --> 00:22:21,190
+නැත
+
+836
+00:22:19,360 --> 00:22:21,530
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+837
+00:22:19,400 --> 00:22:21,950
+දක්වා
+
+838
+00:22:19,480 --> 00:22:22,990
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+839
+00:22:19,530 --> 00:22:20,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+840
+00:22:19,530 --> 00:22:23,410
+බා
+
+841
+00:22:19,570 --> 00:22:27,120
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+842
+00:22:19,570 --> 00:22:23,860
+තුළ
+
+843
+00:22:19,650 --> 00:22:24,450
+මුහුණ දෙයි
+
+844
+00:22:19,730 --> 00:22:24,820
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+845
+00:22:19,780 --> 00:22:25,280
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+846
+00:22:20,030 --> 00:22:20,740
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+847
+00:22:20,490 --> 00:22:21,240
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+848
+00:22:21,190 --> 00:22:21,780
+නැත
+
+849
+00:22:21,530 --> 00:22:22,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+850
+00:22:21,950 --> 00:22:23,240
+දක්වා
+
+851
+00:22:22,490 --> 00:22:27,330
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+852
+00:22:22,990 --> 00:22:23,660
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+853
+00:22:23,410 --> 00:22:24,110
+බා
+
+854
+00:22:23,860 --> 00:22:24,570
+තුළ
+
+855
+00:22:24,450 --> 00:22:25,070
+මුහුණ දෙයි
+
+856
+00:22:24,820 --> 00:22:25,530
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+857
+00:22:25,280 --> 00:22:27,330
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+858
+00:22:33,000 --> 00:22:36,000
+ජනවාරි 7, ඉරිදා
+
+859
+00:22:33,000 --> 00:22:36,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+860
+00:22:33,000 --> 00:22:36,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+861
+00:22:39,630 --> 00:22:40,420
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+862
+00:22:39,710 --> 00:22:41,050
+fu
+
+863
+00:22:39,750 --> 00:22:41,210
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+864
+00:22:39,800 --> 00:22:41,460
+තුළ
+
+865
+00:22:39,880 --> 00:22:41,880
+මුහුණ දෙයි
+
+866
+00:22:39,960 --> 00:22:42,300
+රා
+
+867
+00:22:40,050 --> 00:22:43,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+868
+00:22:40,420 --> 00:22:41,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+869
+00:22:41,050 --> 00:22:41,460
+fu
+
+870
+00:22:41,210 --> 00:22:41,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+871
+00:22:41,460 --> 00:22:41,920
+තුළ
+
+872
+00:22:41,880 --> 00:22:42,550
+මුහුණ දෙයි
+
+873
+00:22:42,300 --> 00:22:43,470
+රා
+
+874
+00:22:42,800 --> 00:22:43,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+875
+00:22:42,840 --> 00:22:43,470
+තුළ
+
+876
+00:22:42,920 --> 00:22:43,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+877
+00:22:42,970 --> 00:22:43,880
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+878
+00:22:43,010 --> 00:22:44,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+879
+00:22:43,050 --> 00:22:44,300
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+880
+00:22:43,090 --> 00:22:44,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+881
+00:22:43,170 --> 00:22:44,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+882
+00:22:43,220 --> 00:22:45,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+883
+00:22:43,260 --> 00:22:46,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+884
+00:22:43,300 --> 00:22:45,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+885
+00:22:43,340 --> 00:22:46,010
+සහ
+
+886
+00:22:43,470 --> 00:22:43,970
+තුළ
+
+887
+00:22:43,720 --> 00:22:44,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+888
+00:22:43,880 --> 00:22:44,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+889
+00:22:44,090 --> 00:22:44,550
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+890
+00:22:44,300 --> 00:22:44,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+891
+00:22:44,550 --> 00:22:45,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+892
+00:22:44,760 --> 00:22:45,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+893
+00:22:45,140 --> 00:22:45,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+894
+00:22:45,550 --> 00:22:46,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+895
+00:22:46,010 --> 00:22:46,930
+සහ
+
+896
+00:22:46,260 --> 00:22:46,680
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+897
+00:22:46,390 --> 00:22:47,640
+සහ
+
+898
+00:22:46,430 --> 00:22:47,850
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+899
+00:22:46,470 --> 00:22:48,050
+රා
+
+900
+00:22:46,510 --> 00:22:48,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+901
+00:22:46,550 --> 00:22:48,470
+නයි
+
+902
+00:22:46,600 --> 00:22:48,890
+fu
+
+903
+00:22:46,680 --> 00:22:47,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+904
+00:22:46,680 --> 00:22:48,930
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+905
+00:22:46,720 --> 00:22:49,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+906
+00:22:47,640 --> 00:22:48,100
+සහ
+
+907
+00:22:47,850 --> 00:22:48,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+908
+00:22:48,050 --> 00:22:48,470
+රා
+
+909
+00:22:48,220 --> 00:22:48,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+910
+00:22:48,470 --> 00:22:49,140
+නයි
+
+911
+00:22:48,890 --> 00:22:49,180
+fu
+
+912
+00:22:48,930 --> 00:22:49,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+913
+00:22:49,310 --> 00:22:49,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+914
+00:22:49,350 --> 00:22:50,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+915
+00:22:49,390 --> 00:22:50,310
+ද්වි
+
+916
+00:22:49,470 --> 00:22:50,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+917
+00:22:49,510 --> 00:22:50,720
+දක්වා
+
+918
+00:22:49,560 --> 00:22:50,930
+tsu
+
+919
+00:22:49,600 --> 00:22:51,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+920
+00:22:49,640 --> 00:22:51,350
+තුළ
+
+921
+00:22:49,720 --> 00:22:50,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+922
+00:22:49,720 --> 00:22:51,470
+වේ
+
+923
+00:22:49,760 --> 00:22:52,770
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+924
+00:22:49,760 --> 00:22:51,770
+මෙය
+
+925
+00:22:50,060 --> 00:22:50,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+926
+00:22:50,310 --> 00:22:50,810
+ද්වි
+
+927
+00:22:50,560 --> 00:22:50,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+928
+00:22:50,720 --> 00:22:51,180
+දක්වා
+
+929
+00:22:50,930 --> 00:22:51,390
+tsu
+
+930
+00:22:51,140 --> 00:22:51,600
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+931
+00:22:51,350 --> 00:22:51,730
+තුළ
+
+932
+00:22:51,470 --> 00:22:52,020
+වේ
+
+933
+00:22:51,770 --> 00:22:52,980
+මෙය
+
+934
+00:22:52,310 --> 00:22:52,730
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+935
+00:22:52,350 --> 00:22:53,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+936
+00:22:52,430 --> 00:22:53,640
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+937
+00:22:52,520 --> 00:22:54,230
+නැත
+
+938
+00:22:52,560 --> 00:22:54,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+939
+00:22:52,600 --> 00:22:55,060
+දක්වා
+
+940
+00:22:52,680 --> 00:22:56,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+941
+00:22:52,730 --> 00:22:53,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+942
+00:22:52,730 --> 00:22:56,560
+බා
+
+943
+00:22:52,770 --> 00:22:59,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+944
+00:22:52,770 --> 00:22:56,940
+තුළ
+
+945
+00:22:52,850 --> 00:22:57,610
+මුහුණ දෙයි
+
+946
+00:22:52,930 --> 00:22:58,020
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+947
+00:22:52,980 --> 00:22:58,440
+රා
+
+948
+00:22:53,140 --> 00:22:53,890
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+949
+00:22:53,640 --> 00:22:54,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+950
+00:22:54,230 --> 00:22:54,940
+නැත
+
+951
+00:22:54,690 --> 00:22:55,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+952
+00:22:55,060 --> 00:22:56,270
+දක්වා
+
+953
+00:22:56,020 --> 00:22:56,810
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+954
+00:22:56,560 --> 00:22:57,190
+බා
+
+955
+00:22:56,940 --> 00:22:57,650
+තුළ
+
+956
+00:22:57,610 --> 00:22:58,270
+මුහුණ දෙයි
+
+957
+00:22:58,020 --> 00:22:58,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+958
+00:22:58,440 --> 00:22:59,900
+රා
+
+959
+00:22:59,230 --> 00:22:59,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+960
+00:22:59,320 --> 00:23:00,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+961
+00:22:59,440 --> 00:23:01,740
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+962
+00:22:59,480 --> 00:23:02,110
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+963
+00:22:59,520 --> 00:23:02,360
+කියලා?
+
+964
+00:22:59,650 --> 00:23:00,530
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+965
+00:22:59,690 --> 00:23:03,240
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+966
+00:23:00,900 --> 00:23:01,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+967
+00:23:01,740 --> 00:23:02,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+968
+00:23:02,110 --> 00:23:02,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+969
+00:23:02,360 --> 00:23:03,450
+කියලා?
+
+970
+00:23:02,780 --> 00:23:03,190
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+971
+00:23:02,820 --> 00:23:03,530
+දක්වා
+
+972
+00:23:02,900 --> 00:23:03,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+973
+00:23:02,940 --> 00:23:04,110
+හි
+
+974
+00:23:02,990 --> 00:23:04,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+975
+00:23:03,030 --> 00:23:04,650
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+976
+00:23:03,070 --> 00:23:04,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+977
+00:23:03,150 --> 00:23:05,200
+මුහුණ දෙයි
+
+978
+00:23:03,190 --> 00:23:03,780
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+979
+00:23:03,240 --> 00:23:09,080
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+980
+00:23:03,240 --> 00:23:06,490
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+981
+00:23:03,280 --> 00:23:06,660
+නැද්ද?
+
+982
+00:23:03,530 --> 00:23:04,030
+දක්වා
+
+983
+00:23:03,780 --> 00:23:04,360
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+984
+00:23:04,110 --> 00:23:04,610
+හි
+
+985
+00:23:04,360 --> 00:23:04,900
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+986
+00:23:04,650 --> 00:23:05,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+987
+00:23:04,950 --> 00:23:05,450
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+988
+00:23:05,200 --> 00:23:06,530
+මුහුණ දෙයි
+
+989
+00:23:06,490 --> 00:23:06,910
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+990
+00:23:06,660 --> 00:23:09,280
+නැද්ද?
+
+991
+00:23:08,620 --> 00:23:09,030
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+992
+00:23:08,660 --> 00:23:09,330
+නැත
+
+993
+00:23:08,740 --> 00:23:09,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+994
+00:23:08,830 --> 00:23:10,160
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+995
+00:23:08,870 --> 00:23:10,580
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+996
+00:23:08,910 --> 00:23:11,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+997
+00:23:08,990 --> 00:23:11,410
+තුළ
+
+998
+00:23:09,030 --> 00:23:09,580
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+999
+00:23:09,030 --> 00:23:11,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1000
+00:23:09,080 --> 00:23:14,330
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1001
+00:23:09,080 --> 00:23:11,950
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1002
+00:23:09,120 --> 00:23:12,250
+රා
+
+1003
+00:23:09,160 --> 00:23:12,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1004
+00:23:09,280 --> 00:23:13,290
+හි
+
+1005
+00:23:09,330 --> 00:23:09,870
+නැත
+
+1006
+00:23:09,620 --> 00:23:10,410
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1007
+00:23:10,160 --> 00:23:10,830
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1008
+00:23:10,580 --> 00:23:11,450
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1009
+00:23:11,200 --> 00:23:11,660
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1010
+00:23:11,410 --> 00:23:11,870
+තුළ
+
+1011
+00:23:11,620 --> 00:23:12,200
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1012
+00:23:11,950 --> 00:23:12,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1013
+00:23:12,250 --> 00:23:12,750
+රා
+
+1014
+00:23:12,500 --> 00:23:13,290
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1015
+00:23:13,290 --> 00:23:14,540
+හි
+
+1016
+00:23:13,870 --> 00:23:14,290
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1017
+00:23:13,910 --> 00:23:14,660
+නැත
+
+1018
+00:23:13,960 --> 00:23:14,910
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1019
+00:23:14,040 --> 00:23:15,370
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1020
+00:23:14,080 --> 00:23:15,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1021
+00:23:14,120 --> 00:23:16,210
+හි
+
+1022
+00:23:14,210 --> 00:23:16,790
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1023
+00:23:14,290 --> 00:23:14,910
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1024
+00:23:14,290 --> 00:23:17,210
+yo
+
+1025
+00:23:14,330 --> 00:23:17,750
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1026
+00:23:14,660 --> 00:23:15,170
+නැත
+
+1027
+00:23:14,910 --> 00:23:15,620
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1028
+00:23:15,370 --> 00:23:16,000
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1029
+00:23:15,750 --> 00:23:16,460
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1030
+00:23:16,210 --> 00:23:16,830
+හි
+
+1031
+00:23:16,790 --> 00:23:17,460
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1032
+00:23:17,210 --> 00:23:17,960
+yo
+
+1033
+00:23:17,290 --> 00:23:17,710
+වේ
+
+1034
+00:23:17,330 --> 00:23:17,960
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1035
+00:23:17,380 --> 00:23:18,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1036
+00:23:17,460 --> 00:23:18,670
+මෙය
+
+1037
+00:23:17,500 --> 00:23:18,840
+දක්වා
+
+1038
+00:23:17,540 --> 00:23:19,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1039
+00:23:17,580 --> 00:23:19,880
+හි
+
+1040
+00:23:17,630 --> 00:23:21,050
+වේ
+
+1041
+00:23:17,710 --> 00:23:21,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1042
+00:23:17,750 --> 00:23:23,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1043
+00:23:17,750 --> 00:23:21,500
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1044
+00:23:17,830 --> 00:23:22,170
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1045
+00:23:17,880 --> 00:23:22,380
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1046
+00:23:17,960 --> 00:23:18,380
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1047
+00:23:17,960 --> 00:23:22,800
+ද්වි
+
+1048
+00:23:18,000 --> 00:23:23,010
+මුහුණ දෙයි
+
+1049
+00:23:18,040 --> 00:23:23,210
+තුළ
+
+1050
+00:23:18,130 --> 00:23:18,920
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1051
+00:23:18,670 --> 00:23:19,090
+මෙය
+
+1052
+00:23:18,840 --> 00:23:19,380
+දක්වා
+
+1053
+00:23:19,130 --> 00:23:20,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1054
+00:23:19,880 --> 00:23:21,300
+හි
+
+1055
+00:23:21,050 --> 00:23:21,590
+වේ
+
+1056
+00:23:21,340 --> 00:23:21,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1057
+00:23:21,500 --> 00:23:22,210
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1058
+00:23:22,170 --> 00:23:22,630
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1059
+00:23:22,380 --> 00:23:23,050
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1060
+00:23:22,800 --> 00:23:23,260
+ද්වි
+
+1061
+00:23:23,010 --> 00:23:23,470
+මුහුණ දෙයි
+
+1062
+00:23:23,010 --> 00:23:23,420
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1063
+00:23:23,050 --> 00:23:23,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1064
+00:23:23,090 --> 00:23:23,720
+විය
+
+1065
+00:23:23,170 --> 00:23:24,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1066
+00:23:23,210 --> 00:23:23,670
+තුළ
+
+1067
+00:23:23,210 --> 00:23:24,670
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1068
+00:23:23,300 --> 00:23:25,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1069
+00:23:23,340 --> 00:23:25,720
+හි
+
+1070
+00:23:23,420 --> 00:23:23,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1071
+00:23:23,420 --> 00:23:26,090
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1072
+00:23:23,470 --> 00:23:27,760
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1073
+00:23:23,470 --> 00:23:23,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1074
+00:23:23,470 --> 00:23:26,180
+මුහුණ දෙයි
+
+1075
+00:23:23,510 --> 00:23:26,340
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1076
+00:23:23,550 --> 00:23:26,550
+සහ
+
+1077
+00:23:23,720 --> 00:23:24,720
+විය
+
+1078
+00:23:24,470 --> 00:23:24,920
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1079
+00:23:24,670 --> 00:23:25,130
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1080
+00:23:25,260 --> 00:23:25,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1081
+00:23:25,720 --> 00:23:26,340
+හි
+
+1082
+00:23:26,090 --> 00:23:26,430
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1083
+00:23:26,180 --> 00:23:26,590
+මුහුණ දෙයි
+
+1084
+00:23:26,340 --> 00:23:26,800
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1085
+00:23:26,550 --> 00:23:27,970
+සහ
+
+1086
+00:23:27,300 --> 00:23:27,970
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1087
+00:23:27,390 --> 00:23:28,180
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1088
+00:23:27,470 --> 00:23:28,470
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1089
+00:23:27,510 --> 00:23:29,010
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1090
+00:23:27,550 --> 00:23:29,350
+වේ
+
+1091
+00:23:27,590 --> 00:23:29,600
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1092
+00:23:27,640 --> 00:23:29,800
+දක්වා
+
+1093
+00:23:27,720 --> 00:23:28,220
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1094
+00:23:27,720 --> 00:23:30,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1095
+00:23:27,760 --> 00:23:36,270
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1096
+00:23:27,760 --> 00:23:30,470
+හි
+
+1097
+00:23:27,800 --> 00:23:31,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1098
+00:23:27,890 --> 00:23:31,510
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1099
+00:23:27,970 --> 00:23:31,850
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1100
+00:23:28,010 --> 00:23:32,720
+මුහුණ දෙයි
+
+1101
+00:23:28,140 --> 00:23:32,930
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1102
+00:23:28,180 --> 00:23:28,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1103
+00:23:28,220 --> 00:23:33,140
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1104
+00:23:28,470 --> 00:23:29,260
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1105
+00:23:29,010 --> 00:23:29,600
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1106
+00:23:29,350 --> 00:23:29,850
+වේ
+
+1107
+00:23:29,600 --> 00:23:30,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1108
+00:23:29,800 --> 00:23:30,310
+දක්වා
+
+1109
+00:23:30,060 --> 00:23:30,720
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1110
+00:23:30,470 --> 00:23:31,310
+හි
+
+1111
+00:23:31,060 --> 00:23:31,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1112
+00:23:31,510 --> 00:23:32,100
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1113
+00:23:31,850 --> 00:23:32,560
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1114
+00:23:32,310 --> 00:23:33,180
+මුහුණ දෙයි
+
+1115
+00:23:32,930 --> 00:23:33,390
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1116
+00:23:33,140 --> 00:23:36,480
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1117
+00:23:35,810 --> 00:23:36,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1118
+00:23:35,850 --> 00:23:36,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1119
+00:23:35,940 --> 00:23:37,060
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1120
+00:23:35,980 --> 00:23:39,690
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1121
+00:23:36,020 --> 00:23:39,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1122
+00:23:36,060 --> 00:23:40,270
+මුහුණ දෙයි
+
+1123
+00:23:36,100 --> 00:23:40,610
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1124
+00:23:36,190 --> 00:23:40,820
+නයි
+
+1125
+00:23:36,230 --> 00:23:42,980
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1126
+00:23:36,270 --> 00:23:46,740
+මට දැනගන්න ඕන. මට දැනගන්න ඕන නෑ. මට දැනගන්න ඕන...
+
+1127
+00:23:36,270 --> 00:23:43,320
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1128
+00:23:36,310 --> 00:23:43,690
+එය...
+
+1129
+00:23:36,690 --> 00:23:37,310
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1130
+00:23:37,060 --> 00:23:39,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1131
+00:23:39,690 --> 00:23:40,230
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1132
+00:23:39,980 --> 00:23:40,520
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1133
+00:23:40,270 --> 00:23:40,860
+මුහුණ දෙයි
+
+1134
+00:23:40,610 --> 00:23:41,070
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1135
+00:23:40,820 --> 00:23:43,230
+නයි
+
+1136
+00:23:42,980 --> 00:23:43,570
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1137
+00:23:43,320 --> 00:23:43,940
+Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.
+
+1138
+00:23:43,690 --> 00:23:46,950
+එය...
+
