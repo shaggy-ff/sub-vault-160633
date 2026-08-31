@@ -1,0 +1,131 @@
+1
+00:00:42,390 --> 00:00:46,350
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+2
+00:00:42,390 --> 00:00:46,350
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+3
+00:00:42,390 --> 00:00:46,350
+Skills [Lightweight Blade]
+Skills [Sharp Blade]
+Skills [Lightning-Cloaked]
+
+4
+00:02:40,760 --> 00:02:46,770
+#12 "A Battle I Can't Lose"
+
+5
+00:02:57,650 --> 00:02:59,740
+200 Years Ago
+
+6
+00:12:11,660 --> 00:12:13,460
+[Lightning-Cloaked]
+
+7
+00:13:06,380 --> 00:13:13,560
+Luna Heela
+
+8
+00:13:06,720 --> 00:13:13,100
+Temperature +5
+
+9
+00:13:25,700 --> 00:13:29,410
+Temperature +5
+
+10
+00:13:25,700 --> 00:13:29,700
+Emma Brightness
+
+11
+00:14:17,250 --> 00:14:19,960
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+12
+00:14:17,250 --> 00:14:19,960
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+13
+00:14:17,250 --> 00:14:19,960
+Noir Stardia
+
+14
+00:14:17,290 --> 00:14:19,960
+[Sluggish]
+Movements and reactions become slower
+
+15
+00:14:18,790 --> 00:14:19,960
+m 0 0 b 0 -2 7 -2 10 -2 b 30 -2 50 -2 70 0 b 70 0 70 1 70 1 b 50 2 30 2 10 2 b 7 2 0 2 0 0
+
+16
+00:14:18,870 --> 00:14:19,960
+m 0 0 b 0 -2 7 -2 10 -2 b 30 -2 50 -2 70 0 b 70 0 70 1 70 1 b 50 2 30 2 10 2 b 7 2 0 2 0 0
+
+17
+00:14:37,770 --> 00:14:38,560
+Stone Bullet
+
+18
+00:14:38,060 --> 00:14:40,980
+Create and fire a stone
+from around 10~100 centimeters
+by using LP.
+
+19
+00:14:38,060 --> 00:14:40,980
+After that, the stone comes back to you.
+
+20
+00:15:39,960 --> 00:15:44,750
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+21
+00:15:39,960 --> 00:15:44,920
+Skills [Get Creative] [Editor] [Bestow] [LP Conversion] [Great Sage] [Stone Bullet] [Discerning Eye]
+Skills [Headache Immunity]  [Pocket Dimension (Grade C)]  [Improved Back Step]  [Shoulder Rub] 
+Skills [Lucky Lecher]  [Dungeon Elevator]  [Dragonslayer]  [Holy Flame]  [Water Drop]
+Skills [Lightning Strike]  [Magical Fusion]  [Discerning Eye for Items]  [Dancing]  [Sacrifice]
+
+22
+00:15:39,960 --> 00:15:45,920
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 
+l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+23
+00:15:39,960 --> 00:15:45,920
+Noir Stardia
+
+24
+00:15:44,750 --> 00:15:45,920
+Skills [Get Creative] [Editor] [Bestow]
+Skills [Sacrifice]
+
+25
+00:15:47,670 --> 00:15:49,340
+Sacrifice
+
+26
+00:18:12,110 --> 00:18:15,610
+Noir Stardia
+
+27
+00:18:38,300 --> 00:18:46,810
+Noir Stardia
+
+28
+00:23:20,750 --> 00:23:22,500
+Free her without killing her and a path will appear
+
+29
+00:24:06,960 --> 00:24:12,620
+Illustration: Takehana Note
+
