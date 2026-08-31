@@ -1,0 +1,223 @@
+1
+00:02:53,020 --> 00:03:00,070
+#06 "The Tulip Lion"
+
+2
+00:05:40,110 --> 00:05:43,070
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+3
+00:05:40,110 --> 00:05:43,070
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+4
+00:05:40,110 --> 00:05:43,070
+Noir Stardia  LP.2000
+
+5
+00:05:40,110 --> 00:05:43,070
+Skills [Great Sage] [Get Creative] [Editor] [Bestow]
+Skills [LP Conversion] [Stone Bullet] [Discerning Eye]
+Skills [Headache Immunity] [Pocket Dimension (Grade C)]
+Skills [Improved Back Step] [Passive Defense]
+Skills [Shoulder Rub] [Lucky Lecher]
+Skills [Dungeon Elevator]
+
+6
+00:05:41,610 --> 00:05:43,070
+Noir Stardia  LP.1400
+
+7
+00:05:51,490 --> 00:05:53,950
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+8
+00:05:51,490 --> 00:05:53,950
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+9
+00:05:51,490 --> 00:05:53,950
+Noir Stardia  LP.1400
+
+10
+00:05:51,490 --> 00:05:53,950
+Noir Stardia  LP.1200
+
+11
+00:05:51,490 --> 00:05:53,950
+Skills [Great Sage] [Get Creative] [Editor] [Bestow]
+Skills [LP Conversion] [Stone Bullet] [Discerning Eye]
+Skills [Headache Immunity] [Pocket Dimension (Grade C)]
+Skills [Improved Back Step] [Passive Defense]
+Skills [Shoulder Rub] [Lucky Lecher]
+Skills [Dungeon Elevator] [Blinding Light]
+
+12
+00:06:49,840 --> 00:06:53,350
+Name:
+
+13
+00:06:49,840 --> 00:06:53,350
+Level:
+
+14
+00:06:49,840 --> 00:06:53,350
+Skills:
+
+15
+00:09:56,030 --> 00:10:00,410
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+16
+00:09:56,030 --> 00:10:00,410
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+17
+00:09:56,030 --> 00:10:00,410
+Noir Stardia  LP.1200
+
+18
+00:09:56,030 --> 00:10:00,410
+Skills [Great Sage] [Get Creative] [Editor] [Bestow]
+Skills [LP Conversion] [Stone Bullet] [Discerning Eye]
+Skills [Headache Immunity] [Pocket Dimension (Grade C)]
+Skills [Improved Back Step] [Passive Defense]
+Skills [Shoulder Rub] [Lucky Lecher]
+Skills [Dungeon Elevator] [Blinding Light] [Night Vision]
+
+19
+00:09:56,240 --> 00:10:00,410
+Noir Stardia  LP.1000
+
+20
+00:10:30,770 --> 00:10:30,810
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+21
+00:10:30,770 --> 00:10:33,650
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+22
+00:10:30,770 --> 00:10:33,650
+Sextuple Zombie Lv.110
+
+23
+00:10:30,770 --> 00:10:33,650
+Skills [Contagious] [Undead]
+
+24
+00:11:30,160 --> 00:11:31,540
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+25
+00:11:30,160 --> 00:11:31,540
+m 0 0 l 0 -10 l 37 -10 b 39 -10 40 -9 40 -7 l 40 7 b 40 9 39 10 37 10 l -37 10 b -39 10 -40 9 -40 7 l -40 -7 b -40 -9 -39 -10 -37 -10 l 0 -10
+
+26
+00:11:30,160 --> 00:11:31,540
+Zombie    Lv.170
+
+27
+00:11:30,160 --> 00:11:31,540
+Skills [Archery (Grade B)]
+Skills [Dual-Wielded Daggers (Grade C)]
+Skills [Sharp Ears] [Wind Strike]
+Skills [Zombified]
+
+28
+00:11:31,160 --> 00:11:34,170
+Archery (Grade B)
+
+29
+00:11:31,540 --> 00:11:34,170
+Dual-Wielded Daggers (Grade C)
+
+30
+00:11:31,920 --> 00:11:34,170
+Sharp Ears
+
+31
+00:11:43,010 --> 00:11:48,010
+Hello
+
+32
+00:11:43,010 --> 00:11:48,010
+Why does he have
+a tulip on his head?
+
+33
+00:12:03,610 --> 00:12:07,620
+[Zombified]
+
+34
+00:12:03,610 --> 00:12:07,620
+Needed to delete
+
+35
+00:12:03,610 --> 00:12:07,620
+Available LP.
+
+36
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+37
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+38
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+39
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+40
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+41
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+42
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+43
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+44
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+45
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+46
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+47
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+48
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+49
+00:23:41,980 --> 00:23:45,980
+Alice Theater
+
+50
+00:24:18,760 --> 00:24:21,930
+#07 "The Receptionist Ranking"
+
+51
+00:24:21,930 --> 00:24:27,710
+Illustration: Mitsumomo Mamu
+
