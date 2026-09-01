@@ -1,0 +1,1785 @@
+1
+00:00:13,704 --> 00:00:14,944
+Ah, Madoka-chan.
+
+2
+00:00:14,944 --> 00:00:15,884
+Good afternoon.
+
+3
+00:00:16,284 --> 00:00:18,794
+Is everyone here to pray?
+
+4
+00:00:19,214 --> 00:00:21,624
+Madoka-chan, didn't you hear?
+
+5
+00:00:21,624 --> 00:00:25,874
+There was a tug-of-war contest at the altar.
+
+6
+00:00:25,874 --> 00:00:32,054
+I've been reading books to the children at the library all morning, so...
+
+7
+00:00:32,054 --> 00:00:36,774
+Oh, but I think my grandfather mentioned something along those lines yesterday.
+
+8
+00:00:37,474 --> 00:00:39,774
+By the way, who was having the tug-of-war contest?
+
+9
+00:00:40,204 --> 00:00:44,994
+Sakai-san from the Sakai family, and you know, the one from the big city...
+
+10
+00:00:45,464 --> 00:00:46,994
+Is it Kazuma-san?
+
+11
+00:00:46,994 --> 00:00:47,914
+Yeah, that's right.
+
+12
+00:00:47,914 --> 00:00:50,594
+The kid that comes by my store once in a while.
+
+13
+00:00:50,594 --> 00:00:53,024
+But, why on Earth did Kazuma-san have a...
+
+14
+00:00:53,024 --> 00:00:55,674
+...tug-of-war contest with the father of the Sakai family?
+
+15
+00:00:55,674 --> 00:01:01,254
+Ah, well... I only came because I heard of the event from the master...
+
+16
+00:01:01,254 --> 00:01:06,554
+I only came because I heard of it from Yorozuya Inn's Nakai-san, but I didn't hear any specifics...
+
+17
+00:01:06,554 --> 00:01:11,764
+You people came here all fired up without knowing anything?
+
+18
+00:01:11,764 --> 00:01:16,784
+For ages, tug-of-war contests have always been about trying to win the hand of someone's daughter.
+
+19
+00:01:16,784 --> 00:01:18,304
+Eh? Then...
+
+20
+00:01:18,304 --> 00:01:22,324
+My guess is that Kazuma-kun tried to ask for her hand in marriage,
+
+21
+00:01:22,324 --> 00:01:24,834
+and Sakai's father doesn't want to let her go.
+
+22
+00:01:24,834 --> 00:01:29,344
+I see, so they had this tug-of-war to decide who gets the only daughter.
+
+23
+00:01:29,344 --> 00:01:30,734
+This is so nostalgic.
+
+24
+00:01:30,734 --> 00:01:35,384
+When I tried to ask for my wife's hand in
+marriage, her father was really against it,
+
+25
+00:01:35,384 --> 00:01:40,194
+and it came down to using the
+tug-of-war contest to decide the result.
+
+26
+00:01:40,194 --> 00:01:44,074
+Back then, tug-of-war was called the "Boring Pull", and...
+
+27
+00:01:42,684 --> 00:01:44,904
+So, Kazuma-san...
+
+28
+00:01:44,884 --> 00:01:47,014
+...and Sakai-senpai...
+
+29
+00:01:47,304 --> 00:01:54,684
+futari de mita haruka kanata no ryuusei
+
+30
+00:01:47,304 --> 00:01:54,684
+二人で見た遥か彼方の流星
+
+31
+00:01:47,304 --> 00:01:54,684
+The distant shooting star we saw.
+
+32
+00:01:54,684 --> 00:01:58,484
+haato no puromisu
+
+33
+00:01:54,684 --> 00:01:58,484
+ハートのプロミス
+
+34
+00:01:54,684 --> 00:01:58,484
+Believe in our promise. As much as you'd call it true love.
+
+35
+00:01:58,484 --> 00:02:08,284
+ai to ieru hodo shinjite
+
+36
+00:01:58,484 --> 00:02:08,284
+愛と言えるほど信じて
+
+37
+00:01:58,484 --> 00:02:08,284
+You stop, as if you'd do that...
+
+38
+00:02:08,284 --> 00:02:14,834
+Hoshizora e
+
+39
+00:02:08,284 --> 00:02:14,834
+Hoshizora e
+
+40
+00:02:08,284 --> 00:02:15,334
+Kakaru
+Hashi
+
+41
+00:02:08,284 --> 00:02:15,334
+Kakaru
+Hashi
+
+42
+00:02:10,624 --> 00:02:17,664
+Doki Fansubs Presents
+
+43
+00:02:10,744 --> 00:02:17,664
+Doki Fansubs Presents
+
+44
+00:02:14,834 --> 00:02:17,834
+Hoshizora e
+
+45
+00:02:14,834 --> 00:02:17,834
+Hoshizora e
+
+46
+00:02:15,334 --> 00:02:17,834
+Kakaru
+Hashi
+
+47
+00:02:15,334 --> 00:02:17,834
+Kakaru
+Hashi
+
+48
+00:02:18,294 --> 00:02:21,464
+kaze ni yureru kami osaeru you ni
+
+49
+00:02:18,294 --> 00:02:21,464
+風に揺れる髪　抑えるように
+
+50
+00:02:18,294 --> 00:02:21,464
+...to keep your hair from fluttering in the wind.
+
+51
+00:02:21,464 --> 00:02:23,504
+kimi wa tomadoi
+
+52
+00:02:21,464 --> 00:02:23,504
+君は戸惑い
+
+53
+00:02:21,464 --> 00:02:23,504
+I painted my cheeks red...
+
+54
+00:02:23,754 --> 00:02:28,844
+koi no hajimari to kidukanai de hoo wo akakushita
+
+55
+00:02:23,754 --> 00:02:28,844
+恋の始まりと気づかないで 頬を赤くした
+
+56
+00:02:23,754 --> 00:02:28,844
+...so I wouldn't notice that I had fallen in love.
+
+57
+00:02:29,184 --> 00:02:32,304
+ikusen no hikari ryoute de hora
+
+58
+00:02:29,184 --> 00:02:32,304
+幾千の光両手でほら
+
+59
+00:02:29,184 --> 00:02:32,304
+You have myriads of light rays in your hand.
+
+60
+00:02:32,304 --> 00:02:34,394
+hoshi wo sukutte
+
+61
+00:02:32,304 --> 00:02:34,394
+星をすくって
+
+62
+00:02:32,304 --> 00:02:34,394
+Come on and save that star.
+
+63
+00:02:34,604 --> 00:02:37,934
+hitori no yoru demo waraeru you ni
+
+64
+00:02:34,604 --> 00:02:37,934
+一人の夜でも　笑えるように
+
+65
+00:02:34,604 --> 00:02:37,934
+So you can smile even on a night when you're alone.
+
+66
+00:02:37,934 --> 00:02:43,234
+omoi de wo hanabi ni shite
+
+67
+00:02:37,934 --> 00:02:43,234
+想い出の花火にして
+
+68
+00:02:37,934 --> 00:02:43,234
+Turn them into fireworks of your memories.
+
+69
+00:02:43,444 --> 00:02:48,114
+kimi to boku no uta ni nare
+
+70
+00:02:43,444 --> 00:02:48,114
+君と僕の唄になれ
+
+71
+00:02:43,444 --> 00:02:48,114
+And let them become a song for us.
+
+72
+00:02:48,324 --> 00:02:51,244
+saa ten made todoke kono kimochi
+
+73
+00:02:48,324 --> 00:02:51,244
+さぁ天まで届けこの気持ち
+
+74
+00:02:48,324 --> 00:02:51,244
+Let the heavens know...
+
+75
+00:02:51,664 --> 00:02:53,824
+kokoro wo gyutto tsunagou
+
+76
+00:02:51,664 --> 00:02:53,824
+心をぎゅっト繋ごう
+
+77
+00:02:51,664 --> 00:02:53,824
+...about our love that connects us firmly.
+
+78
+00:02:53,824 --> 00:02:56,954
+yowakutatte iin da boku no te de
+
+79
+00:02:53,824 --> 00:02:56,954
+弱くたっていいんだ僕の手で
+
+80
+00:02:53,824 --> 00:02:56,954
+It's okay if you're weak.
+
+81
+00:02:57,164 --> 00:02:59,874
+sono yume wo hippatte iku
+
+82
+00:02:57,164 --> 00:02:59,874
+その夢をひっぱっていく
+
+83
+00:02:57,164 --> 00:02:59,874
+I'll grab your hand and realise your dream.
+
+84
+00:02:59,874 --> 00:03:02,464
+kakehashi ni na itai yo
+
+85
+00:02:59,874 --> 00:03:02,464
+架け橋になりたいよ
+
+86
+00:02:59,874 --> 00:03:02,464
+I want to become your only bridge.
+
+87
+00:03:02,464 --> 00:03:10,094
+kimi hitori no kirari niji ni naru deshou
+
+88
+00:03:02,464 --> 00:03:10,094
+君一人のキラリ虹になるでしょう
+
+89
+00:03:02,464 --> 00:03:10,094
+I'm sure we will be shining forever...
+
+90
+00:03:10,344 --> 00:03:16,684
+boku ni kimi wo eien ni
+
+91
+00:03:10,344 --> 00:03:16,684
+僕に君を永遠に
+
+92
+00:03:10,344 --> 00:03:16,684
+...brightly like a rainbow.
+
+93
+00:03:17,684 --> 00:03:18,434
+The thing is...
+
+94
+00:03:18,684 --> 00:03:21,314
+The thing is, it wasn't easy for us 
+to become friends!
+
+95
+00:03:22,064 --> 00:03:23,694
+And now we have to part...
+
+96
+00:03:24,524 --> 00:03:27,154
+Don't worry. We'll always be friends from now on.
+
+97
+00:03:27,654 --> 00:03:28,534
+From now on...
+
+98
+00:03:28,904 --> 00:03:30,404
+...we'll be friends forever.
+
+99
+00:03:30,824 --> 00:03:31,784
+Yep!
+
+100
+00:03:32,954 --> 00:03:33,914
+Okay!
+
+101
+00:03:38,954 --> 00:03:40,624
+Minamikokubaru
+
+102
+00:03:38,954 --> 00:03:40,624
+Daigo
+
+103
+00:03:46,714 --> 00:03:48,004
+Yes, hello?
+
+104
+00:03:48,004 --> 00:03:49,634
+Bro, it's me.
+
+105
+00:03:49,634 --> 00:03:50,974
+Oh, it's just Daigo.
+
+106
+00:03:51,424 --> 00:03:53,804
+Please, save me!
+
+107
+00:03:53,804 --> 00:03:54,894
+Huh?
+
+108
+00:03:54,894 --> 00:04:00,854
+Episode 10
+
+109
+00:03:54,894 --> 00:04:00,854
+Episode 10
+
+110
+00:03:54,894 --> 00:04:00,854
+The Ring, Flowing Down the Stream...
+
+111
+00:03:54,894 --> 00:04:00,854
+The Ring, Flowing Down the Stream...
+
+112
+00:04:04,154 --> 00:04:06,484
+Oba-san, good afternoon!
+
+113
+00:04:07,114 --> 00:04:08,694
+My, if it isn't Koyori-chan.
+
+114
+00:04:08,694 --> 00:04:10,694
+You've come back from your vacation.
+
+115
+00:04:10,694 --> 00:04:12,454
+Was Hawaii fun?
+
+116
+00:04:12,454 --> 00:04:13,324
+Yep!
+
+117
+00:04:13,324 --> 00:04:14,534
+I brought some souvenirs.
+
+118
+00:04:14,534 --> 00:04:15,744
+Where's Madoka?
+
+119
+00:04:15,744 --> 00:04:19,494
+She's here, but she's not feeling too well.
+
+120
+00:04:19,494 --> 00:04:19,994
+Ah...
+
+121
+00:04:20,414 --> 00:04:21,164
+Is she sick?
+
+122
+00:04:21,164 --> 00:04:24,794
+It's not that bad.
+
+123
+00:04:24,794 --> 00:04:27,134
+It's probably just the summer heat.
+
+124
+00:04:27,134 --> 00:04:28,384
+But...
+
+125
+00:04:28,384 --> 00:04:29,214
+Yes.
+
+126
+00:04:29,214 --> 00:04:32,724
+Ever since we had that tug-of-war contest on our grounds, she started feeling strange.
+
+127
+00:04:32,724 --> 00:04:34,134
+Tug-of-war?
+
+128
+00:04:34,134 --> 00:04:37,264
+Isn't that what they used to do instead of a battle?
+
+129
+00:04:37,264 --> 00:04:38,224
+But why?
+
+130
+00:04:38,224 --> 00:04:40,774
+Hmm... I'm not sure, myself.
+
+131
+00:04:41,644 --> 00:04:45,644
+But, I think if she sees your face, she'll feel better,
+
+132
+00:04:45,644 --> 00:04:47,444
+so please go inside and see her.
+
+133
+00:04:50,614 --> 00:04:52,614
+Ah, I see.
+
+134
+00:04:54,454 --> 00:04:56,954
+She hasn't been feeling well ever since the tug-of-war contest.
+
+135
+00:04:56,954 --> 00:04:58,144
+Yeah...
+
+136
+00:04:58,144 --> 00:04:59,824
+Well, that must be it.
+
+137
+00:04:59,824 --> 00:05:01,454
+Kazuma-kun would be the reason.
+
+138
+00:05:01,454 --> 00:05:02,454
+What?!
+
+139
+00:05:02,454 --> 00:05:04,254
+You're saying Kazuma did something to Madoka?
+
+140
+00:05:04,564 --> 00:05:05,414
+Eh?
+
+141
+00:05:05,414 --> 00:05:07,634
+Ah, that's not it.
+
+142
+00:05:07,634 --> 00:05:09,344
+Listen up, Koyori-chan.
+
+143
+00:05:09,344 --> 00:05:15,634
+TL Note: He changes "tsuna" (rope) to "tsuma[ran]" (boring), making a pun.
+
+144
+00:05:09,344 --> 00:05:15,634
+The tug-of-war before the altar has been called the "Boring Pull". It's a pun on "rope" and "boring"...
+
+145
+00:05:18,184 --> 00:05:19,054
+Ahem.
+
+146
+00:05:19,554 --> 00:05:28,064
+Thank you, everyone, for taking part in this "Last Minute Summer Homework Rush" emergency meeting!
+
+147
+00:05:28,064 --> 00:05:33,324
+In order to enjoy the remainder of our summer holiday properly, we should collect our homework and brainstor-
+
+148
+00:05:33,324 --> 00:05:34,114
+Kazuma!
+
+149
+00:05:34,114 --> 00:05:35,864
+Are you here?!
+
+150
+00:05:35,864 --> 00:05:38,324
+I'm here. What's wrong?
+
+151
+00:05:42,374 --> 00:05:43,204
+Kazuma!
+
+152
+00:05:44,334 --> 00:05:46,584
+You...
+
+153
+00:05:50,504 --> 00:05:52,844
+Are you really getting married to Hina?!
+
+154
+00:05:53,214 --> 00:05:54,054
+Huh?
+
+155
+00:05:54,054 --> 00:05:55,054
+Married?
+
+156
+00:06:02,104 --> 00:06:03,144
+Now I get it.
+
+157
+00:06:03,644 --> 00:06:06,644
+Kazuma and Hina aren't getting married.
+
+158
+00:06:06,644 --> 00:06:08,104
+Of course not!
+
+159
+00:06:08,104 --> 00:06:10,154
+How could you even think of
+something like that in the first place...
+
+160
+00:06:10,484 --> 00:06:12,124
+But, I didn't know that you were in a tug-of-war contest.
+
+161
+00:06:12,124 --> 00:06:16,154
+If you had told me about it, I would have cheered for you.
+
+162
+00:06:16,154 --> 00:06:17,704
+Ah, well...
+
+163
+00:06:17,704 --> 00:06:20,704
+Showing your half-naked body and fighting for your senpai,
+
+164
+00:06:20,704 --> 00:06:22,384
+you have a surprisingly good side to you.
+
+165
+00:06:23,164 --> 00:06:28,464
+It can't be helped that I was in Hawaii and couldn't be there...
+
+166
+00:06:28,464 --> 00:06:32,634
+As Fast-Ears Toudou Kasane, I regret it a lot...
+
+167
+00:06:33,044 --> 00:06:36,594
+Onii-chan used all of his strength, and he was very cool.
+
+168
+00:06:37,014 --> 00:06:39,974
+Ah, hey. Don't say anything unnecessary.
+
+169
+00:06:39,974 --> 00:06:43,014
+Okay, I'll go tell Madoka what really happened.
+
+170
+00:06:43,014 --> 00:06:43,894
+Huh?
+
+171
+00:06:43,894 --> 00:06:45,604
+Why to Madoka-chan?
+
+172
+00:06:45,604 --> 00:06:46,684
+Yep!
+
+173
+00:06:46,684 --> 00:06:49,644
+Ever since the tug-of-war, Madoka hasn't been feeling well,
+
+174
+00:06:49,644 --> 00:06:53,364
+and Gen-jii told me it was because she thought that Kazuma and Hina were getting married.
+
+175
+00:06:53,364 --> 00:06:55,274
+If she knows that's not the case, she'll definitely-
+
+176
+00:06:55,274 --> 00:06:56,444
+Hold on a second!
+
+177
+00:06:56,944 --> 00:06:59,404
+So basically... that means...
+
+178
+00:06:59,404 --> 00:07:01,574
+...Madoka-chan likes Kazuma?!
+
+179
+00:07:02,284 --> 00:07:03,244
+Eh?!
+
+180
+00:07:09,294 --> 00:07:11,124
+Is that so?!
+
+181
+00:07:11,124 --> 00:07:13,424
+If you were to ask me, it'd make me feel weird...
+
+182
+00:07:14,004 --> 00:07:17,384
+Actually, you came here without knowing that?
+
+183
+00:07:17,384 --> 00:07:20,554
+Koyo-nee tends to not think things through.
+
+184
+00:07:20,934 --> 00:07:24,144
+A-Anyway, I'm going to tell Madoka!
+
+185
+00:07:24,144 --> 00:07:26,354
+Hey, Koyori!
+
+186
+00:07:28,724 --> 00:07:30,314
+And there they go.
+
+187
+00:07:30,814 --> 00:07:31,814
+Hmm.
+
+188
+00:07:31,814 --> 00:07:34,614
+Thing are getting pretty interesting.
+
+189
+00:07:34,614 --> 00:07:36,114
+I think so, too.
+
+190
+00:07:39,234 --> 00:07:40,494
+So, what is it?
+
+191
+00:07:41,034 --> 00:07:42,614
+Calling us out here in this heat.
+
+192
+00:07:43,204 --> 00:07:45,414
+If it's anything stupid, you're in for it.
+
+193
+00:07:45,414 --> 00:07:46,534
+That's right!
+
+194
+00:07:46,534 --> 00:07:49,584
+If it's anything stupid, it's cold and sweet and it's delicious!
+
+195
+00:07:49,874 --> 00:07:54,004
+Ui, decide whether you want to
+complain or talk about your parfait.
+
+196
+00:07:54,384 --> 00:07:56,964
+Daigo-senpai, more importantly...
+
+197
+00:07:56,964 --> 00:07:58,424
+Ah, that's right.
+
+198
+00:07:58,964 --> 00:08:04,874
+Actually, for this discussion, I'm thinking about
+bringing Madoka-chan and my bro together.
+
+199
+00:08:04,874 --> 00:08:06,644
+And, I want everyone to help out.
+
+200
+00:08:06,974 --> 00:08:09,934
+We all know that Madoka-chan is a well developed girl,
+
+201
+00:08:09,934 --> 00:08:14,274
+and even though my bro is from the city, he's a surprisingly innocent boy.
+
+202
+00:08:14,274 --> 00:08:18,024
+So, as his friends, let's be the Love Cupids-
+
+203
+00:08:18,024 --> 00:08:18,824
+Hmph.
+
+204
+00:08:18,824 --> 00:08:19,824
+Nonsense.
+
+205
+00:08:19,824 --> 00:08:22,614
+Hinata, you're against this?
+
+206
+00:08:22,614 --> 00:08:25,414
+It doesn't matter if I'm for or against it. Why do I have to do it in the first place?
+
+207
+00:08:25,994 --> 00:08:27,534
+What do you mean, "why"?
+
+208
+00:08:27,534 --> 00:08:29,084
+Isn't it because we're their friends?
+
+209
+00:08:29,084 --> 00:08:31,294
+Doing things like this is normal.
+
+210
+00:08:32,164 --> 00:08:34,964
+Anyway, I'm not going to help you guys.
+
+211
+00:08:34,964 --> 00:08:37,464
+Ah, Ibuki-chan!
+
+212
+00:08:48,804 --> 00:08:49,724
+Wait!
+
+213
+00:08:49,724 --> 00:08:51,934
+Wait up, Ibuki-chan!
+
+214
+00:08:57,484 --> 00:08:59,314
+What's wrong, Ibuki-chan?
+
+215
+00:08:59,314 --> 00:09:01,824
+This really isn't like you.
+
+216
+00:09:02,994 --> 00:09:04,324
+Ui...
+
+217
+00:09:04,324 --> 00:09:06,034
+Ui, you're fine with that?
+
+218
+00:09:06,414 --> 00:09:09,034
+Bringing that guy together with Madoka-chan.
+
+219
+00:09:09,784 --> 00:09:11,994
+That's... Well...
+
+220
+00:09:12,544 --> 00:09:18,214
+To me, Kazu-kun is like a brother...
+
+221
+00:09:18,714 --> 00:09:20,674
+So, well...
+
+222
+00:09:26,014 --> 00:09:27,344
+Okay.
+
+223
+00:09:27,344 --> 00:09:28,934
+If you're fine with that, then it's all right.
+
+224
+00:09:30,184 --> 00:09:32,514
+Ibuki-chan?
+
+225
+00:09:33,144 --> 00:09:35,934
+You want me to date Kazuma-san?!
+
+226
+00:09:35,934 --> 00:09:37,064
+Yes!
+
+227
+00:09:37,064 --> 00:09:42,444
+We discussed this with Daigo-senpai, and
+decided to support Koumoto-senpai's love!
+
+228
+00:09:42,824 --> 00:09:44,194
+L-Love?!
+
+229
+00:09:44,784 --> 00:09:50,324
+We've thought of a good plan, so don't worry and just go straight for it!
+
+230
+00:09:50,994 --> 00:09:54,834
+We're going to arrange for everyone to go to the
+amusement park, so we'll be calling Ayumu's brother.
+
+231
+00:09:55,754 --> 00:09:59,464
+Then, we'll suddenly tell him that we have
+last minute plans, and won't be able to come.
+
+232
+00:09:59,794 --> 00:10:02,594
+Senpai, please go on a date with him.
+
+233
+00:10:02,594 --> 00:10:04,764
+D-Date...
+
+234
+00:10:05,464 --> 00:10:11,304
+The details are all written in here, so please read it before you go out.
+
+235
+00:10:07,884 --> 00:10:11,304
+Date Guidebook
+
+236
+00:10:26,864 --> 00:10:28,994
+Hoshizora e Kakaru Hashi
+
+237
+00:10:26,864 --> 00:10:28,994
+Hoshizora e Kakaru Hashi
+
+238
+00:10:29,864 --> 00:10:31,994
+Hoshizora e Kakaru Hashi
+
+239
+00:10:29,864 --> 00:10:31,994
+Hoshizora e Kakaru Hashi
+
+240
+00:10:37,754 --> 00:10:40,294
+Now, how did this happen?
+
+241
+00:10:40,294 --> 00:10:44,804
+Daigo, Koyori and Kasane-chan all had last
+minute things come up, and couldn't come.
+
+242
+00:10:45,254 --> 00:10:47,014
+That's true...
+
+243
+00:10:47,634 --> 00:10:49,174
+I wonder what happened...
+
+244
+00:10:49,684 --> 00:10:53,894
+Ui and Ibuki already said they had plans of their own,
+
+245
+00:10:53,894 --> 00:10:56,314
+and Ayumu has a drawing session with his art club.
+
+246
+00:10:56,314 --> 00:10:59,024
+That means it's just the two of us, Madoka-chan.
+
+247
+00:11:01,234 --> 00:11:05,444
+Since we're all on our own, let's have as much fun as we can for the people who couldn't come.
+
+248
+00:11:08,534 --> 00:11:09,364
+Okay!
+
+249
+00:11:12,324 --> 00:11:14,204
+Such a great atmosphere, right?
+
+250
+00:11:14,204 --> 00:11:15,454
+Hey.
+
+251
+00:11:15,744 --> 00:11:20,664
+I'm fine with it, but did I really have to dress up like this?
+
+252
+00:11:20,664 --> 00:11:22,374
+Of course!
+
+253
+00:11:22,374 --> 00:11:27,504
+Since Daigo-senpai and I are already disguised, you have to do the same, Koyo-nee.
+
+254
+00:11:39,814 --> 00:11:41,104
+Okay!
+
+255
+00:11:41,104 --> 00:11:43,854
+Madoka-chan, where do you want to go first?
+
+256
+00:11:43,854 --> 00:11:45,194
+Let's see...
+
+257
+00:11:45,944 --> 00:11:47,114
+Er...
+
+258
+00:11:47,484 --> 00:11:47,614
+Jet Coaster
+
+259
+00:11:47,524 --> 00:11:52,784
+If I remember correctly, the date guidebook had the jet coaster as the first ride.
+
+260
+00:11:47,614 --> 00:11:52,784
+Jet Coaster
+
+261
+00:11:53,244 --> 00:11:55,874
+Let's take the jet coaster first-
+
+262
+00:11:59,244 --> 00:12:00,954
+That's surprising.
+
+263
+00:12:00,954 --> 00:12:03,624
+I didn't think you'd be too keen on a ride like this.
+
+264
+00:12:03,624 --> 00:12:07,294
+I'm definitely not afraid of these things...
+
+265
+00:12:09,304 --> 00:12:11,344
+That's right, Koumoto-senpai!
+
+266
+00:12:11,344 --> 00:12:15,804
+First off, take the jet coaster, raise the tension with her loud screaming,
+
+267
+00:12:15,804 --> 00:12:18,854
+and improve their relationship with this event!
+
+268
+00:12:26,184 --> 00:12:27,064
+Let me down!
+
+269
+00:12:27,064 --> 00:12:28,694
+I'll fall!
+
+270
+00:12:29,024 --> 00:12:32,404
+Mum!
+
+271
+00:12:37,454 --> 00:12:38,874
+Are you okay?
+
+272
+00:12:40,954 --> 00:12:44,334
+Haunted House
+
+273
+00:12:41,504 --> 00:12:44,334
+Madoka-chan, are you really fine with this?
+
+274
+00:12:44,334 --> 00:12:46,254
+O-Of course!
+
+275
+00:12:46,254 --> 00:12:49,754
+Even though I'm shaking, I am a shrine maiden!
+
+276
+00:12:49,754 --> 00:12:52,974
+Ghosts are my strong suit.
+
+277
+00:12:54,974 --> 00:12:57,804
+And, next up is the couple's entrance into the haunted house!
+
+278
+00:12:57,804 --> 00:13:01,544
+When they go in and become scared beyond their worst nightmares, they are sure to cling together,
+
+279
+00:13:01,544 --> 00:13:03,604
+and there will definitely be an increase in affection!
+
+280
+00:13:21,124 --> 00:13:24,084
+Madoka-chan, it's already over.
+
+281
+00:13:27,374 --> 00:13:29,214
+S-Sorry!
+
+282
+00:13:31,554 --> 00:13:33,424
+m 140 509 b 152 480 192 468 207 461 285 420 459 380 543 360 642 330 854 327 957 329 1035 323 1194 342 1274 348 1356 354 1521 396 1604 413 1652 422 1743 459 1790 470 1824 488 1757 585 1752 641 1728 665 1673 638 1653 630 1583 623 1445 596 1380 593 1287 582 1118 581 1034 575 960 572 848 579 752 585 680 590 605 596 512 608 467 615 404 618 350 638 320 641 296 650 279 656 257 633 236 650 221 657 194 654 179 660 170 638
+
+283
+00:13:31,554 --> 00:13:33,424
+Petting Zoo
+
+284
+00:13:39,764 --> 00:13:41,184
+Kazuma-san, Kazuma-san!
+
+285
+00:13:41,184 --> 00:13:42,974
+It's eating, it's eating!
+
+286
+00:13:43,724 --> 00:13:46,064
+Up next is the petting zoo!
+
+287
+00:13:46,354 --> 00:13:49,694
+Feeding the cute rabbits will result in an awkward moment where their hands make contact,
+
+288
+00:13:49,694 --> 00:13:52,654
+and thus create a strong bond of love!
+
+289
+00:13:53,324 --> 00:13:54,904
+I'll feed the rabbit, too.
+
+290
+00:14:01,784 --> 00:14:03,164
+This rabbit loves to eat!
+
+291
+00:14:03,704 --> 00:14:05,414
+It's just like Ui.
+
+292
+00:14:14,094 --> 00:14:15,764
+Whoa!
+
+293
+00:14:18,264 --> 00:14:21,604
+They do say "The way to a man's heart is through his stomach."
+
+294
+00:14:21,604 --> 00:14:26,144
+Using a large amount of food, she's bound to capture the heart of the hungry man!
+
+295
+00:14:23,314 --> 00:14:26,144
+A hungry man
+
+296
+00:14:26,934 --> 00:14:28,944
+Did you make all this, Madoka-chan?
+
+297
+00:14:28,944 --> 00:14:29,854
+Yes!
+
+298
+00:14:29,854 --> 00:14:32,444
+I woke up early, and tried my best.
+
+299
+00:14:32,444 --> 00:14:34,194
+I hope you like it.
+
+300
+00:14:34,734 --> 00:14:38,324
+If Ui saw this, she'd be so happy and salivating over this!
+
+301
+00:14:39,244 --> 00:14:40,454
+I'm digging in!
+
+302
+00:14:41,624 --> 00:14:44,244
+Hey, this is delicious!
+
+303
+00:14:48,084 --> 00:14:49,584
+Wow!
+
+304
+00:14:49,584 --> 00:14:52,834
+It sure is high up here in the Ferris wheel!
+
+305
+00:14:55,504 --> 00:14:57,554
+Madoka-chan, we had fun today.
+
+306
+00:14:58,554 --> 00:14:59,974
+Yes, we did.
+
+307
+00:15:00,434 --> 00:15:02,394
+We should all come here next time.
+
+308
+00:15:03,264 --> 00:15:04,814
+I think so, too.
+
+309
+00:15:04,814 --> 00:15:06,974
+Let's come here with everyone next time.
+
+310
+00:15:12,774 --> 00:15:14,024
+Oh, they're here!
+
+311
+00:15:15,944 --> 00:15:18,034
+Madoka doesn't seem too happy.
+
+312
+00:15:18,574 --> 00:15:19,904
+Tch, tch, tch!
+
+313
+00:15:19,904 --> 00:15:21,994
+That's why being young is such a hassle.
+
+314
+00:15:21,994 --> 00:15:22,914
+What did you say?
+
+315
+00:15:22,914 --> 00:15:24,374
+What do you mean, Daigoro?
+
+316
+00:15:24,374 --> 00:15:29,794
+According to my observations, that is the "shy and wants to keep her distance" symptom after a kiss.
+
+317
+00:15:31,374 --> 00:15:33,754
+M-Madoka kissed Kazuma?!
+
+318
+00:15:33,754 --> 00:15:34,674
+Most likely.
+
+319
+00:15:34,674 --> 00:15:37,924
+Then... are they going to get married?!
+
+320
+00:15:37,924 --> 00:15:38,554
+Eh?
+
+321
+00:15:38,554 --> 00:15:40,554
+No, you're thinking too far ahead.
+
+322
+00:15:40,554 --> 00:15:42,804
+But... they kissed!
+
+323
+00:15:42,804 --> 00:15:44,054
+Aren't they going to have a kid?!
+
+324
+00:15:44,054 --> 00:15:47,394
+They definitely have to get married!
+
+325
+00:15:50,104 --> 00:15:52,144
+W-What's so funny?!
+
+326
+00:15:52,144 --> 00:15:54,314
+I wasn't joking!
+
+327
+00:16:20,384 --> 00:16:21,764
+Kazuma-san!
+
+328
+00:16:27,604 --> 00:16:29,144
+Madoka-chan, what's with those clothes...
+
+329
+00:16:29,764 --> 00:16:34,104
+I wanted to change my image, so I borrowed these from Koyori-chan.
+
+330
+00:16:34,814 --> 00:16:36,564
+Are they... weird?
+
+331
+00:16:36,984 --> 00:16:39,114
+Ah, that's not it.
+
+332
+00:16:39,114 --> 00:16:41,074
+I was shocked, though. It was very different.
+
+333
+00:16:41,994 --> 00:16:44,784
+Why did you suddenly ask me out for a hike?
+
+334
+00:16:44,784 --> 00:16:47,034
+On top of that, just the two of us...
+
+335
+00:16:47,034 --> 00:16:48,914
+That's because... Well...
+
+336
+00:16:50,294 --> 00:16:53,004
+The bus is here!
+
+337
+00:16:55,714 --> 00:16:57,584
+How lucky that we caught it on time.
+
+338
+00:16:57,584 --> 00:17:01,254
+We would've had to wait a while if we missed this one.
+
+339
+00:17:01,254 --> 00:17:03,134
+Ah, yeah...
+
+340
+00:17:14,274 --> 00:17:17,064
+So, this is the path that Ayumu was talking about.
+
+341
+00:17:17,064 --> 00:17:20,114
+It's more of a hiking course than a path.
+
+342
+00:17:20,614 --> 00:17:26,824
+Since children can easily climb up the mountain using this course, I often used to come and play here.
+
+343
+00:17:27,114 --> 00:17:28,534
+I see.
+
+344
+00:17:37,084 --> 00:17:38,794
+This place...
+
+345
+00:17:42,304 --> 00:17:43,424
+Kazuma-san!
+
+346
+00:17:43,424 --> 00:17:44,054
+Hurry!
+
+347
+00:17:44,424 --> 00:17:45,474
+Eh?
+
+348
+00:17:45,474 --> 00:17:46,264
+Ah.
+
+349
+00:17:56,734 --> 00:17:58,774
+I'll lay out the sheet now.
+
+350
+00:18:28,134 --> 00:18:32,304
+Was that girl... back then... you, Madoka-chan?
+
+351
+00:18:40,314 --> 00:18:45,734
+I was pretty awkward around boys,
+and I didn't play much at the shrine.
+
+352
+00:18:45,734 --> 00:18:49,614
+So, I came here often to play by myself.
+
+353
+00:18:49,614 --> 00:18:55,744
+One day, a boy I didn't know came here to play, too.
+
+354
+00:18:55,744 --> 00:18:59,914
+That boy was different from the children at the shrine.
+
+355
+00:18:59,914 --> 00:19:02,504
+He was kind, and was a very nice person.
+
+356
+00:19:02,504 --> 00:19:05,924
+To me, he felt just like my knight in shining armour.
+
+357
+00:19:08,384 --> 00:19:14,354
+Although we only played once, I couldn't forget that boy.
+
+358
+00:19:14,354 --> 00:19:18,434
+I kept remembering that time when we had so much fun together.
+
+359
+00:19:18,434 --> 00:19:27,114
+And slowly, I started feeling like we had been playing every day.
+
+360
+00:19:28,074 --> 00:19:32,284
+Thinking back, it might have been love at first sight...
+
+361
+00:19:34,374 --> 00:19:38,164
+If that was the case, you should have just said something when we first met.
+
+362
+00:19:38,164 --> 00:19:39,454
+That's true.
+
+363
+00:19:40,124 --> 00:19:44,294
+You're right, but when we met at the shrine for the first time,
+
+364
+00:19:44,294 --> 00:19:48,714
+it was very sudden. I had no idea what to do.
+
+365
+00:19:49,514 --> 00:19:50,134
+I see.
+
+366
+00:19:50,134 --> 00:19:54,934
+So many things happened after that, and you
+never had a good chance to tell me about this.
+
+367
+00:19:54,934 --> 00:20:03,484
+I was hoping that Kazuma-san might
+remember me without me saying anything.
+
+368
+00:20:05,484 --> 00:20:08,904
+I had always been thinking about Kazuma-san.
+
+369
+00:20:08,904 --> 00:20:10,994
+Even if there was only a one-in-a-hundred-
+
+370
+00:20:10,994 --> 00:20:15,704
+No, a one-in-a-thousand chance, I had hoped that Kazuma-san would remember me.
+
+371
+00:20:16,164 --> 00:20:21,664
+I wanted a place in Kazuma-san's heart, no matter how small.
+
+372
+00:20:23,544 --> 00:20:27,204
+I wore these clothes today because I thought Kazuma-san...
+
+373
+00:20:27,204 --> 00:20:29,634
+...would remember me if I tried to dress like when we first met.
+
+374
+00:20:30,304 --> 00:20:31,264
+Sorry.
+
+375
+00:20:31,264 --> 00:20:36,094
+I didn't realise you had thought of that.
+
+376
+00:20:36,434 --> 00:20:40,684
+Although it happened when I was little, I shouldn't have forgotten your name.
+
+377
+00:20:40,684 --> 00:20:46,734
+Back then, your hair was short and you had a totally different personality.
+
+378
+00:20:51,574 --> 00:20:52,824
+It's fine.
+
+379
+00:20:52,824 --> 00:20:57,414
+I'm happy that you remembered me this way.
+
+380
+00:20:57,414 --> 00:20:58,874
+Madoka-chan, I-
+
+381
+00:20:58,874 --> 00:21:00,034
+I understand.
+
+382
+00:21:00,834 --> 00:21:02,254
+Kazuma-san's feelings.
+
+383
+00:21:08,714 --> 00:21:11,384
+Kazuma-san, do you remember?
+
+384
+00:21:11,384 --> 00:21:16,224
+What you said that day when we were saying farewell...
+
+385
+00:21:16,224 --> 00:21:17,344
+Madoka-chan...
+
+386
+00:21:19,014 --> 00:21:22,974
+Could you tell me those words again?
+
+387
+00:21:39,284 --> 00:21:41,284
+It's strange.
+
+388
+00:21:41,284 --> 00:21:47,334
+Even though we're not saying farewell, I still feel like crying.
+
+389
+00:21:49,294 --> 00:21:51,804
+That's right, Madoka-chan.
+
+390
+00:21:53,004 --> 00:21:55,884
+From now on, we'll be friends forever.
+
+391
+00:22:01,434 --> 00:22:02,604
+Okay!
+
+392
+00:22:19,994 --> 00:22:23,084
+itsumo nanika
+
+393
+00:22:19,994 --> 00:22:23,084
+いつも何か
+
+394
+00:22:19,994 --> 00:22:23,084
+There's always something...
+
+395
+00:22:23,084 --> 00:22:26,754
+anata no kokyuu wa
+
+396
+00:22:23,084 --> 00:22:26,754
+あなたの呼吸は
+
+397
+00:22:23,084 --> 00:22:26,754
+...that makes your breath...
+
+398
+00:22:26,754 --> 00:22:32,884
+minamo wo yurazu kaze ni naru
+
+399
+00:22:26,754 --> 00:22:32,884
+水面を揺らす風になる
+
+400
+00:22:26,754 --> 00:22:32,884
+...become the wind that shakes the water surface.
+
+401
+00:22:32,884 --> 00:22:35,884
+bukiyou dakedo
+
+402
+00:22:32,884 --> 00:22:35,884
+ぶきようだけど
+
+403
+00:22:32,884 --> 00:22:35,884
+Things are awkward,
+
+404
+00:22:35,884 --> 00:22:40,554
+suki konna kimochi
+
+405
+00:22:35,884 --> 00:22:40,554
+すきこんな気持ち
+
+406
+00:22:35,884 --> 00:22:40,554
+but I won't forget...
+
+407
+00:22:40,554 --> 00:22:46,684
+shitta koto wasurenai
+
+408
+00:22:40,554 --> 00:22:46,684
+知ったこと忘れない
+
+409
+00:22:40,554 --> 00:22:46,684
+...learning how it feels to love.
+
+410
+00:22:48,104 --> 00:22:49,894
+arigatou
+
+411
+00:22:48,104 --> 00:22:49,894
+ありがとう
+
+412
+00:22:48,104 --> 00:22:49,894
+Thank you.
+
+413
+00:22:49,894 --> 00:22:57,444
+omoide yori ima ga taimu mo nai
+
+414
+00:22:49,894 --> 00:22:57,444
+思い出より今がタイムもない
+
+415
+00:22:49,894 --> 00:22:57,444
+There isn't a time that is more important than our memories.
+
+416
+00:22:57,444 --> 00:23:01,284
+kono mainichi ga
+
+417
+00:22:57,444 --> 00:23:01,284
+この毎日が
+
+418
+00:22:57,444 --> 00:23:01,284
+These days we spend...
+
+419
+00:23:01,284 --> 00:23:05,794
+nani yori mo tokubetsu
+
+420
+00:23:01,284 --> 00:23:05,794
+何よりも特別
+
+421
+00:23:01,284 --> 00:23:05,794
+...are special compared to everything else.
+
+422
+00:23:05,794 --> 00:23:09,754
+dakara ne taisetsu na
+
+423
+00:23:05,794 --> 00:23:09,754
+だからねたいせつな
+
+424
+00:23:05,794 --> 00:23:09,754
+So please be my...
+
+425
+00:23:09,754 --> 00:23:12,634
+tomodachi de ite
+
+426
+00:23:09,754 --> 00:23:12,634
+友達でいて
+
+427
+00:23:09,754 --> 00:23:12,634
+...important friend.
+
+428
+00:23:12,634 --> 00:23:19,594
+tonari de warawasete
+
+429
+00:23:12,634 --> 00:23:19,594
+隣で笑わせて
+
+430
+00:23:12,634 --> 00:23:19,594
+Be by my side and make me smile.
+
+431
+00:23:19,974 --> 00:23:26,474
+zutto ne
+
+432
+00:23:19,974 --> 00:23:26,474
+ずっとね
+
+433
+00:23:19,974 --> 00:23:26,474
+Forever and ever.
+
+434
+00:23:27,564 --> 00:23:34,064
+naraba hanabi umare
+
+435
+00:23:27,564 --> 00:23:34,064
+ならば花火生まり
+
+436
+00:23:27,564 --> 00:23:34,064
+And we'll make fireworks fly.
+
+437
+00:24:17,904 --> 00:24:22,674
+Next time on Hoshizora e Kakaru Hashi, episode 11:
+
+438
+00:24:21,404 --> 00:24:24,994
+Next time
+
+439
+00:24:21,404 --> 00:24:24,994
+Next time
+
+440
+00:24:21,404 --> 00:24:24,994
+When the Rain Falls
+
+441
+00:24:21,404 --> 00:24:24,994
+When the Rain Falls
+
+442
+00:24:22,674 --> 00:24:24,034
+When the Rain Falls.
+
