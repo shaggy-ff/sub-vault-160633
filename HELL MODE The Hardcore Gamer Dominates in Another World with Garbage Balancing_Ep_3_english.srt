@@ -1,0 +1,2010 @@
+1
+00:01:31,290 --> 00:01:35,290
+EPISODE 3: TROUBLE
+
+2
+00:01:37,290 --> 00:01:41,170
+YOU HAVE REACHED FUSE LEVEL 3
+
+3
+00:01:37,290 --> 00:01:41,170
+YOU HAVE REACHED SUMMMON LEVEL 3
+
+4
+00:01:37,290 --> 00:01:41,170
+YOU HAVE REACHED GRIMOIRE EXPANSION LEVEL 2
+
+5
+00:01:37,290 --> 00:01:41,170
+YOU HAVE OBTAINED THE ENHANCE SKILL
+
+6
+00:01:37,380 --> 00:01:41,130
+Hell yeah! I finally leveled up my summon skill!
+
+7
+00:01:41,540 --> 00:01:42,960
+Stat page, open!
+
+8
+00:01:44,000 --> 00:01:46,000
+Now I have the Enhance skill!
+
+9
+00:01:44,880 --> 00:01:49,040
+SUMMON 3
+
+10
+00:01:44,880 --> 00:01:49,040
+CREATE 3 EXP: 8786 / 100000
+
+11
+00:01:44,880 --> 00:01:49,040
+FUSE 3 EXP: 0/100000
+
+12
+00:01:44,880 --> 00:01:49,040
+ENHANCE 1 EXP: 0/1000
+
+13
+00:01:44,880 --> 00:01:49,040
+SUMMONS AVAILABLE FOR CREATION:
+
+14
+00:01:44,880 --> 00:01:49,040
+INSECT [FGH]      BEAST [FGH]      BIRD [FG]
+
+15
+00:01:44,880 --> 00:01:49,040
+INVENTORY:
+
+16
+00:01:44,880 --> 00:01:49,040
+INSECT G 2 COPIES H 2 COPIES
+
+17
+00:01:44,880 --> 00:01:49,040
+BEAST G 13 COPIES, BIRD G 2 COPIES
+
+18
+00:01:46,330 --> 00:01:48,420
+Does that mean I can make my summons stronger?
+
+19
+00:01:49,170 --> 00:01:52,960
+I also unlocked F-rank creatures,
+which I expected.
+
+20
+00:01:53,080 --> 00:01:57,500
+But I still have to fuse them together
+to get new ones, like I did with Chappy, huh?
+
+21
+00:01:57,670 --> 00:01:59,540
+What type is next?
+
+22
+00:01:59,670 --> 00:02:01,580
+C'mon, dragon! That'd be epic!
+
+23
+00:02:01,580 --> 00:02:02,960
+Summon: Shinryu!
+
+24
+00:02:03,170 --> 00:02:05,250
+Roar!
+
+25
+00:02:06,000 --> 00:02:08,250
+Man, this is getting me hyped.
+
+26
+00:02:08,500 --> 00:02:11,670
+Even better news!
+My card inventory went up from 20 to 30!
+
+27
+00:02:11,670 --> 00:02:14,130
+That means 1.5 more buffs, baby!
+
+28
+00:02:14,330 --> 00:02:17,130
+It's been two whole years since I last
+leveled up my summon skill.
+
+29
+00:02:17,630 --> 00:02:18,710
+What a slog.
+
+30
+00:02:19,380 --> 00:02:22,040
+Alright! I'll have to experiment later!
+
+31
+00:02:23,670 --> 00:02:25,040
+Oh! It kicked!
+
+32
+00:02:25,040 --> 00:02:26,420
+Wow! Really?
+
+33
+00:02:26,540 --> 00:02:28,460
+I'll clean up the dishes for you.
+
+34
+00:02:28,670 --> 00:02:30,290
+Thank you, Allen.
+
+35
+00:02:30,460 --> 00:02:33,500
+Let's get these chores outta the way.
+Then I can mess around!
+
+36
+00:02:33,710 --> 00:02:36,920
+Hey, Mommy? Am I gonna haff a wittle bwudder?
+
+37
+00:02:37,130 --> 00:02:38,670
+Maybe a brother, maybe a sister.
+
+38
+00:02:38,750 --> 00:02:40,420
+We don't know yet!
+
+39
+00:02:40,500 --> 00:02:45,290
+It kicks pretty softly.
+So I get the feeling it'll be a girl.
+
+40
+00:02:45,460 --> 00:02:47,880
+I'll have to start thinking up names.
+
+41
+00:02:48,080 --> 00:02:51,500
+You promised that I get
+to name any girls, remember?
+
+42
+00:02:51,500 --> 00:02:54,750
+O-of course! Do you already have an idea?
+
+43
+00:02:55,210 --> 00:02:56,420
+Let's see...
+
+44
+00:02:56,580 --> 00:03:00,170
+Oh! Is that my MP going back to full?
+
+45
+00:03:00,630 --> 00:03:02,920
+Something warm and gentle.
+
+46
+00:03:02,500 --> 00:03:03,380
+SINCERELY, ELMEA - THE GOD OF CREATION
+
+47
+00:03:03,460 --> 00:03:04,710
+Elmea?
+
+48
+00:03:04,920 --> 00:03:06,460
+Whoa there, kiddo!
+
+49
+00:03:06,920 --> 00:03:09,500
+We don't take the Lord's name in vain.
+
+50
+00:03:09,500 --> 00:03:11,420
+You've been acting strange all day.
+
+51
+00:03:11,630 --> 00:03:13,210
+What's gotten into you?
+
+52
+00:03:13,210 --> 00:03:14,670
+O-oh, it's nothing!
+
+53
+00:03:14,670 --> 00:03:16,380
+Bad timing, devs!
+
+54
+00:03:16,750 --> 00:03:17,830
+H-hey, look!
+
+55
+00:03:17,960 --> 00:03:20,710
+Daddy! The boo-boo on your arm is all better!
+
+56
+00:03:20,710 --> 00:03:22,040
+Oh, you mean that old scar?
+
+57
+00:03:22,630 --> 00:03:25,670
+It's because I passed a Trial of the Gods
+during today's boar hunt.
+
+58
+00:03:26,080 --> 00:03:27,460
+Trial of the Gods?
+
+59
+00:03:27,960 --> 00:03:31,080
+It's a special moment that happens
+occasionally when we hunt.
+
+60
+00:03:31,540 --> 00:03:34,420
+You feel a sudden burst of energy
+that gets rid of all your wounds and exhaustion.
+
+61
+00:03:34,960 --> 00:03:36,130
+It feels great.
+
+62
+00:03:36,330 --> 00:03:37,710
+Wow!
+
+63
+00:03:38,500 --> 00:03:43,130
+Interesting. That must be how
+they describe leveling up in this world.
+
+64
+00:03:44,210 --> 00:03:46,960
+Flex! Pretty cool, huh?
+
+65
+00:03:44,210 --> 00:03:46,960
+Dad's a battle-hardened veteran at boar hunting.
+
+66
+00:03:47,210 --> 00:03:48,170
+Cool!
+
+67
+00:03:47,500 --> 00:03:51,290
+I can't see his stats, but I bet he must be
+a pretty high level by now.
+
+68
+00:03:51,710 --> 00:03:56,880
+Even though my summon skill went up,
+I'm still just level one.
+
+69
+00:03:54,250 --> 00:03:57,040
+NAME:
+
+70
+00:03:54,250 --> 00:03:57,040
+ALLEN
+
+71
+00:03:54,250 --> 00:03:57,040
+AGE:
+
+72
+00:03:54,250 --> 00:03:57,040
+CLASS:
+
+73
+00:03:54,250 --> 00:03:57,040
+SUMMONER
+
+74
+00:03:54,250 --> 00:03:57,040
+LEVEL:
+
+75
+00:03:54,260 --> 00:03:57,040
+HP:
+
+76
+00:03:57,710 --> 00:04:01,710
+And I'm never going to gain any EXP
+unless I beat some monsters.
+
+77
+00:03:58,830 --> 00:04:02,210
+SKILLS:
+
+78
+00:03:58,830 --> 00:04:02,210
+SUMMON (3)
+
+79
+00:03:58,840 --> 00:04:02,210
+CREATE (3)
+
+80
+00:03:58,840 --> 00:04:02,210
+FUSE (3)
+
+81
+00:03:58,840 --> 00:04:02,210
+EHHANCE (1)
+
+82
+00:03:58,840 --> 00:04:02,210
+EXPANSION (2)
+
+83
+00:03:58,840 --> 00:04:02,210
+DELETE
+
+84
+00:03:58,840 --> 00:04:02,210
+SWORD MASTERY (3)
+
+85
+00:03:58,840 --> 00:04:02,210
+THROW (3)
+
+86
+00:03:58,840 --> 00:04:02,210
+EXP:
+
+87
+00:04:03,040 --> 00:04:06,920
+But what sucks is that serfs
+can't leave the village without permission.
+
+88
+00:04:07,380 --> 00:04:10,080
+The only exception is for hunting.
+
+89
+00:04:11,750 --> 00:04:13,580
+Wish I could join a hunt...
+
+90
+00:04:13,580 --> 00:04:14,420
+No way.
+
+91
+00:04:15,330 --> 00:04:18,000
+Hunting isn't a game. It's dangerous.
+
+92
+00:04:18,920 --> 00:04:20,040
+It can cost lives.
+
+93
+00:04:25,920 --> 00:04:28,000
+Man, I wanna power myself up...
+
+94
+00:04:32,130 --> 00:04:35,790
+Alright. I'm betting I already know
+what that message was about.
+
+95
+00:04:36,080 --> 00:04:38,170
+I sent some pretty toxic complaints, after all.
+
+96
+00:04:38,830 --> 00:04:42,380
+Bingo! They fixed the glitchy text!
+
+97
+00:04:42,790 --> 00:04:48,710
+DEAREST ALLEN,
+
+98
+00:04:42,790 --> 00:04:48,710
+WE GREATLY APPRECIATE YOUR PASSION FOR THE GAME. PLEASE ACCEPT OUR PROFOUND APOLOGIES FOR THE ERROR THAT
+
+99
+00:04:42,790 --> 00:04:48,710
+OCCURRED WITH DISPLAYING YOUR TALENT DURING THE APPRAISAL CEREMONY. WE ALSO APOLOGIZE FOR THE DELAY IN
+
+100
+00:04:42,790 --> 00:04:48,710
+REPLYING TO YOUR MESSAGES. WE HAVE MADE UPDATES TO ENSURE THAT "SUMMONER" WILL DISPLAY PROPERLY IN
+
+101
+00:04:42,800 --> 00:04:48,710
+FUTURE CEREMONIES. WE HAVE ALREADY FILED AN ORACLE WITH THE GREAT POPE TO BRIEF EVERYONE ON THIS
+
+102
+00:04:42,800 --> 00:04:48,710
+NEW CLASS. HOWEVER, AS WITH THE OTHER CLASSES, NO FINER DETAILS HAVE BEEN SHARED.
+
+103
+00:04:42,800 --> 00:04:48,710
+NEXT, WE WOULD LIKE TO ADDRESS ALL OF YOUR STATS BEING E RANK. AS YOU SURMISED, THESE RANKS ARE
+
+104
+00:04:42,800 --> 00:04:48,710
+BASED ON EXPECTED GROWTH VALUES AND LEVEL UP SPEED. THE PROGRESSION OF LEVEL UPS, KNOWN AS
+
+105
+00:04:42,800 --> 00:04:48,710
+'TRIAL OF THE GODS' IN THIS WORLD, IS NOT INFORMATION THAT WE SHARE PUBLICLY. THE SAME IS TRUE FOR MODES,
+
+106
+00:04:42,800 --> 00:04:48,710
+WHICH DICTATE THE LEVEL OF DIFFICULTY. THEREFORE, BECAUSE OF HOW RANKS ARE CALCULATED
+
+107
+00:04:42,800 --> 00:04:48,710
+AND THE DATA INVOLVED, YOUR STATS WILL REMAIN DISPLAYED AS E RANK. WE APPRECIATE YOUR UNDERSTANDING.
+
+108
+00:04:42,800 --> 00:04:48,710
+THAT BEING SAID, WE REALIZE IT'S UNFAIR FOR YOU NOT TO KNOW WHAT TO EXPECT OF YOUR STATS IN THE FUTURE.
+
+109
+00:04:42,800 --> 00:04:48,710
+THEREFORE, WE ARE SENDING YOU A VERSION THAT DOESN'T TAKE LEVEL UP SPEED INTO ACCOUNT. THIS HAS BEEN
+
+110
+00:04:42,800 --> 00:04:48,710
+ADDED TO YOUR NOTEBOOK, SO YOU CAN REFER TO IT EVEN AFTER THIS LETTER HAS EXPIRED. PLEASE NOTE THIS DATA
+
+111
+00:04:42,810 --> 00:04:48,710
+DOESN'T REFLECT BUFFS GIVEN BY SUMMON CREATURES. OUR STAFF HERE IN THE HEAVENLY REALM IS DEDICATED TO
+
+112
+00:04:42,810 --> 00:04:48,710
+IMPROVING SERVICE FOR ALL PLAYERS AND APPRECIATE YOUR CONTINUED SUPPORT. PLEASE UNDERSTAND WE HAVE
+
+113
+00:04:42,810 --> 00:04:48,710
+DONE EVERYTHING IN OUR POWER TO COMPENSATE FOR THIS ERROR.
+
+114
+00:04:42,810 --> 00:04:48,710
+WE HOPE THAT YOU WILL NOT LODGE ANY FURTHER GRIEVANCES.
+
+115
+00:04:42,810 --> 00:04:48,710
+SINCERELY, ELMEA - THE GOD OF CREATION
+
+116
+00:04:42,880 --> 00:04:43,830
+But I gotta say,
+
+117
+00:04:43,830 --> 00:04:46,130
+"we have filed an oracle with the Great Pope
+
+118
+00:04:46,130 --> 00:04:48,420
+to brief everyone" is a funny mix of words.
+
+119
+00:04:48,710 --> 00:04:53,380
+Anyways, my stats showing as E rank
+was due to the slower level ups in Hell Mode, huh?
+
+120
+00:04:53,880 --> 00:04:57,250
+Oh! But they sent an attachment
+showing just the raw data!
+
+121
+00:04:57,540 --> 00:05:06,830
+NAME:      ALLEN
+
+122
+00:04:57,540 --> 00:05:06,830
+HP:
+
+123
+00:04:57,540 --> 00:05:06,830
+MP:
+
+124
+00:04:57,540 --> 00:05:06,830
+ATTACK:
+
+125
+00:04:57,550 --> 00:05:06,830
+ENDURANCE:
+
+126
+00:04:57,550 --> 00:05:06,830
+AGILITY:
+
+127
+00:04:57,550 --> 00:05:06,830
+INTELLIGENCE:
+
+128
+00:04:57,550 --> 00:05:06,830
+LUCK:
+
+129
+00:04:57,550 --> 00:05:06,830
+TALENT: SUMMONER
+
+130
+00:04:58,040 --> 00:05:01,250
+Nice. S rank for MP and Intelligence.
+
+131
+00:05:01,250 --> 00:05:02,750
+Makes sense for a Summoner.
+
+132
+00:05:02,960 --> 00:05:06,830
+I have the same amount
+of S, A, B, and C ranks as Krena.
+
+133
+00:05:06,960 --> 00:05:08,040
+No complaints here.
+
+134
+00:05:08,170 --> 00:05:10,540
+Seems like good value for the effort.
+
+135
+00:05:10,540 --> 00:05:12,170
+Even if it's an utter grind...
+
+136
+00:05:12,830 --> 00:05:14,250
+Okay, time to experiment!
+
+137
+00:05:14,630 --> 00:05:16,710
+For starters, using enhance on Denka!
+
+138
+00:05:16,710 --> 00:05:18,830
+INSECT H
+
+139
+00:05:16,710 --> 00:05:18,830
+ENDURANCE +1 AGILITY +1
+
+140
+00:05:19,000 --> 00:05:23,710
+TYPE:       INSECT
+
+141
+00:05:19,000 --> 00:05:23,710
+RANK:
+
+142
+00:05:19,000 --> 00:05:23,710
+NAME:          DENKA
+
+143
+00:05:19,000 --> 00:05:23,710
+HP:
+
+144
+00:05:19,000 --> 00:05:23,710
+MP:
+
+145
+00:05:19,000 --> 00:05:23,710
+ATTACK:
+
+146
+00:05:19,010 --> 00:05:23,710
+ENDURANCE:
+
+147
+00:05:19,010 --> 00:05:23,710
+AGILITY:
+
+148
+00:05:19,010 --> 00:05:23,710
+INTELLIGENCE:
+
+149
+00:05:19,010 --> 00:05:23,710
+LUCK:
+
+150
+00:05:19,010 --> 00:05:23,710
+BUFFS:        ENDURANCE +1 AGILITY +1
+
+151
+00:05:19,500 --> 00:05:20,670
+Sweet.
+
+152
+00:05:20,670 --> 00:05:22,790
+It boosts the stats of the creature itself,
+
+153
+00:05:22,790 --> 00:05:23,710
+just like I figured.
+
+154
+00:05:23,920 --> 00:05:27,710
+Specifically, the same two stats
+that it gives buffs for.
+
+155
+00:05:27,880 --> 00:05:31,290
+But looks like enhancing creatures
+doesn't affect my buffs.
+
+156
+00:05:31,750 --> 00:05:33,460
+INSECT H
+
+157
+00:05:31,750 --> 00:05:33,460
+ENDURANCE +1 AGILITY +1
+
+158
+00:05:31,830 --> 00:05:33,250
+Let's see it in person.
+
+159
+00:05:33,460 --> 00:05:34,960
+Summon: Denka!
+
+160
+00:05:43,250 --> 00:05:47,670
+I can tell it's boosted from how it looks,
+even though it's not any bigger.
+
+161
+00:05:48,040 --> 00:05:52,130
+This proves there's more to Summoner than just
+bringing out the biggest and baddest monsters.
+
+162
+00:05:52,710 --> 00:05:54,460
+Exciting stuff!
+
+163
+00:05:54,710 --> 00:05:55,540
+Are you still up?
+
+164
+00:05:56,420 --> 00:05:58,210
+Ew! Bug!
+
+165
+00:06:07,380 --> 00:06:09,670
+Have a good day. Be careful, honey.
+
+166
+00:06:10,080 --> 00:06:12,500
+After going through a cycle
+of summoning and unsummoning,
+
+167
+00:06:12,500 --> 00:06:15,080
+I learned that enhancements
+on a card don't go away.
+
+168
+00:06:15,500 --> 00:06:20,000
+Which means, as long as I have the MP to spare,
+I should enhance all the cards in my inventory.
+
+169
+00:06:20,210 --> 00:06:22,460
+Go on. Say goodbye to Daddy.
+
+170
+00:06:22,790 --> 00:06:24,670
+Bye, Daddy! Have a good day!
+
+171
+00:06:24,830 --> 00:06:26,920
+Thanks. See you later.
+
+172
+00:06:28,670 --> 00:06:30,710
+Haff a good day!
+
+173
+00:06:32,880 --> 00:06:34,130
+And... done.
+
+174
+00:06:36,040 --> 00:06:40,130
+I've been testing all the
+various combinations for fusion, but...
+
+175
+00:06:39,290 --> 00:06:40,380
+INSECT F
+
+176
+00:06:39,290 --> 00:06:40,380
+ENDURANCE +5 AGILITY +5
+
+177
+00:06:41,040 --> 00:06:42,040
+BEAST F
+
+178
+00:06:41,040 --> 00:06:42,040
+HP +5 ATTACK +5
+
+179
+00:06:42,040 --> 00:06:43,040
+INSECT F
+
+180
+00:06:42,040 --> 00:06:43,040
+BEAST F
+
+181
+00:06:43,920 --> 00:06:45,040
+INSECT F
+
+182
+00:06:43,920 --> 00:06:45,040
+BEAST F
+
+183
+00:06:45,170 --> 00:06:45,750
+BEAST F
+
+184
+00:06:45,170 --> 00:06:45,750
+BIRD F
+
+185
+00:06:45,830 --> 00:06:48,210
+I still haven't unlocked the new type.
+
+186
+00:06:46,580 --> 00:06:48,830
+BEAST F
+
+187
+00:06:46,580 --> 00:06:48,830
+BIRD F
+
+188
+00:06:48,920 --> 00:06:50,460
+The only possibility left is...
+
+189
+00:06:50,460 --> 00:06:50,920
+INSECT F
+
+190
+00:06:50,460 --> 00:06:50,920
+ENDURANCE +5 AGILITY +5
+
+191
+00:06:51,500 --> 00:06:51,960
+BIRD F
+
+192
+00:06:51,500 --> 00:06:51,960
+AGILITY +5 INTELLIGENCE +5
+
+193
+00:06:53,250 --> 00:06:55,130
+I better strike gold this time.
+
+194
+00:06:55,130 --> 00:06:57,750
+INSECT F
+
+195
+00:06:55,130 --> 00:06:57,750
+BIRD F
+
+196
+00:06:55,500 --> 00:06:57,830
+Insect F and Bird F, fusion!
+
+197
+00:06:58,710 --> 00:06:59,960
+Aw yeah!
+
+198
+00:06:59,960 --> 00:07:01,210
+GRASS F
+
+199
+00:06:59,960 --> 00:07:01,210
+MP + 5 LUCK +5
+
+200
+00:07:01,420 --> 00:07:03,080
+It's a new card!
+
+201
+00:07:03,460 --> 00:07:05,000
+But... seriously?
+
+202
+00:07:04,210 --> 00:07:07,920
+GRASS F
+
+203
+00:07:05,460 --> 00:07:07,420
+How is "grass" a summonable creature type?
+
+204
+00:07:08,290 --> 00:07:10,830
+Well, I guess it's not all
+that different from insect.
+
+205
+00:07:10,830 --> 00:07:12,790
+More importantly, show me the buffs!
+
+206
+00:07:13,000 --> 00:07:15,830
+CURRENT MP IS 7, MAX OF 12
+
+207
+00:07:14,040 --> 00:07:15,380
+Whoa!
+
+208
+00:07:15,830 --> 00:07:19,540
+I finally got a creature
+that comes with an MP buff! Let's go!
+
+209
+00:07:19,580 --> 00:07:24,290
+NAME:                    NONE (PLEASE CHOOSE)
+
+210
+00:07:19,580 --> 00:07:24,290
+HP:                                     14
+
+211
+00:07:19,580 --> 00:07:24,290
+MP:                                     20
+
+212
+00:07:19,590 --> 00:07:24,290
+TYPE:                                GRASS
+
+213
+00:07:19,590 --> 00:07:24,290
+RANK:                                    F
+
+214
+00:07:19,590 --> 00:07:24,290
+ATTACK:                                  12
+
+215
+00:07:19,590 --> 00:07:24,290
+ENDURANCE:                          15
+
+216
+00:07:19,590 --> 00:07:24,290
+AGILITY:                                  10
+
+217
+00:07:19,590 --> 00:07:24,290
+INTELLIGENCE:                      13
+
+218
+00:07:19,590 --> 00:07:24,290
+LUCK:                                    20
+
+219
+00:07:19,590 --> 00:07:24,290
+BUFFS:                       MP + 5 LUCK +5
+
+220
+00:07:19,590 --> 00:07:24,290
+ABILITY:                             AROMA
+
+221
+00:07:19,920 --> 00:07:22,130
+Having this buff means that I can do
+
+222
+00:07:22,130 --> 00:07:24,210
+way more stuff over the course of one day!
+
+223
+00:07:24,420 --> 00:07:28,330
+At my current pace, I don't know how many decades
+it could take for me to reach the next level.
+
+224
+00:07:28,630 --> 00:07:31,130
+But this baby might cut that down
+by a number of years!
+
+225
+00:07:31,130 --> 00:07:32,920
+It's huge news!
+
+226
+00:07:33,210 --> 00:07:35,830
+Alright. Let's see what it's capable of.
+
+227
+00:07:37,460 --> 00:07:38,380
+GRASS F
+
+228
+00:07:37,460 --> 00:07:38,380
+MP + 5 LUCK +5
+
+229
+00:07:45,420 --> 00:07:48,670
+Huh... Oh, right. I need to name it.
+
+230
+00:07:49,040 --> 00:07:52,460
+An apple, hm? Okay, you're gonna be "Appo"!
+
+231
+00:07:52,460 --> 00:07:53,630
+Not super original, I know.
+
+232
+00:07:53,830 --> 00:07:56,830
+You're obviously not made for fighting, huh?
+
+233
+00:07:58,540 --> 00:08:01,040
+ABILITY: AROMA
+
+234
+00:07:58,630 --> 00:08:00,210
+Your ability is "Aroma."
+
+235
+00:08:01,330 --> 00:08:03,210
+Appo. Use your skill.
+
+236
+00:08:04,630 --> 00:08:04,960
+Huh?
+
+237
+00:08:10,000 --> 00:08:11,630
+Uh, so... is that all?
+
+238
+00:08:11,880 --> 00:08:12,920
+You gotta be kidding.
+
+239
+00:08:15,040 --> 00:08:15,630
+Huh?
+
+240
+00:08:16,170 --> 00:08:19,330
+I mean, I guess it does
+smell like an essential oil...
+
+241
+00:08:19,630 --> 00:08:23,540
+Ah, lovely! Now our boring little yard is one step
+closer to becoming a botanical paradise!
+
+242
+00:08:23,540 --> 00:08:26,460
+Argh! What am I, a freakin' isekai gardener?!
+
+243
+00:08:26,460 --> 00:08:28,420
+Thanks for hanging up the laundry, Allen.
+
+244
+00:08:28,420 --> 00:08:29,790
+It's almost time for lunch.
+
+245
+00:08:29,920 --> 00:08:33,460
+Oh crap! Go back to being a card, Appo!
+
+246
+00:08:34,580 --> 00:08:37,630
+It's not working! I can't get rid of this sapling!
+
+247
+00:08:37,710 --> 00:08:41,080
+Oh my. Has there always been a sapling here?
+
+248
+00:08:41,080 --> 00:08:42,540
+Gosh, I dunno.
+
+249
+00:08:42,830 --> 00:08:44,960
+It has such a nice aroma.
+
+250
+00:08:45,080 --> 00:08:46,670
+S-sure does!
+
+251
+00:08:47,880 --> 00:08:49,920
+What's the deal with this thing?
+
+252
+00:08:50,130 --> 00:08:52,290
+Does it have any use outside of its buffs?
+
+253
+00:09:00,460 --> 00:09:04,130
+Dammit! I still can't compete with her!
+
+254
+00:09:04,460 --> 00:09:05,500
+Hey, Allen.
+
+255
+00:09:06,540 --> 00:09:08,460
+Feels like you got kinda tougher.
+
+256
+00:09:08,670 --> 00:09:09,460
+Really?!
+
+257
+00:09:10,790 --> 00:09:14,040
+Come to think of it, my Sword Mastery skill
+is all the way at level three.
+
+258
+00:09:14,380 --> 00:09:19,420
+Plus, the expansion of my inventory gave me
+more space to buff my endurance and attack!
+
+259
+00:09:20,540 --> 00:09:21,420
+I guess so!
+
+260
+00:09:21,500 --> 00:09:24,710
+I wonder if that aroma skill
+from earlier has any effect in battle.
+
+261
+00:09:24,830 --> 00:09:26,540
+Like, maybe it can give boosts?
+
+262
+00:09:26,920 --> 00:09:31,750
+Actually, wait. I just remembered Fido was my
+first summon with an attack skill called "Chomp."
+
+263
+00:09:32,170 --> 00:09:36,460
+I really wanna try it out,
+but I shouldn't use it on people...
+
+264
+00:09:37,290 --> 00:09:38,380
+What's the matter?
+
+265
+00:09:39,790 --> 00:09:40,790
+It's nothing.
+
+266
+00:09:48,710 --> 00:09:51,670
+I swear I've thrown more than
+20,000 of these at this point,
+
+267
+00:09:51,670 --> 00:09:53,710
+but there's no sign of my skill leveling up...
+
+268
+00:09:55,960 --> 00:09:58,580
+Big Brudder! This is boring!
+
+269
+00:09:58,580 --> 00:10:00,710
+Sorry. Wait just a little longer, okay?
+
+270
+00:10:01,130 --> 00:10:05,080
+I already have to look after Mash and help Mommy
+with the chores since she's pregnant.
+
+271
+00:10:05,330 --> 00:10:08,580
+Besides, I should really be focusing
+on increasing my summon level instead.
+
+272
+00:10:08,920 --> 00:10:11,250
+This just isn't worth the time it takes.
+
+273
+00:10:11,790 --> 00:10:14,880
+So I guess I'll quit practicing my "Throw" skill.
+
+274
+00:10:15,290 --> 00:10:19,210
+Except I hate to think I'm just
+one toss away from leveling up.
+
+275
+00:10:19,330 --> 00:10:21,130
+That makes it impossible to quit!
+
+276
+00:10:21,130 --> 00:10:23,380
+Hey! What're these trees?
+
+277
+00:10:27,710 --> 00:10:29,540
+Shucks, I'm not sure.
+
+278
+00:10:30,250 --> 00:10:32,580
+We practically have a garden now.
+
+279
+00:10:32,790 --> 00:10:34,330
+But they're really just taking up space...
+
+280
+00:10:35,330 --> 00:10:37,830
+I figured out a few things out from testing.
+
+281
+00:10:38,460 --> 00:10:43,790
+Mainly that Appo's skill, Aroma, can shorten
+MP recovery time from six hours to five hours.
+
+282
+00:10:44,250 --> 00:10:46,330
+Which enables me to do even more daily activities.
+
+283
+00:10:47,040 --> 00:10:50,500
+But honestly, it feels like
+I'll never have enough time...
+
+284
+00:11:02,000 --> 00:11:03,540
+Daddy sure is late.
+
+285
+00:11:03,920 --> 00:11:07,790
+Yeah. Even though he said
+he would be working close by today...
+
+286
+00:11:08,420 --> 00:11:10,210
+C'mon, Rodin! Hang in there!
+
+287
+00:11:12,210 --> 00:11:13,960
+Careful not to drop him, fellas!
+
+288
+00:11:17,750 --> 00:11:19,830
+Listen! We've almost got you home!
+
+289
+00:11:23,540 --> 00:11:25,790
+We made it! Your family's here, Rodin!
+
+290
+00:11:30,750 --> 00:11:32,040
+He got hit bad...
+
+291
+00:11:32,630 --> 00:11:33,960
+Took a boar fang right to the gut.
+
+292
+00:11:40,000 --> 00:11:44,000
+THE HARDCORE GAMER DOMINATES
+
+293
+00:11:40,000 --> 00:11:44,000
+IN ANOTHER WORLD WITH GARBAGE BALANCING
+
+294
+00:11:46,710 --> 00:11:47,580
+Oh, honey...
+
+295
+00:11:52,670 --> 00:11:56,000
+Man, looks like they straight up
+cauterized the wound.
+
+296
+00:11:56,630 --> 00:12:00,710
+We managed to keep him alive.
+Thanks to a healing herb.
+
+297
+00:12:01,040 --> 00:12:01,920
+Healing herb?
+
+298
+00:12:02,380 --> 00:12:03,960
+A Muellerze Flower.
+
+299
+00:12:03,960 --> 00:12:05,380
+Wait, really?
+
+300
+00:12:05,710 --> 00:12:08,540
+But how did you even get something so valuable?
+
+301
+00:12:08,710 --> 00:12:10,630
+Remember when the knights came the other day?
+
+302
+00:12:10,880 --> 00:12:13,170
+As part of their apology
+for what happened with Krena,
+
+303
+00:12:13,460 --> 00:12:15,750
+the knight captain gave me some gold coins.
+
+304
+00:12:16,750 --> 00:12:19,210
+We would've been screwed without those.
+
+305
+00:12:19,460 --> 00:12:22,210
+Well, that stupid commoner
+is to blame for all this!
+
+306
+00:12:23,460 --> 00:12:26,080
+Enough is enough!
+Let's put our collective foot down!
+
+307
+00:12:26,290 --> 00:12:27,210
+C'mon, Gerda!
+
+308
+00:12:29,670 --> 00:12:31,210
+What's going on?
+
+309
+00:12:36,460 --> 00:12:38,460
+Aw, don't fret, Mash.
+
+310
+00:12:38,880 --> 00:12:40,420
+It's all gonna be okay.
+
+311
+00:12:40,880 --> 00:12:43,170
+Let's give them some peace.
+You fellas should head home.
+
+312
+00:12:43,630 --> 00:12:45,710
+Don't do anything rash, hear me?
+
+313
+00:12:50,330 --> 00:12:53,540
+What exactly happened?
+Is a commoner really to blame?
+
+314
+00:12:54,580 --> 00:12:57,580
+A few days ago,
+we got a summons from the chieftain.
+
+315
+00:12:58,750 --> 00:13:01,540
+He wanted us to let commoners join the boar hunt.
+
+316
+00:13:02,040 --> 00:13:03,130
+But why?
+
+317
+00:13:03,710 --> 00:13:06,460
+Boar meat is valuable to them.
+
+318
+00:13:07,040 --> 00:13:09,670
+Although the majority of it is given to the baron,
+
+319
+00:13:10,170 --> 00:13:12,210
+the leftovers get split between us hunters.
+
+320
+00:13:12,790 --> 00:13:16,580
+Of course, there are times we may trade it
+for salt, firewood, or other essentials.
+
+321
+00:13:16,960 --> 00:13:18,290
+But it's hard to come by otherwise.
+
+322
+00:13:19,170 --> 00:13:23,040
+In spite of that, no commoner
+has ever volunteered themselves for a hunt.
+
+323
+00:13:23,750 --> 00:13:27,040
+It's just too dangerous.
+There are casualties every year.
+
+324
+00:13:28,040 --> 00:13:32,000
+Yet we serfs still do it, anyway.
+Because it's how we make a living.
+
+325
+00:13:32,630 --> 00:13:34,330
+We don't really have a choice in the matter.
+
+326
+00:13:34,790 --> 00:13:37,920
+So how did the commoners end up
+participating this time?
+
+327
+00:13:38,210 --> 00:13:42,040
+Because they heard talk of a hero
+among the serfs, I'm guessing.
+
+328
+00:13:42,500 --> 00:13:43,830
+Huh? You mean Krena?
+
+329
+00:13:44,420 --> 00:13:45,460
+No, I mean Rodin.
+
+330
+00:13:48,250 --> 00:13:51,880
+You remember when Sir Zenof
+called Rodin a legend in front of everybody?
+
+331
+00:13:52,710 --> 00:13:54,750
+From what I've heard,
+
+332
+00:13:54,750 --> 00:13:58,000
+Rodin is the man responsible for taking on
+the most dangerous role in the hunts.
+
+333
+00:13:58,670 --> 00:14:01,330
+In a way of speaking,
+that became like an official endorsement.
+
+334
+00:14:02,080 --> 00:14:05,580
+Everyone assumed commoners would be safe
+to join the hunt as long as Rodin was around.
+
+335
+00:14:06,330 --> 00:14:07,750
+Now I get it...
+
+336
+00:14:09,080 --> 00:14:12,210
+Neither Rodin or I were comfortable
+with amateurs tagging along on the hunt.
+
+337
+00:14:13,210 --> 00:14:16,000
+But we're not in a position to refuse
+orders from the chieftain.
+
+338
+00:14:19,830 --> 00:14:22,420
+To make matters worse,
+in the days leading up to the hunt
+
+339
+00:14:22,880 --> 00:14:24,630
+there were bums who wouldn't practice seriously.
+
+340
+00:14:25,380 --> 00:14:27,920
+Probably felt like getting taught
+by serfs was below them.
+
+341
+00:14:27,920 --> 00:14:29,290
+Attack in sync!
+
+342
+00:14:32,830 --> 00:14:36,000
+And then came today, the start of the hunt.
+
+343
+00:14:40,080 --> 00:14:41,580
+Here it comes!
+
+344
+00:14:44,540 --> 00:14:47,960
+We gave the commoners the easiest job:
+holding the boar's attention.
+
+345
+00:14:48,500 --> 00:14:50,210
+But when the time ultimately came...
+
+346
+00:14:53,750 --> 00:14:54,580
+You blockheads!
+
+347
+00:14:54,920 --> 00:14:56,790
+They threw our whole strategy out the window.
+
+348
+00:14:57,000 --> 00:14:58,460
+So we had to wing it.
+
+349
+00:14:59,000 --> 00:14:59,830
+But...
+
+350
+00:15:04,040 --> 00:15:04,670
+Watch out!
+
+351
+00:15:10,250 --> 00:15:12,210
+Fortunately, we managed to slay the boar.
+
+352
+00:15:13,420 --> 00:15:15,670
+I'll bring Rodin's share of meat tomorrow.
+
+353
+00:15:16,210 --> 00:15:19,420
+Theresia. Allen. Stay strong for him.
+
+354
+00:15:21,500 --> 00:15:25,290
+I'm such a loser...
+I haven't even been trying to help.
+
+355
+00:15:30,170 --> 00:15:32,170
+Sorry, Mommy! I'll take over.
+
+356
+00:15:32,670 --> 00:15:35,380
+I can handle it. You get some rest.
+
+357
+00:15:35,500 --> 00:15:36,380
+But...
+
+358
+00:15:38,460 --> 00:15:39,290
+The Great Boar!
+
+359
+00:15:39,460 --> 00:15:40,290
+Rodin!
+
+360
+00:15:40,630 --> 00:15:41,420
+Theresia?
+
+361
+00:15:42,290 --> 00:15:43,080
+Daddy?
+
+362
+00:15:44,670 --> 00:15:46,170
+Daddy!
+
+363
+00:15:47,880 --> 00:15:51,790
+Man... what have I been doing with myself?
+
+364
+00:15:52,750 --> 00:15:55,750
+I've been totally preoccupied
+with powering myself up.
+
+365
+00:15:56,830 --> 00:15:58,460
+But what good is power without purpose?
+
+366
+00:16:02,830 --> 00:16:04,750
+This isn't a game for these people.
+
+367
+00:16:06,040 --> 00:16:10,040
+It's a harsh world. They're doing
+everything they can to survive in it.
+
+368
+00:16:11,080 --> 00:16:16,040
+I have a little brother to protect.
+And another sibling on the way.
+
+369
+00:16:17,170 --> 00:16:20,130
+Well, now! It's good to see you awake, Rodin!
+
+370
+00:16:20,420 --> 00:16:21,170
+Thanks.
+
+371
+00:16:21,290 --> 00:16:22,750
+But I'm still in bad shape.
+
+372
+00:16:23,000 --> 00:16:24,750
+Here. This is your share of meat.
+
+373
+00:16:25,210 --> 00:16:26,380
+Thank you.
+
+374
+00:16:26,920 --> 00:16:31,750
+Don't worry about a thing. We're gonna make sure
+your family is well taken care of over the winter.
+
+375
+00:16:32,040 --> 00:16:33,460
+Just focus on getting better.
+
+376
+00:16:33,790 --> 00:16:35,830
+That's great. Sorry to burden you.
+
+377
+00:16:36,670 --> 00:16:37,540
+Listen, Dad.
+
+378
+00:16:37,830 --> 00:16:40,250
+Just rest up and let me take over.
+
+379
+00:16:40,830 --> 00:16:41,750
+I promise...
+
+380
+00:16:42,290 --> 00:16:44,080
+I will keep our family safe!
+
+381
+00:17:05,880 --> 00:17:07,330
+Whoa there, Allen.
+
+382
+00:17:07,500 --> 00:17:09,580
+It's gonna be too heavy for you to carry.
+
+383
+00:17:09,710 --> 00:17:11,580
+Thanks for your concern.
+
+384
+00:17:12,630 --> 00:17:13,380
+Hup!
+
+385
+00:17:14,670 --> 00:17:15,170
+Wha-?!
+
+386
+00:17:18,330 --> 00:17:19,630
+Strong kid.
+
+387
+00:17:18,330 --> 00:17:19,630
+I'll be damned...
+
+388
+00:17:19,880 --> 00:17:22,330
+It's time for me to drop the act.
+
+389
+00:17:22,670 --> 00:17:25,540
+This village already has
+an up-and-coming hero named Krena.
+
+390
+00:17:25,830 --> 00:17:29,250
+So it's no problem even if a talentless serf
+like me draws a little attention.
+
+391
+00:17:31,630 --> 00:17:36,380
+I decided to pour every buff into my
+physical stats, so I ditched all of the MP ones.
+
+392
+00:17:36,790 --> 00:17:38,670
+Family comes first, period.
+
+393
+00:17:39,170 --> 00:17:42,080
+Thank you, Allen.
+That must have been hard to carry.
+
+394
+00:17:42,460 --> 00:17:43,880
+It was a cinch, Mom!
+
+395
+00:17:44,210 --> 00:17:46,710
+I'm going to help harvest potatoes this afternoon.
+
+396
+00:17:46,710 --> 00:17:49,040
+Mister Gerda said he would teach me how.
+
+397
+00:17:49,040 --> 00:17:51,330
+I see. Pass along my thanks to him.
+
+398
+00:17:53,960 --> 00:17:56,460
+Watch carefully. You pull
+the potatoes up by the root.
+
+399
+00:17:56,460 --> 00:17:57,500
+Wow!
+
+400
+00:17:57,500 --> 00:17:58,540
+Ready to try?
+
+401
+00:17:58,710 --> 00:18:00,170
+Yeah! Like this?
+
+402
+00:18:00,540 --> 00:18:02,500
+Not quite. You're going to need both hands to-
+
+403
+00:18:04,330 --> 00:18:06,250
+Uh, never mind.
+
+404
+00:18:06,250 --> 00:18:09,580
+I always knew you were a tough nut.
+But you're even stronger than I thought.
+
+405
+00:18:09,830 --> 00:18:12,000
+Yep. I get it from my Dad!
+
+406
+00:18:20,880 --> 00:18:24,250
+All that work to harvest these potatoes
+and the baron gets dibs on more than half of them.
+
+407
+00:18:24,790 --> 00:18:26,670
+Being a serf is rough.
+
+408
+00:18:27,290 --> 00:18:30,330
+To survive the winter, we're still gonna need...
+
+409
+00:18:30,330 --> 00:18:31,790
+Pardon me.
+
+410
+00:18:37,790 --> 00:18:40,460
+I heard that you were back on the mend, Rodin.
+
+411
+00:18:41,170 --> 00:18:43,170
+Please accept these fruits with my sympathies.
+
+412
+00:18:43,420 --> 00:18:46,000
+Well, thank you for your generosity.
+
+413
+00:18:46,880 --> 00:18:48,080
+Go on. Hurry up.
+
+414
+00:18:48,920 --> 00:18:50,750
+It's my fault! I screwed up!
+
+415
+00:18:50,750 --> 00:18:52,670
+Please accept my sincerest apologies!
+
+416
+00:18:52,670 --> 00:18:55,040
+Ah, so this is the idiot who Dad had to save.
+
+417
+00:18:55,330 --> 00:18:57,460
+Like an apology is gonna fix anything!
+
+418
+00:18:57,960 --> 00:18:59,710
+Be more careful next time, okay?
+
+419
+00:18:59,960 --> 00:19:01,580
+If you want to keep hunting, that is.
+
+420
+00:19:02,080 --> 00:19:04,250
+Yessir! I'll take that to heart!
+
+421
+00:19:04,670 --> 00:19:06,710
+Wow, Dad's so magnanimous!
+
+422
+00:19:06,920 --> 00:19:09,710
+Your mistake nearly cost my husband his life.
+
+423
+00:19:10,250 --> 00:19:14,460
+Everyone has a family to go back to,
+no matter what their social class is.
+
+424
+00:19:15,040 --> 00:19:16,670
+Please keep that in mind.
+
+425
+00:19:18,920 --> 00:19:20,920
+Rodin! Thank God you're okay!
+
+426
+00:19:21,080 --> 00:19:24,210
+He's not okay yet, dude.
+But now we don't have to worry!
+
+427
+00:19:24,420 --> 00:19:26,130
+Let's go on another hunt, buddy!
+
+428
+00:19:26,250 --> 00:19:27,710
+Dumbass! It's too soon for that!
+
+429
+00:19:27,920 --> 00:19:29,080
+Here, we brought a care package!
+
+430
+00:19:29,080 --> 00:19:29,830
+Quit pushing!
+
+431
+00:19:29,830 --> 00:19:31,960
+Our wives put it together.
+It should be good for you!
+
+432
+00:19:32,290 --> 00:19:35,750
+Shucks, you guys.
+Take it easy, he's still recovering!
+
+433
+00:19:36,210 --> 00:19:39,210
+I've got the best parents in all of Japan!
+
+434
+00:19:39,330 --> 00:19:40,830
+Or whatever this world is!
+
+435
+00:19:52,040 --> 00:19:53,250
+That should do it.
+
+436
+00:19:54,000 --> 00:19:55,170
+Summon: Hopper!
+
+437
+00:20:00,420 --> 00:20:01,790
+Okay, now for step two.
+
+438
+00:20:06,290 --> 00:20:07,790
+Alright! Use Provoke!
+
+439
+00:20:10,170 --> 00:20:12,170
+I know it's the most cliche trap ever.
+
+440
+00:20:12,330 --> 00:20:15,330
+But as long as it scores me
+about 50 ducks or wild birds,
+
+441
+00:20:15,330 --> 00:20:16,920
+then my family can survive the winter.
+
+442
+00:20:17,330 --> 00:20:18,830
+C'mon, suckers!
+
+443
+00:20:22,130 --> 00:20:24,500
+Ribbit! Ribbit!
+
+444
+00:20:25,040 --> 00:20:28,670
+Crap. Is the range of their skill not wide enough?
+
+445
+00:20:29,080 --> 00:20:32,500
+This isn't working. I guess it's
+back to the drawing board for me.
+
+446
+00:20:33,000 --> 00:20:33,580
+Huh?
+
+447
+00:20:34,330 --> 00:20:35,830
+Wild bird incoming!
+
+448
+00:20:36,040 --> 00:20:37,210
+Bring it on!
+
+449
+00:20:38,040 --> 00:20:38,630
+Wait...
+
+450
+00:20:44,880 --> 00:20:47,080
+No... no freakin' way.
+
+451
+00:20:48,170 --> 00:20:50,040
+Is that an albaheron?!
+
+452
+00:20:50,330 --> 00:20:53,790
+I figured they'd just lure a few birds,
+not a B-rank monster!
+
+453
+00:20:54,170 --> 00:20:56,420
+That's the monster I was named after.
+
+454
+00:20:56,420 --> 00:20:59,170
+It looks pretty tough. I better run for it.
+
+455
+00:21:00,750 --> 00:21:02,920
+HP:
+
+456
+00:21:00,750 --> 00:21:02,920
+MP:
+
+457
+00:21:00,750 --> 00:21:02,920
+ATTACK:
+
+458
+00:21:00,750 --> 00:21:02,920
+ENDURANCE:
+
+459
+00:21:01,080 --> 00:21:03,080
+My enhance skill is up to level two now.
+
+460
+00:21:03,380 --> 00:21:04,960
+That can boost creature stats
+
+461
+00:21:03,500 --> 00:21:06,290
+AGILITY:
+
+462
+00:21:03,500 --> 00:21:06,290
+INTELLIGENCE:
+
+463
+00:21:03,500 --> 00:21:06,290
+LUCK:
+
+464
+00:21:04,960 --> 00:21:06,290
+from plus 10 to plus 20.
+
+465
+00:21:06,290 --> 00:21:09,290
+And I've already enhanced
+every summon in my inventory.
+
+466
+00:21:09,830 --> 00:21:11,000
+It's worth a shot.
+
+467
+00:21:12,080 --> 00:21:14,830
+I could help provide for my family, and besides...
+
+468
+00:21:15,420 --> 00:21:17,330
+hardcore gamers never shy away from a challenge!
+
+469
+00:21:23,040 --> 00:21:24,000
+Summon: Fido!
+
+470
+00:21:29,790 --> 00:21:31,420
+Finally, a chance to use them in real battle!
+
+471
+00:21:31,420 --> 00:21:33,210
+Get wrecked, birdbrain!
+
+472
+00:21:38,540 --> 00:21:39,710
+Aw, hell...
+
+473
+00:21:40,420 --> 00:21:41,750
+Screw it!
+
+474
+00:21:44,630 --> 00:21:47,040
+Man, that hit me way harder than before!
+
+475
+00:21:48,250 --> 00:21:49,290
+Oh, right.
+
+476
+00:21:49,710 --> 00:21:52,630
+I've been losing buffs from each
+summon creature that gets defeated.
+
+477
+00:21:52,750 --> 00:21:55,170
+And it's making me weaker!
+
+478
+00:21:57,380 --> 00:22:00,540
+Okay, so that's one major downside
+to being a Summoner...
+
+479
+00:22:05,500 --> 00:22:06,460
+Oh crap!
+
+480
+00:22:08,460 --> 00:22:10,170
+This might be the end for me!
+
