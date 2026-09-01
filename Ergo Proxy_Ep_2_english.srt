@@ -1,0 +1,9287 @@
+1
+00:00:00,817 --> 00:00:02,197
+Thirty-four.
+
+2
+00:00:07,157 --> 00:00:08,577
+Thirty-five.
+
+3
+00:00:13,157 --> 00:00:14,747
+Thirty-six.
+
+4
+00:00:19,297 --> 00:00:20,757
+Thirty-seven.
+
+5
+00:00:20,917 --> 00:00:20,957
+Golo presents
+
+6
+00:00:20,917 --> 00:00:20,957
+Golo presents
+
+7
+00:00:20,957 --> 00:00:21,007
+Golo presents
+
+8
+00:00:20,957 --> 00:00:21,007
+Golo presents
+
+9
+00:00:21,007 --> 00:00:21,047
+Golo presents
+
+10
+00:00:21,007 --> 00:00:21,047
+Golo presents
+
+11
+00:00:21,047 --> 00:00:21,087
+Golo presents
+
+12
+00:00:21,047 --> 00:00:21,087
+Golo presents
+
+13
+00:00:21,087 --> 00:00:21,127
+Golo presents
+
+14
+00:00:21,087 --> 00:00:21,127
+Golo presents
+
+15
+00:00:21,127 --> 00:00:21,167
+Golo presents
+
+16
+00:00:21,127 --> 00:00:21,167
+Golo presents
+
+17
+00:00:21,167 --> 00:00:21,207
+Golo presents
+
+18
+00:00:21,167 --> 00:00:21,207
+Golo presents
+
+19
+00:00:21,207 --> 00:00:21,257
+Golo presents
+
+20
+00:00:21,207 --> 00:00:21,257
+Golo presents
+
+21
+00:00:21,257 --> 00:00:21,297
+Golo presents
+
+22
+00:00:21,257 --> 00:00:21,297
+Golo presents
+
+23
+00:00:21,297 --> 00:00:21,337
+Golo presents
+
+24
+00:00:21,297 --> 00:00:21,337
+Golo presents
+
+25
+00:00:21,337 --> 00:00:21,377
+Golo presents
+
+26
+00:00:21,337 --> 00:00:21,377
+Golo presents
+
+27
+00:00:21,377 --> 00:00:21,417
+Golo presents
+
+28
+00:00:21,377 --> 00:00:21,417
+Golo presents
+
+29
+00:00:21,417 --> 00:00:21,457
+Golo presents
+
+30
+00:00:21,417 --> 00:00:21,457
+Golo presents
+
+31
+00:00:21,457 --> 00:00:21,507
+Golo presents
+
+32
+00:00:21,457 --> 00:00:21,507
+Golo presents
+
+33
+00:00:21,507 --> 00:00:21,547
+Golo presents
+
+34
+00:00:21,507 --> 00:00:21,547
+Golo presents
+
+35
+00:00:21,547 --> 00:00:21,587
+Golo presents
+
+36
+00:00:21,547 --> 00:00:21,587
+Golo presents
+
+37
+00:00:21,587 --> 00:00:21,627
+Golo presents
+
+38
+00:00:21,587 --> 00:00:21,627
+Golo presents
+
+39
+00:00:21,627 --> 00:00:21,667
+Golo presents
+
+40
+00:00:21,627 --> 00:00:21,667
+Golo presents
+
+41
+00:00:21,667 --> 00:00:21,707
+Golo presents
+
+42
+00:00:21,667 --> 00:00:21,707
+Golo presents
+
+43
+00:00:21,707 --> 00:00:21,757
+Golo presents
+
+44
+00:00:21,707 --> 00:00:21,757
+Golo presents
+
+45
+00:00:21,757 --> 00:00:21,797
+Golo presents
+
+46
+00:00:21,757 --> 00:00:21,797
+Golo presents
+
+47
+00:00:21,797 --> 00:00:21,837
+Golo presents
+
+48
+00:00:21,797 --> 00:00:21,837
+Golo presents
+
+49
+00:00:21,837 --> 00:00:21,877
+Golo presents
+
+50
+00:00:21,837 --> 00:00:21,877
+Golo presents
+
+51
+00:00:21,877 --> 00:00:21,917
+Golo presents
+
+52
+00:00:21,877 --> 00:00:21,917
+Golo presents
+
+53
+00:00:21,917 --> 00:00:21,957
+Golo presents
+
+54
+00:00:21,917 --> 00:00:21,957
+Golo presents
+
+55
+00:00:21,957 --> 00:00:22,007
+Golo presents
+
+56
+00:00:21,957 --> 00:00:22,007
+Golo presents
+
+57
+00:00:22,007 --> 00:00:22,047
+Golo presents
+
+58
+00:00:22,007 --> 00:00:22,047
+Golo presents
+
+59
+00:00:22,047 --> 00:00:22,087
+Golo presents
+
+60
+00:00:22,047 --> 00:00:22,087
+Golo presents
+
+61
+00:00:22,087 --> 00:00:22,127
+Golo presents
+
+62
+00:00:22,087 --> 00:00:22,127
+Golo presents
+
+63
+00:00:22,127 --> 00:00:22,167
+Golo presents
+
+64
+00:00:22,127 --> 00:00:22,167
+Golo presents
+
+65
+00:00:22,167 --> 00:00:22,217
+Golo presents
+
+66
+00:00:22,167 --> 00:00:22,217
+Golo presents
+
+67
+00:00:22,217 --> 00:00:22,257
+Golo presents
+
+68
+00:00:22,217 --> 00:00:22,257
+Golo presents
+
+69
+00:00:22,257 --> 00:00:22,297
+Golo presents
+
+70
+00:00:22,257 --> 00:00:22,297
+Golo presents
+
+71
+00:00:22,297 --> 00:00:22,337
+Golo presents
+
+72
+00:00:22,297 --> 00:00:22,337
+Golo presents
+
+73
+00:00:22,337 --> 00:00:22,377
+Golo presents
+
+74
+00:00:22,337 --> 00:00:22,377
+Golo presents
+
+75
+00:00:22,377 --> 00:00:22,417
+Golo presents
+
+76
+00:00:22,377 --> 00:00:22,417
+Golo presents
+
+77
+00:00:22,417 --> 00:00:22,467
+Golo presents
+
+78
+00:00:22,417 --> 00:00:22,467
+Golo presents
+
+79
+00:00:22,467 --> 00:00:22,507
+Golo presents
+
+80
+00:00:22,467 --> 00:00:22,507
+Golo presents
+
+81
+00:00:22,507 --> 00:00:22,547
+Golo presents
+
+82
+00:00:22,507 --> 00:00:22,547
+Golo presents
+
+83
+00:00:22,547 --> 00:00:22,587
+Golo presents
+
+84
+00:00:22,547 --> 00:00:22,587
+Golo presents
+
+85
+00:00:22,587 --> 00:00:22,627
+Golo presents
+
+86
+00:00:22,587 --> 00:00:22,627
+Golo presents
+
+87
+00:00:22,627 --> 00:00:22,667
+Golo presents
+
+88
+00:00:22,627 --> 00:00:22,667
+Golo presents
+
+89
+00:00:22,667 --> 00:00:22,717
+Golo presents
+
+90
+00:00:22,667 --> 00:00:22,717
+Golo presents
+
+91
+00:00:22,717 --> 00:00:22,757
+Golo presents
+
+92
+00:00:22,717 --> 00:00:22,757
+Golo presents
+
+93
+00:00:22,757 --> 00:00:22,797
+Golo presents
+
+94
+00:00:22,757 --> 00:00:22,797
+Golo presents
+
+95
+00:00:22,797 --> 00:00:22,837
+Golo presents
+
+96
+00:00:22,797 --> 00:00:22,837
+Golo presents
+
+97
+00:00:22,837 --> 00:00:22,877
+Golo presents
+
+98
+00:00:22,837 --> 00:00:22,877
+Golo presents
+
+99
+00:00:22,877 --> 00:00:22,917
+Golo presents
+
+100
+00:00:22,877 --> 00:00:22,917
+Golo presents
+
+101
+00:00:22,917 --> 00:00:22,967
+Golo presents
+
+102
+00:00:22,917 --> 00:00:22,967
+Golo presents
+
+103
+00:00:22,967 --> 00:00:23,007
+Golo presents
+
+104
+00:00:22,967 --> 00:00:23,007
+Golo presents
+
+105
+00:00:23,007 --> 00:00:23,047
+Golo presents
+
+106
+00:00:23,007 --> 00:00:23,047
+Golo presents
+
+107
+00:00:23,047 --> 00:00:23,087
+Golo presents
+
+108
+00:00:23,047 --> 00:00:23,087
+Golo presents
+
+109
+00:00:23,087 --> 00:00:23,127
+Golo presents
+
+110
+00:00:23,087 --> 00:00:23,127
+Golo presents
+
+111
+00:00:23,127 --> 00:00:23,167
+Golo presents
+
+112
+00:00:23,127 --> 00:00:23,167
+Golo presents
+
+113
+00:00:23,167 --> 00:00:23,217
+Golo presents
+
+114
+00:00:23,167 --> 00:00:23,217
+Golo presents
+
+115
+00:00:23,217 --> 00:00:23,257
+Golo presents
+
+116
+00:00:23,217 --> 00:00:23,257
+Golo presents
+
+117
+00:00:23,257 --> 00:00:23,297
+Golo presents
+
+118
+00:00:23,257 --> 00:00:23,297
+Golo presents
+
+119
+00:00:23,297 --> 00:00:23,337
+Golo presents
+
+120
+00:00:23,297 --> 00:00:23,337
+Golo presents
+
+121
+00:00:23,337 --> 00:00:23,377
+Golo presents
+
+122
+00:00:23,337 --> 00:00:23,377
+Golo presents
+
+123
+00:00:23,377 --> 00:00:23,417
+Golo presents
+
+124
+00:00:23,377 --> 00:00:23,417
+Golo presents
+
+125
+00:00:23,417 --> 00:00:23,467
+Golo presents
+
+126
+00:00:23,417 --> 00:00:23,467
+Golo presents
+
+127
+00:00:23,467 --> 00:00:23,507
+Golo presents
+
+128
+00:00:23,467 --> 00:00:23,507
+Golo presents
+
+129
+00:00:23,507 --> 00:00:23,547
+Golo presents
+
+130
+00:00:23,507 --> 00:00:23,547
+Golo presents
+
+131
+00:00:23,547 --> 00:00:23,587
+Golo presents
+
+132
+00:00:23,547 --> 00:00:23,587
+Golo presents
+
+133
+00:00:23,587 --> 00:00:23,627
+Golo presents
+
+134
+00:00:23,587 --> 00:00:23,627
+Golo presents
+
+135
+00:00:23,627 --> 00:00:23,667
+Golo presents
+
+136
+00:00:23,627 --> 00:00:23,667
+Golo presents
+
+137
+00:00:23,667 --> 00:00:23,717
+Golo presents
+
+138
+00:00:23,667 --> 00:00:23,717
+Golo presents
+
+139
+00:00:23,717 --> 00:00:23,757
+Golo presents
+
+140
+00:00:23,717 --> 00:00:23,757
+Golo presents
+
+141
+00:00:23,757 --> 00:00:23,797
+Golo presents
+
+142
+00:00:23,757 --> 00:00:23,797
+Golo presents
+
+143
+00:00:23,797 --> 00:00:23,837
+Golo presents
+
+144
+00:00:23,797 --> 00:00:23,837
+Golo presents
+
+145
+00:00:23,837 --> 00:00:23,877
+Golo presents
+
+146
+00:00:23,837 --> 00:00:23,877
+Golo presents
+
+147
+00:00:23,877 --> 00:00:23,927
+Golo presents
+
+148
+00:00:23,877 --> 00:00:23,927
+Golo presents
+
+149
+00:00:23,927 --> 00:00:23,967
+Golo presents
+
+150
+00:00:23,927 --> 00:00:23,967
+Golo presents
+
+151
+00:00:23,967 --> 00:00:24,007
+Golo presents
+
+152
+00:00:23,967 --> 00:00:24,007
+Golo presents
+
+153
+00:00:24,007 --> 00:00:24,047
+Golo presents
+
+154
+00:00:24,007 --> 00:00:24,047
+Golo presents
+
+155
+00:00:24,047 --> 00:00:24,087
+Golo presents
+
+156
+00:00:24,047 --> 00:00:24,087
+Golo presents
+
+157
+00:00:24,087 --> 00:00:24,127
+Golo presents
+
+158
+00:00:24,087 --> 00:00:24,127
+Golo presents
+
+159
+00:00:24,127 --> 00:00:24,177
+Golo presents
+
+160
+00:00:24,127 --> 00:00:24,177
+Golo presents
+
+161
+00:00:24,177 --> 00:00:24,217
+Golo presents
+
+162
+00:00:24,177 --> 00:00:24,217
+Golo presents
+
+163
+00:00:24,217 --> 00:00:24,257
+Golo presents
+
+164
+00:00:24,217 --> 00:00:24,257
+Golo presents
+
+165
+00:00:24,257 --> 00:00:24,297
+Golo presents
+
+166
+00:00:24,257 --> 00:00:24,297
+Golo presents
+
+167
+00:00:24,297 --> 00:00:24,337
+Golo presents
+
+168
+00:00:24,297 --> 00:00:24,337
+Golo presents
+
+169
+00:00:24,337 --> 00:00:24,377
+Golo presents
+
+170
+00:00:24,337 --> 00:00:24,377
+Golo presents
+
+171
+00:00:24,377 --> 00:00:24,427
+Golo presents
+
+172
+00:00:24,377 --> 00:00:24,427
+Golo presents
+
+173
+00:00:24,427 --> 00:00:24,467
+Golo presents
+
+174
+00:00:24,427 --> 00:00:24,467
+Golo presents
+
+175
+00:00:24,467 --> 00:00:24,507
+Golo presents
+
+176
+00:00:24,467 --> 00:00:24,507
+Golo presents
+
+177
+00:00:24,507 --> 00:00:24,547
+Golo presents
+
+178
+00:00:24,507 --> 00:00:24,547
+Golo presents
+
+179
+00:00:24,547 --> 00:00:24,587
+Golo presents
+
+180
+00:00:24,547 --> 00:00:24,587
+Golo presents
+
+181
+00:00:24,587 --> 00:00:24,627
+Golo presents
+
+182
+00:00:24,587 --> 00:00:24,627
+Golo presents
+
+183
+00:00:24,627 --> 00:00:24,677
+Golo presents
+
+184
+00:00:24,627 --> 00:00:24,677
+Golo presents
+
+185
+00:00:24,677 --> 00:00:24,717
+Golo presents
+
+186
+00:00:24,677 --> 00:00:24,717
+Golo presents
+
+187
+00:00:24,717 --> 00:00:24,757
+Golo presents
+
+188
+00:00:24,717 --> 00:00:24,757
+Golo presents
+
+189
+00:00:24,757 --> 00:00:24,797
+Golo presents
+
+190
+00:00:24,757 --> 00:00:24,797
+Golo presents
+
+191
+00:00:24,797 --> 00:00:24,837
+Golo presents
+
+192
+00:00:24,797 --> 00:00:24,837
+Golo presents
+
+193
+00:00:24,837 --> 00:00:24,877
+Golo presents
+
+194
+00:00:24,837 --> 00:00:24,877
+Golo presents
+
+195
+00:00:24,877 --> 00:00:24,927
+Golo presents
+
+196
+00:00:24,877 --> 00:00:24,927
+Golo presents
+
+197
+00:00:24,927 --> 00:00:24,967
+Golo presents
+
+198
+00:00:24,927 --> 00:00:24,967
+Golo presents
+
+199
+00:00:24,967 --> 00:00:25,007
+Golo presents
+
+200
+00:00:24,967 --> 00:00:25,007
+Golo presents
+
+201
+00:00:25,007 --> 00:00:25,047
+Golo presents
+
+202
+00:00:25,007 --> 00:00:25,047
+Golo presents
+
+203
+00:00:25,047 --> 00:00:25,087
+Golo presents
+
+204
+00:00:25,047 --> 00:00:25,087
+Golo presents
+
+205
+00:00:25,087 --> 00:00:25,127
+Golo presents
+
+206
+00:00:25,087 --> 00:00:25,127
+Golo presents
+
+207
+00:00:25,087 --> 00:00:26,717
+Thirty-eight.
+
+208
+00:00:25,127 --> 00:00:25,177
+Golo presents
+
+209
+00:00:25,127 --> 00:00:25,177
+Golo presents
+
+210
+00:00:25,177 --> 00:00:25,217
+Golo presents
+
+211
+00:00:25,177 --> 00:00:25,217
+Golo presents
+
+212
+00:00:25,217 --> 00:00:25,257
+Golo presents
+
+213
+00:00:25,217 --> 00:00:25,257
+Golo presents
+
+214
+00:00:25,257 --> 00:00:25,297
+Golo presents
+
+215
+00:00:25,257 --> 00:00:25,297
+Golo presents
+
+216
+00:00:25,297 --> 00:00:25,337
+Golo presents
+
+217
+00:00:25,297 --> 00:00:25,337
+Golo presents
+
+218
+00:00:25,337 --> 00:00:25,377
+Golo presents
+
+219
+00:00:25,337 --> 00:00:25,377
+Golo presents
+
+220
+00:00:25,377 --> 00:00:25,427
+Golo presents
+
+221
+00:00:25,377 --> 00:00:25,427
+Golo presents
+
+222
+00:00:25,427 --> 00:00:25,467
+Golo presents
+
+223
+00:00:25,427 --> 00:00:25,467
+Golo presents
+
+224
+00:00:25,467 --> 00:00:25,507
+Golo presents
+
+225
+00:00:25,467 --> 00:00:25,507
+Golo presents
+
+226
+00:00:25,507 --> 00:00:25,547
+Golo presents
+
+227
+00:00:25,507 --> 00:00:25,547
+Golo presents
+
+228
+00:00:25,547 --> 00:00:25,587
+Golo presents
+
+229
+00:00:25,547 --> 00:00:25,587
+Golo presents
+
+230
+00:00:25,587 --> 00:00:25,637
+Golo presents
+
+231
+00:00:25,587 --> 00:00:25,637
+Golo presents
+
+232
+00:00:25,637 --> 00:00:25,677
+Golo presents
+
+233
+00:00:25,637 --> 00:00:25,677
+Golo presents
+
+234
+00:00:25,677 --> 00:00:25,717
+Golo presents
+
+235
+00:00:25,677 --> 00:00:25,717
+Golo presents
+
+236
+00:00:25,717 --> 00:00:25,757
+Golo presents
+
+237
+00:00:25,717 --> 00:00:25,757
+Golo presents
+
+238
+00:00:25,757 --> 00:00:25,797
+Golo presents
+
+239
+00:00:25,757 --> 00:00:25,797
+Golo presents
+
+240
+00:00:25,797 --> 00:00:25,837
+Golo presents
+
+241
+00:00:25,797 --> 00:00:25,837
+Golo presents
+
+242
+00:00:25,837 --> 00:00:25,887
+Golo presents
+
+243
+00:00:25,837 --> 00:00:25,887
+Golo presents
+
+244
+00:00:25,887 --> 00:00:25,927
+Golo presents
+
+245
+00:00:25,887 --> 00:00:25,927
+Golo presents
+
+246
+00:00:25,927 --> 00:00:25,967
+Golo presents
+
+247
+00:00:25,927 --> 00:00:25,967
+Golo presents
+
+248
+00:00:25,967 --> 00:00:26,007
+Golo presents
+
+249
+00:00:25,967 --> 00:00:26,007
+Golo presents
+
+250
+00:00:26,007 --> 00:00:26,047
+Golo presents
+
+251
+00:00:26,007 --> 00:00:26,047
+Golo presents
+
+252
+00:00:26,047 --> 00:00:26,087
+Golo presents
+
+253
+00:00:26,047 --> 00:00:26,087
+Golo presents
+
+254
+00:00:26,087 --> 00:00:26,137
+Golo presents
+
+255
+00:00:26,087 --> 00:00:26,137
+Golo presents
+
+256
+00:00:26,137 --> 00:00:26,177
+Golo presents
+
+257
+00:00:26,137 --> 00:00:26,177
+Golo presents
+
+258
+00:00:26,177 --> 00:00:26,217
+Golo presents
+
+259
+00:00:26,177 --> 00:00:26,217
+Golo presents
+
+260
+00:00:26,217 --> 00:00:26,257
+Golo presents
+
+261
+00:00:26,217 --> 00:00:26,257
+Golo presents
+
+262
+00:00:26,257 --> 00:00:26,297
+Golo presents
+
+263
+00:00:26,257 --> 00:00:26,297
+Golo presents
+
+264
+00:00:26,297 --> 00:00:26,337
+Golo presents
+
+265
+00:00:26,297 --> 00:00:26,337
+Golo presents
+
+266
+00:00:26,337 --> 00:00:26,387
+Golo presents
+
+267
+00:00:26,337 --> 00:00:26,387
+Golo presents
+
+268
+00:00:26,387 --> 00:00:26,427
+Golo presents
+
+269
+00:00:26,387 --> 00:00:26,427
+Golo presents
+
+270
+00:00:26,427 --> 00:00:26,467
+Golo presents
+
+271
+00:00:26,427 --> 00:00:26,467
+Golo presents
+
+272
+00:00:26,467 --> 00:00:26,507
+Golo presents
+
+273
+00:00:26,467 --> 00:00:26,507
+Golo presents
+
+274
+00:00:26,507 --> 00:00:26,547
+Golo presents
+
+275
+00:00:26,507 --> 00:00:26,547
+Golo presents
+
+276
+00:00:26,547 --> 00:00:26,587
+Golo presents
+
+277
+00:00:26,547 --> 00:00:26,587
+Golo presents
+
+278
+00:00:26,587 --> 00:00:26,637
+Golo presents
+
+279
+00:00:26,587 --> 00:00:26,637
+Golo presents
+
+280
+00:00:26,637 --> 00:00:26,677
+Golo presents
+
+281
+00:00:26,637 --> 00:00:26,677
+Golo presents
+
+282
+00:00:26,677 --> 00:00:26,717
+Golo presents
+
+283
+00:00:26,677 --> 00:00:26,717
+Golo presents
+
+284
+00:00:26,717 --> 00:00:26,757
+Golo presents
+
+285
+00:00:26,717 --> 00:00:26,757
+Golo presents
+
+286
+00:00:26,757 --> 00:00:26,797
+Golo presents
+
+287
+00:00:26,757 --> 00:00:26,797
+Golo presents
+
+288
+00:00:26,797 --> 00:00:26,837
+Golo presents
+
+289
+00:00:26,837 --> 00:00:26,887
+Golo presents
+
+290
+00:00:26,887 --> 00:00:26,927
+Golo presents
+
+291
+00:00:26,927 --> 00:00:26,967
+Golo presents
+
+292
+00:00:26,967 --> 00:00:27,007
+Golo presents
+
+293
+00:00:27,007 --> 00:00:27,047
+Golo presents
+
+294
+00:00:27,047 --> 00:00:27,087
+Golo presents
+
+295
+00:00:27,087 --> 00:00:27,137
+Golo presents
+
+296
+00:00:27,137 --> 00:00:27,177
+Golo presents
+
+297
+00:00:27,177 --> 00:00:27,217
+Golo presents
+
+298
+00:00:27,217 --> 00:00:27,257
+Golo presents
+
+299
+00:00:27,257 --> 00:00:27,297
+Golo presents
+
+300
+00:00:27,297 --> 00:00:27,347
+Golo presents
+
+301
+00:00:27,347 --> 00:00:27,387
+Golo presents
+
+302
+00:00:27,387 --> 00:00:27,427
+Golo presents
+
+303
+00:00:27,427 --> 00:00:27,467
+Golo presents
+
+304
+00:00:27,467 --> 00:00:27,507
+Golo presents
+
+305
+00:00:27,507 --> 00:00:27,547
+Golo presents
+
+306
+00:00:27,547 --> 00:00:27,597
+Golo presents
+
+307
+00:00:27,597 --> 00:00:27,637
+Golo presents
+
+308
+00:00:27,637 --> 00:00:27,677
+Golo presents
+
+309
+00:00:31,307 --> 00:00:32,847
+Thirty-nine.
+
+310
+00:00:37,477 --> 00:00:38,647
+Forty.
+
+311
+00:00:43,607 --> 00:00:45,147
+Forty-one.
+
+312
+00:00:50,157 --> 00:00:51,157
+Forty-two.
+
+313
+00:00:51,157 --> 00:00:52,367
+Wrong.
+
+314
+00:00:54,157 --> 00:00:55,537
+Wrong.
+
+315
+00:00:58,457 --> 00:00:59,587
+Wrong.
+
+316
+00:01:00,747 --> 00:01:01,957
+Wrong.
+
+317
+00:01:03,207 --> 00:01:04,377
+Wrong.
+
+318
+00:01:05,417 --> 00:01:06,627
+Wrong.
+
+319
+00:01:07,297 --> 00:01:08,467
+Wrong.
+
+320
+00:01:09,217 --> 00:01:10,387
+Wrong.
+
+321
+00:01:10,387 --> 00:01:11,467
+Wrong, wrong, wrong, wrong.
+
+322
+00:01:11,467 --> 00:01:12,347
+Wrong, wrong, wrong, wrong.
+
+323
+00:01:12,347 --> 00:01:13,017
+Wrong, wrong, wrong, wrong.
+
+324
+00:01:13,017 --> 00:01:13,387
+Wrong, wrong, wrong, wrong.
+
+325
+00:01:13,887 --> 00:01:15,597
+Completely wrong!
+
+326
+00:01:16,477 --> 00:01:18,557
+That's the end of the registered list.
+
+327
+00:01:18,897 --> 00:01:22,607
+Your memory is of an instant you
+ glimpsed just before losing consciousness.
+
+328
+00:01:23,227 --> 00:01:25,317
+Please go over it slowly one more time.
+
+329
+00:01:25,737 --> 00:01:27,237
+Let us start from the beginning-
+
+330
+00:01:27,237 --> 00:01:28,657
+I've said it many times already.
+
+331
+00:01:28,657 --> 00:01:30,697
+There is no way it could be on this list.
+
+332
+00:01:30,697 --> 00:01:32,447
+I was attacked by a-
+
+333
+00:01:32,447 --> 00:01:34,697
+Talking about the monster again?
+
+334
+00:01:35,077 --> 00:01:36,957
+Give the scene a good sweep.
+
+335
+00:01:36,957 --> 00:01:39,627
+I can go with you if you like.
+
+336
+00:01:43,207 --> 00:01:44,507
+Based on your statement,
+
+337
+00:01:44,507 --> 00:01:47,797
+we conducted a thorough search of the
+ memory of your home's surveillance unit
+
+338
+00:01:47,797 --> 00:01:50,757
+as well as your Entourage's,
+
+339
+00:01:50,757 --> 00:01:51,797
+but there was nothing.
+
+340
+00:01:52,427 --> 00:01:53,677
+This is a conspiracy!
+
+341
+00:01:53,677 --> 00:01:57,387
+The Security Bureau deleted
+ inconvenient data beforehand, didn't they?!
+
+342
+00:01:57,387 --> 00:01:59,097
+This is a treasonous act against the Information Bureau-
+
+343
+00:01:59,097 --> 00:02:02,017
+no, the Administration Bureau!
+
+344
+00:02:02,017 --> 00:02:03,817
+Reporting increased heart rate
+
+345
+00:02:03,817 --> 00:02:05,857
+in your vital signs.
+
+346
+00:02:06,277 --> 00:02:07,897
+Mind your own business!
+
+347
+00:02:07,897 --> 00:02:10,567
+Please remember your station and be mindful of your well-being.
+
+348
+00:02:11,657 --> 00:02:13,947
+You are the Administrator's grandchild.
+
+349
+00:02:15,407 --> 00:02:17,537
+<i>What a snake.</i>
+
+350
+00:02:17,537 --> 00:02:18,867
+Your very birth
+
+351
+00:02:18,867 --> 00:02:21,117
+makes you an ideal target for refugees
+
+352
+00:02:21,117 --> 00:02:22,747
+whose emotions are not fully under control.
+
+353
+00:02:23,287 --> 00:02:24,667
+For instance,
+
+354
+00:02:24,667 --> 00:02:28,547
+the one who was found collapsed near your home last night-
+
+355
+00:02:28,917 --> 00:02:29,967
+this man.
+
+356
+00:02:31,967 --> 00:02:33,547
+What were you doing there?
+
+357
+00:02:34,137 --> 00:02:36,637
+With legitimate examples and situations in mind,
+
+358
+00:02:36,637 --> 00:02:38,477
+restate your explanation.
+
+359
+00:02:40,227 --> 00:02:44,307
+I received information that an infected autoreiv had been spotted.
+
+360
+00:02:44,857 --> 00:02:46,517
+Unable to verify information.
+
+361
+00:02:47,857 --> 00:02:49,777
+But... it's true.
+
+362
+00:02:50,357 --> 00:02:53,067
+If you would search the facility's data records...
+
+363
+00:02:53,067 --> 00:02:54,617
+Vincent Law.
+
+364
+00:02:55,527 --> 00:02:59,247
+There are reports of him developing feelings for you as well.
+
+365
+00:03:00,157 --> 00:03:02,457
+What about the possibility that the
+ crime was committed by a stalker?
+
+366
+00:03:02,997 --> 00:03:04,417
+A stalker?
+
+367
+00:03:05,207 --> 00:03:07,247
+As if he has the balls.
+
+368
+00:03:07,247 --> 00:03:08,457
+This is a waste of time.
+
+369
+00:03:08,457 --> 00:03:09,957
+Restate from the beginning.
+
+370
+00:03:09,957 --> 00:03:13,797
+Code number 0724FGARK...
+
+371
+00:03:13,797 --> 00:03:15,757
+<i>The faces of model citizens...</i>
+
+372
+00:03:15,757 --> 00:03:16,797
+<i>Faces...</i>
+
+373
+00:03:16,797 --> 00:03:17,887
+<i>Faces...</i>
+
+374
+00:03:19,177 --> 00:03:21,597
+Employee at the AR Control Division...
+
+375
+00:03:22,687 --> 00:03:23,597
+meditation    confessions of a model citizen
+
+376
+00:03:22,687 --> 00:03:23,637
+meditation    confessions of a model citizen
+
+377
+00:03:22,687 --> 00:03:26,187
+meditation    confessions of a model citizen
+
+378
+00:03:27,397 --> 00:03:29,687
+Those of you who are model citizens,
+
+379
+00:03:29,687 --> 00:03:31,607
+let's throw things away.
+
+380
+00:03:31,607 --> 00:03:33,607
+Though they may be necessary,
+
+381
+00:03:33,607 --> 00:03:34,357
+be strong-
+
+382
+00:03:35,027 --> 00:03:36,027
+And,
+
+383
+00:03:36,027 --> 00:03:39,237
+they also said they'll prepare a
+ replacement home for you within six hours.
+
+384
+00:03:40,157 --> 00:03:42,907
+Then stop by Central Mall.
+
+385
+00:03:43,917 --> 00:03:45,877
+Stuff like shoes, belts,
+
+386
+00:03:45,877 --> 00:03:47,247
+pants, shampoo,
+
+387
+00:03:47,247 --> 00:03:49,877
+conditioner, skincare products, toothbrushes-
+
+388
+00:03:49,877 --> 00:03:50,797
+I'm gonna buy 'em up.
+
+389
+00:03:51,507 --> 00:03:52,717
+No, no.
+
+390
+00:03:53,217 --> 00:03:55,677
+I can understand why you want to let off some steam,
+
+391
+00:03:55,677 --> 00:03:58,007
+but we have to go to Daedalus' place first.
+
+392
+00:03:58,597 --> 00:04:00,637
+If you want to show up at the Information Bureau,
+
+393
+00:04:00,637 --> 00:04:03,387
+they said you'd need your primary care physician's diagnosis.
+
+394
+00:04:04,637 --> 00:04:05,977
+It's just a scratch.
+
+395
+00:04:05,977 --> 00:04:06,977
+I'm fine.
+
+396
+00:04:07,307 --> 00:04:09,607
+It's not just about physical injuries.
+
+397
+00:04:09,937 --> 00:04:11,687
+Considering what happened,
+
+398
+00:04:11,977 --> 00:04:13,437
+who knows what mental-
+
+399
+00:04:13,737 --> 00:04:15,567
+Cut the crap!
+
+400
+00:04:22,367 --> 00:04:23,827
+<i>That monster from yesterday</i>
+
+401
+00:04:23,827 --> 00:04:27,207
+<i>wasn't even recorded in your head.</i>
+
+402
+00:04:40,677 --> 00:04:41,847
+What's wrong?
+
+403
+00:04:42,557 --> 00:04:44,017
+Re-l, cheer up.
+
+404
+00:04:44,477 --> 00:04:48,307
+C'mon, your place is in awful
+ shape. It's like there was an explosion.
+
+405
+00:04:48,897 --> 00:04:51,517
+It's a miracle that you got off with only that scratch.
+
+406
+00:04:53,527 --> 00:04:55,397
+I was worried about you, you know.
+
+407
+00:04:55,397 --> 00:04:57,397
+Getting caught up in something like that...
+
+408
+00:04:58,067 --> 00:04:59,657
+You're real tough.
+
+409
+00:05:01,067 --> 00:05:03,237
+So, how's the homicide investigation going?
+
+410
+00:05:03,867 --> 00:05:05,447
+Well, about that...
+
+411
+00:05:08,367 --> 00:05:10,627
+Why would I be taken off the case?
+
+412
+00:05:14,337 --> 00:05:16,207
+We got a memo from the brass.
+
+413
+00:05:16,207 --> 00:05:18,297
+In other words, considering your injuries...
+
+414
+00:05:18,297 --> 00:05:20,047
+A scratch like this?
+
+415
+00:05:20,047 --> 00:05:22,297
+No, the Security Bureau's report stated
+
+416
+00:05:22,297 --> 00:05:26,597
+that trauma from the incident caused a slight mental issue.
+
+417
+00:05:26,597 --> 00:05:28,387
+What was it called?
+
+418
+00:05:29,897 --> 00:05:31,807
+Pseudology.
+
+419
+00:05:31,807 --> 00:05:33,767
+Sounds like something they'd come up with.
+
+420
+00:05:33,767 --> 00:05:35,277
+Calm dowm, Re-l.
+
+421
+00:05:35,277 --> 00:05:36,277
+Your heart rate is-
+
+422
+00:05:36,277 --> 00:05:37,777
+That's none of your business.
+
+423
+00:05:38,487 --> 00:05:42,157
+Fine, how would you explain what
+ happened yesterday at the old Immigration Bureau?
+
+424
+00:05:42,697 --> 00:05:45,577
+Autoreivs did not leave those marks behind.
+
+425
+00:05:45,867 --> 00:05:46,867
+Yesterday?
+
+426
+00:05:46,867 --> 00:05:48,077
+What are you talking about?
+
+427
+00:05:51,457 --> 00:05:52,707
+<i>Impossible...</i>
+
+428
+00:05:52,707 --> 00:05:55,127
+<i>Even memories about the investigation were erased?</i>
+
+429
+00:05:58,087 --> 00:06:01,217
+We request submission of a mental health diagnosis report
+
+430
+00:06:01,217 --> 00:06:04,217
+by your primary care physician
+ before you may resume your duties.
+
+431
+00:06:04,217 --> 00:06:06,007
+You have Dr. Daedalus.
+
+432
+00:06:06,007 --> 00:06:09,427
+How lucky you are to have the Health
+ Bureau's chairman as your physician.
+
+433
+00:06:10,307 --> 00:06:12,227
+The Citizen Health Bureau...
+
+434
+00:06:14,147 --> 00:06:15,227
+See?
+
+435
+00:06:15,227 --> 00:06:18,937
+Okay, you'll cheer up once the "prince" gives you a kiss.
+
+436
+00:06:19,567 --> 00:06:20,737
+I see.
+
+437
+00:06:21,567 --> 00:06:22,447
+I understand.
+
+438
+00:06:22,777 --> 00:06:24,317
+I have an appointment, I hope?
+
+439
+00:06:24,317 --> 00:06:26,197
+He said to come by anytime. C'mon.
+
+440
+00:06:30,617 --> 00:06:31,577
+Wait.
+
+441
+00:06:31,577 --> 00:06:33,077
+What's the matter all of a sudden?
+
+442
+00:06:35,537 --> 00:06:36,877
+Take care.
+
+443
+00:06:39,707 --> 00:06:41,717
+<i>The Security Bureau's loss of control...</i>
+
+444
+00:06:41,717 --> 00:06:43,547
+<i>the Information Bureau's silence,</i>
+
+445
+00:06:44,137 --> 00:06:45,467
+<i>Iggy's manipulation...</i>
+
+446
+00:06:46,047 --> 00:06:48,307
+<i>Each dot is linked to monsters</i>
+
+447
+00:06:49,137 --> 00:06:52,517
+<i>and will eventually connect.</i>
+
+448
+00:06:54,517 --> 00:06:55,857
+<i>Isn't that right,</i>
+
+449
+00:06:55,857 --> 00:06:56,897
+<i>Grandfather?</i>
+
+450
+00:07:00,187 --> 00:07:04,697
+It is completely outside of our predicted escape route.
+
+451
+00:07:04,697 --> 00:07:07,777
+So, even though it ventured into the
+ immigrant sectors beyond the city limits,
+
+452
+00:07:07,777 --> 00:07:09,407
+it returned to the city...
+
+453
+00:07:09,867 --> 00:07:11,577
+So PROXY's target...
+
+454
+00:07:12,077 --> 00:07:13,577
+must be Re-l after all.
+
+455
+00:07:13,997 --> 00:07:16,037
+Your statement was within our predictions.
+
+456
+00:07:16,667 --> 00:07:19,037
+We have completely eliminated any traces
+
+457
+00:07:19,037 --> 00:07:21,207
+left by PROXY at the site after recording them.
+
+458
+00:07:21,207 --> 00:07:24,007
+Re-l Mayer has been released from custody as well.
+
+459
+00:07:24,007 --> 00:07:25,837
+We wouldn't be able to justify further attempts
+
+460
+00:07:25,837 --> 00:07:28,177
+at buying time to the Administrator anyway.
+
+461
+00:07:28,677 --> 00:07:30,387
+You may release the immigrants
+
+462
+00:07:30,387 --> 00:07:32,467
+after the interrogation formalities are over.
+
+463
+00:07:32,467 --> 00:07:34,307
+They are not suspects.
+
+464
+00:07:34,847 --> 00:07:35,847
+Confirmed.
+
+465
+00:07:35,847 --> 00:07:38,267
+Would you like to look at her statement?
+
+466
+00:07:38,607 --> 00:07:39,437
+No.
+
+467
+00:07:39,437 --> 00:07:40,607
+However, she is stricken
+
+468
+00:07:40,607 --> 00:07:45,237
+by temporary mental instability due to the stalker attack,
+
+469
+00:07:45,237 --> 00:07:48,067
+and can not make a distinction between dreams and reality.
+
+470
+00:07:48,617 --> 00:07:51,287
+It is a frequent phenomenon among humans.
+
+471
+00:07:51,287 --> 00:07:53,497
+As insurance, I have arranged to have
+ her submit a psychiatric diagnosis report
+
+472
+00:07:53,497 --> 00:07:57,367
+made by her primary care physician
+ in order to be released from probation.
+
+473
+00:07:57,707 --> 00:07:59,287
+Beautiful.
+
+474
+00:07:59,287 --> 00:08:04,377
+Now, no one will believe what she said she saw.
+
+475
+00:08:05,297 --> 00:08:08,837
+Preserving the secret of PROXY
+has the highest priority above all else.
+
+476
+00:08:08,837 --> 00:08:09,847
+Your will is my command.
+
+477
+00:08:10,387 --> 00:08:11,757
+Psychological warfare, then?
+
+478
+00:08:12,427 --> 00:08:15,307
+Administrator's grandchild or not, I will allow no interference.
+
+479
+00:08:15,307 --> 00:08:18,727
+Then please continue to supervise the PROXY research.
+
+480
+00:08:19,347 --> 00:08:20,187
+Yes.
+
+481
+00:08:29,817 --> 00:08:31,067
+Any pain?
+
+482
+00:08:31,067 --> 00:08:32,077
+I'm fine.
+
+483
+00:08:32,077 --> 00:08:33,157
+Thank you.
+
+484
+00:08:33,577 --> 00:08:35,247
+You're way over the top.
+
+485
+00:08:35,907 --> 00:08:38,247
+In any case, I'm glad you're all right.
+
+486
+00:08:38,957 --> 00:08:41,037
+If anything ever happens to you,
+
+487
+00:08:41,037 --> 00:08:42,167
+I...
+
+488
+00:08:42,167 --> 00:08:43,917
+Way over the top.
+
+489
+00:08:43,917 --> 00:08:46,837
+I wish you'd believe what I'm saying then.
+
+490
+00:08:50,427 --> 00:08:52,547
+<i>Suspected of phantastic pseudology?</i>
+
+491
+00:08:57,307 --> 00:08:58,557
+<i>This isn't going to work.</i>
+
+492
+00:08:59,307 --> 00:09:00,937
+But listen, Daedalus.
+
+493
+00:09:01,977 --> 00:09:03,937
+Do you have any idea how I feel?
+
+494
+00:09:04,607 --> 00:09:07,487
+No one believes me.
+
+495
+00:09:08,607 --> 00:09:09,737
+I see.
+
+496
+00:09:10,197 --> 00:09:12,237
+I saw a monster!
+
+497
+00:09:12,237 --> 00:09:13,447
+With my own eyes.
+
+498
+00:09:14,027 --> 00:09:15,867
+I'd like to believe you.
+
+499
+00:09:15,867 --> 00:09:19,577
+So I'd like you to let me look into your mind, just for a little bit.
+
+500
+00:09:20,667 --> 00:09:21,827
+I'm not being delusional.
+
+501
+00:09:22,127 --> 00:09:23,497
+Please believe me!
+
+502
+00:09:23,787 --> 00:09:24,667
+Re-l!
+
+503
+00:09:26,127 --> 00:09:27,757
+I know what you're trying to say.
+
+504
+00:09:27,757 --> 00:09:29,087
+Even I
+
+505
+00:09:29,087 --> 00:09:33,297
+don't know what's real and what's not anymore.
+
+506
+00:09:33,637 --> 00:09:35,427
+Memory confusion, huh.
+
+507
+00:09:36,217 --> 00:09:40,847
+It'll take time to put you through diagnosis
+ and preparations before giving you counselling,
+
+508
+00:09:41,727 --> 00:09:43,647
+but let's do a brain scan too.
+
+509
+00:09:44,477 --> 00:09:45,607
+Are you okay with that?
+
+510
+00:09:46,187 --> 00:09:48,067
+If it's you telling me, Daedalus.
+
+511
+00:09:48,357 --> 00:09:49,987
+I'll make preparations right away.
+
+512
+00:10:19,137 --> 00:10:20,217
+<i>"Specimen"?</i>
+
+513
+00:10:20,887 --> 00:10:22,347
+<i>"Proxy"...</i>
+
+514
+00:10:22,347 --> 00:10:23,477
+Sorry.
+
+515
+00:10:23,477 --> 00:10:24,727
+It took longer than we thought.
+
+516
+00:10:27,107 --> 00:10:28,107
+No,
+
+517
+00:10:28,647 --> 00:10:29,777
+not a problem.
+
+518
+00:10:37,697 --> 00:10:39,577
+I'd like to let you see her soon.
+
+519
+00:10:39,947 --> 00:10:41,827
+She's very cute.
+
+520
+00:10:45,457 --> 00:10:46,497
+Sure, okay.
+
+521
+00:10:46,497 --> 00:10:47,747
+I'll go on ahead.
+
+522
+00:10:50,247 --> 00:10:52,587
+We are ready to leave.
+
+523
+00:10:55,507 --> 00:10:57,007
+You surprised me.
+
+524
+00:10:57,007 --> 00:10:58,257
+App, on.
+
+525
+00:10:59,807 --> 00:11:01,007
+How was it?
+
+526
+00:11:01,007 --> 00:11:02,517
+I'm physically fine.
+
+527
+00:11:02,517 --> 00:11:04,517
+Mentally? It'll depend on the report.
+
+528
+00:11:04,517 --> 00:11:07,097
+Well, to the mall, then!
+
+529
+00:11:07,897 --> 00:11:10,437
+More importantly, I'd like you to look into something first.
+
+530
+00:11:10,727 --> 00:11:11,977
+No problem.
+
+531
+00:11:12,687 --> 00:11:14,737
+Connect to the Central Information Bank.
+
+532
+00:11:14,737 --> 00:11:16,197
+Connection, complete.
+
+533
+00:11:16,777 --> 00:11:19,197
+Input keyword: Proxy.
+
+534
+00:11:19,197 --> 00:11:20,577
+Connection, aborted.
+
+535
+00:11:20,577 --> 00:11:23,867
+Forced shutdown of Turing function app from speech area.
+
+536
+00:11:24,157 --> 00:11:26,367
+Unable to acknowledge keyword.
+
+537
+00:11:26,667 --> 00:11:28,377
+Retry input, or abort?
+
+538
+00:11:28,377 --> 00:11:29,627
+Just as I'd thought.
+
+539
+00:11:30,247 --> 00:11:31,747
+App, on.
+
+540
+00:11:31,747 --> 00:11:32,627
+So, Re-l.
+
+541
+00:11:32,627 --> 00:11:34,297
+What do you want me to look up?
+
+542
+00:11:35,087 --> 00:11:36,297
+Don't bother.
+
+543
+00:11:36,837 --> 00:11:38,337
+What's up with you?
+
+544
+00:11:38,967 --> 00:11:40,757
+Oh, hang on a second.
+
+545
+00:11:40,757 --> 00:11:42,927
+You have an emergency call from your grandfather.
+
+546
+00:11:44,177 --> 00:11:45,977
+<i>He was monitoring Iggy?</i>
+
+547
+00:11:46,307 --> 00:11:47,557
+It's about yesterday.
+
+548
+00:11:47,557 --> 00:11:49,187
+Want to put it off until after you finish shopping?
+
+549
+00:11:50,437 --> 00:11:51,607
+We'll go.
+
+550
+00:11:51,607 --> 00:11:52,817
+I can't escape him.
+
+551
+00:12:30,557 --> 00:12:33,227
+We were just talking about you.
+
+552
+00:12:38,317 --> 00:12:39,777
+I'm sorry.
+
+553
+00:12:39,777 --> 00:12:43,367
+I apologize for the fact that I ignored your recent summons.
+
+554
+00:12:43,367 --> 00:12:45,117
+Never mind that.
+
+555
+00:12:45,117 --> 00:12:48,957
+The issue that should be discussed between us now is-
+
+556
+00:12:48,957 --> 00:12:50,117
+"PROXY".
+
+557
+00:12:53,457 --> 00:12:55,707
+A flaw in our operations.
+
+558
+00:12:56,207 --> 00:13:00,627
+There are times when cooperation with the Security
+ Bureau is more important than maintaining one's own ego.
+
+559
+00:13:01,127 --> 00:13:02,837
+What is PROXY?
+
+560
+00:13:02,837 --> 00:13:03,927
+Re-l,
+
+561
+00:13:03,927 --> 00:13:07,217
+I won't know what you're trying to say if you keep your silence.
+
+562
+00:13:07,217 --> 00:13:09,057
+So you'll ignore me?
+
+563
+00:13:09,057 --> 00:13:11,187
+That's due to certainty, isn't it?
+
+564
+00:13:11,937 --> 00:13:13,977
+Isn't that right, Grandfather?
+
+565
+00:13:15,357 --> 00:13:18,227
+If you don't want to give me an answer, that's fine.
+
+566
+00:13:18,977 --> 00:13:21,777
+Re-l will be assigned to the Administration Bureau.
+
+567
+00:13:21,777 --> 00:13:22,947
+There will be a hearing.
+
+568
+00:13:22,947 --> 00:13:23,607
+Hey!
+
+569
+00:13:23,607 --> 00:13:24,567
+Husserl!
+
+570
+00:13:25,067 --> 00:13:26,327
+Berkeley!
+
+571
+00:13:26,327 --> 00:13:27,697
+Don't be so arbitrary!
+
+572
+00:13:27,697 --> 00:13:28,697
+Lacan!
+
+573
+00:13:28,697 --> 00:13:29,907
+Derrida!
+
+574
+00:13:35,827 --> 00:13:37,127
+Grandfather...
+
+575
+00:13:38,377 --> 00:13:39,377
+Re-l.
+
+576
+00:13:40,967 --> 00:13:45,547
+Swear that you will no longer take unauthorized action.
+
+577
+00:13:45,547 --> 00:13:46,547
+Well?
+
+578
+00:13:47,297 --> 00:13:48,557
+Derrida...
+
+579
+00:13:48,557 --> 00:13:49,807
+If not,
+
+580
+00:13:49,807 --> 00:13:51,557
+like Berkeley said,
+
+581
+00:13:51,557 --> 00:13:54,477
+you will be placed under the
+ surveillance of the Administration Bureau.
+
+582
+00:13:56,647 --> 00:13:57,897
+Understood.
+
+583
+00:13:58,567 --> 00:14:01,107
+Re-l has promised us.
+
+584
+00:14:01,107 --> 00:14:02,647
+Now, go.
+
+585
+00:14:17,077 --> 00:14:18,167
+This is...
+
+586
+00:14:22,627 --> 00:14:24,417
+It's time.
+
+587
+00:14:25,337 --> 00:14:26,797
+Already?
+
+588
+00:14:29,097 --> 00:14:31,057
+Is that the report from the research facility?
+
+589
+00:14:31,637 --> 00:14:33,727
+I will do the rest.
+
+590
+00:14:34,097 --> 00:14:35,727
+There's no need for that.
+
+591
+00:14:35,727 --> 00:14:37,267
+I'll put it together soon enough.
+
+592
+00:14:37,267 --> 00:14:39,687
+Would you arrange for a car instead?
+
+593
+00:14:40,567 --> 00:14:41,857
+Understood.
+
+594
+00:14:52,737 --> 00:14:54,827
+There were two PROXIES...
+
+595
+00:14:57,327 --> 00:14:58,577
+Impossible...
+
+596
+00:15:03,837 --> 00:15:06,007
+New homes are so nice.
+
+597
+00:15:06,007 --> 00:15:07,837
+This has a good view too.
+
+598
+00:15:09,337 --> 00:15:10,387
+Re-l?
+
+599
+00:15:11,927 --> 00:15:13,177
+Oh, sorry.
+
+600
+00:15:13,177 --> 00:15:14,597
+Did you say something?
+
+601
+00:15:14,597 --> 00:15:15,347
+Jeez.
+
+602
+00:15:15,347 --> 00:15:17,227
+Did something happen with your prince?
+
+603
+00:15:19,597 --> 00:15:20,607
+Iggy...
+
+604
+00:15:21,607 --> 00:15:23,567
+You are being watched.
+
+605
+00:15:24,357 --> 00:15:25,237
+Sorry.
+
+606
+00:15:25,737 --> 00:15:26,647
+Re-l,
+
+607
+00:15:27,237 --> 00:15:28,197
+where are you going?
+
+608
+00:15:29,527 --> 00:15:32,577
+I'm going to get a change of clothes.
+
+609
+00:15:32,577 --> 00:15:33,987
+"Get"?
+
+610
+00:15:33,987 --> 00:15:37,497
+I think your place's still under the Security Bureau's jurisdiction.
+
+611
+00:15:37,957 --> 00:15:39,787
+I want a change.
+
+612
+00:15:40,207 --> 00:15:42,747
+I've been wearing this since yesterday.
+
+613
+00:15:42,747 --> 00:15:45,127
+I'll have trouble finding things to wear from tomorrow on.
+
+614
+00:15:45,127 --> 00:15:47,297
+Why don't you use this opportunity
+ to get yourself a brand-new wardrobe?
+
+615
+00:15:47,297 --> 00:15:50,007
+Why would you have any reason to go there?
+
+616
+00:15:51,427 --> 00:15:52,677
+<i>Grandfather...</i>
+
+617
+00:15:52,677 --> 00:15:54,677
+<i>So not only does he watch me</i>
+
+618
+00:15:54,677 --> 00:15:56,177
+<i>but he also wishes to manipulate me.</i>
+
+619
+00:15:56,767 --> 00:15:57,807
+Well...
+
+620
+00:15:58,307 --> 00:16:00,267
+I don't see anything I want in the new line-up.
+
+621
+00:16:00,267 --> 00:16:01,097
+What?
+
+622
+00:16:01,097 --> 00:16:03,647
+You were saying this morning that you
+ were going to go on a shopping spree.
+
+623
+00:16:03,647 --> 00:16:04,517
+Wait.
+
+624
+00:16:04,517 --> 00:16:05,857
+I know a good place.
+
+625
+00:16:05,857 --> 00:16:07,357
+Let's go there together.
+
+626
+00:16:14,407 --> 00:16:15,947
+How about this?
+
+627
+00:16:16,537 --> 00:16:19,157
+The colors are perfect for this season too...
+
+628
+00:16:21,207 --> 00:16:22,247
+Re-l?
+
+629
+00:17:19,557 --> 00:17:20,597
+That's...
+
+630
+00:18:49,597 --> 00:18:50,807
+Chief!
+
+631
+00:18:55,567 --> 00:18:57,237
+Please issue commands to the Security Bureau.
+
+632
+00:18:59,817 --> 00:19:03,027
+Request an emergency sortie of armed autoreivs.
+
+633
+00:19:03,027 --> 00:19:06,947
+Seal off Yoslis Park and the surrounding sectors.
+
+634
+00:19:06,947 --> 00:19:08,287
+Use barriers.
+
+635
+00:19:08,287 --> 00:19:09,287
+Understood.
+
+636
+00:20:37,087 --> 00:20:38,667
+Report.
+
+637
+00:20:38,667 --> 00:20:42,047
+Forty-two adult and infant deaths.
+
+638
+00:20:42,047 --> 00:20:44,427
+Forty-eight wounded.
+
+639
+00:20:44,427 --> 00:20:48,717
+All the citizens within the mall were secured in isolation facilities.
+
+640
+00:20:48,717 --> 00:20:49,807
+What about the specimen?
+
+641
+00:20:50,387 --> 00:20:51,847
+It has breached the barriers
+
+642
+00:20:51,847 --> 00:20:53,387
+and is still at large.
+
+643
+00:20:56,937 --> 00:20:59,107
+This is surveillance footage from sector N-31.
+
+644
+00:21:00,107 --> 00:21:04,147
+The specimen is estimated to have
+ already reached the lower sectors.
+
+645
+00:21:52,617 --> 00:21:53,697
+It wasn't a dream...
+
+646
+00:21:54,367 --> 00:21:56,077
+It was real.
+
+647
+00:22:28,357 --> 00:22:29,607
+It's Papa!
+
+648
+00:23:06,107 --> 00:23:07,527
+Damn!
+
+649
+00:23:10,527 --> 00:23:11,907
+Damn!
+
+650
+00:23:18,447 --> 00:23:19,997
+Damn!
+
+651
+00:23:43,557 --> 00:23:44,727
+He...
+
+652
+00:24:18,307 --> 00:24:29,357
+Please
+
+653
+00:24:18,307 --> 00:24:29,357
+could
+
+654
+00:24:18,307 --> 00:24:29,357
+you
+
+655
+00:24:18,307 --> 00:24:29,357
+stop
+
+656
+00:24:18,307 --> 00:24:29,357
+the
+
+657
+00:24:18,307 --> 00:24:29,357
+noise,
+
+658
+00:24:18,307 --> 00:24:29,357
+I'm
+
+659
+00:24:18,307 --> 00:24:29,357
+trying
+
+660
+00:24:18,307 --> 00:24:29,357
+to
+
+661
+00:24:18,307 --> 00:24:29,357
+get
+
+662
+00:24:18,307 --> 00:24:29,357
+some
+
+663
+00:24:18,307 --> 00:24:29,357
+rest
+
+664
+00:24:18,677 --> 00:24:21,517
+Please
+
+665
+00:24:18,677 --> 00:24:21,517
+Please
+
+666
+00:24:18,677 --> 00:24:21,517
+Please
+
+667
+00:24:18,677 --> 00:24:21,517
+Please
+
+668
+00:24:18,677 --> 00:24:21,517
+Please
+
+669
+00:24:18,677 --> 00:24:21,517
+Please
+
+670
+00:24:18,677 --> 00:24:21,517
+Please
+
+671
+00:24:18,677 --> 00:24:21,517
+Please
+
+672
+00:24:18,677 --> 00:24:21,517
+Please
+
+673
+00:24:18,677 --> 00:24:21,517
+Please
+
+674
+00:24:18,677 --> 00:24:21,517
+Please
+
+675
+00:24:18,677 --> 00:24:21,517
+Please
+
+676
+00:24:18,677 --> 00:24:21,517
+Please
+
+677
+00:24:18,677 --> 00:24:21,517
+Please
+
+678
+00:24:18,677 --> 00:24:21,517
+Please
+
+679
+00:24:18,677 --> 00:24:21,517
+Please
+
+680
+00:24:18,677 --> 00:24:21,517
+Please
+
+681
+00:24:18,677 --> 00:24:21,517
+Please
+
+682
+00:24:18,677 --> 00:24:21,517
+Please
+
+683
+00:24:18,677 --> 00:24:21,517
+Please
+
+684
+00:24:18,677 --> 00:24:21,517
+Please
+
+685
+00:24:18,677 --> 00:24:21,517
+Please
+
+686
+00:24:18,677 --> 00:24:21,517
+Please
+
+687
+00:24:18,677 --> 00:24:21,517
+Please
+
+688
+00:24:18,677 --> 00:24:21,517
+Please
+
+689
+00:24:18,677 --> 00:24:21,517
+Please
+
+690
+00:24:18,677 --> 00:24:21,517
+Please
+
+691
+00:24:18,677 --> 00:24:21,517
+Please
+
+692
+00:24:18,677 --> 00:24:21,517
+Please
+
+693
+00:24:18,677 --> 00:24:21,517
+Please
+
+694
+00:24:18,677 --> 00:24:21,517
+Please
+
+695
+00:24:18,677 --> 00:24:21,517
+Please
+
+696
+00:24:18,677 --> 00:24:21,517
+Please
+
+697
+00:24:18,677 --> 00:24:21,517
+Please
+
+698
+00:24:18,677 --> 00:24:21,517
+Please
+
+699
+00:24:18,677 --> 00:24:21,517
+Please
+
+700
+00:24:18,677 --> 00:24:21,517
+Please
+
+701
+00:24:18,677 --> 00:24:21,517
+Please
+
+702
+00:24:18,677 --> 00:24:21,517
+Please
+
+703
+00:24:18,677 --> 00:24:21,517
+Please
+
+704
+00:24:19,007 --> 00:24:22,137
+could
+
+705
+00:24:19,007 --> 00:24:22,137
+could
+
+706
+00:24:19,007 --> 00:24:22,137
+could
+
+707
+00:24:19,007 --> 00:24:22,137
+could
+
+708
+00:24:19,007 --> 00:24:22,137
+could
+
+709
+00:24:19,007 --> 00:24:22,137
+could
+
+710
+00:24:19,007 --> 00:24:22,137
+could
+
+711
+00:24:19,007 --> 00:24:22,137
+could
+
+712
+00:24:19,007 --> 00:24:22,137
+could
+
+713
+00:24:19,007 --> 00:24:22,137
+could
+
+714
+00:24:19,007 --> 00:24:22,137
+could
+
+715
+00:24:19,007 --> 00:24:22,137
+could
+
+716
+00:24:19,007 --> 00:24:22,137
+could
+
+717
+00:24:19,007 --> 00:24:22,137
+could
+
+718
+00:24:19,007 --> 00:24:22,137
+could
+
+719
+00:24:19,007 --> 00:24:22,137
+could
+
+720
+00:24:19,007 --> 00:24:22,137
+could
+
+721
+00:24:19,007 --> 00:24:22,137
+could
+
+722
+00:24:19,007 --> 00:24:22,137
+could
+
+723
+00:24:19,007 --> 00:24:22,137
+could
+
+724
+00:24:19,007 --> 00:24:22,137
+could
+
+725
+00:24:19,007 --> 00:24:22,137
+could
+
+726
+00:24:19,007 --> 00:24:22,137
+could
+
+727
+00:24:19,007 --> 00:24:22,137
+could
+
+728
+00:24:19,007 --> 00:24:22,137
+could
+
+729
+00:24:19,007 --> 00:24:22,137
+could
+
+730
+00:24:19,007 --> 00:24:22,137
+could
+
+731
+00:24:19,007 --> 00:24:22,137
+could
+
+732
+00:24:19,007 --> 00:24:22,137
+could
+
+733
+00:24:19,007 --> 00:24:22,137
+could
+
+734
+00:24:19,007 --> 00:24:22,137
+could
+
+735
+00:24:19,007 --> 00:24:22,137
+could
+
+736
+00:24:19,007 --> 00:24:22,137
+could
+
+737
+00:24:19,007 --> 00:24:22,137
+could
+
+738
+00:24:19,007 --> 00:24:22,137
+could
+
+739
+00:24:19,007 --> 00:24:22,137
+could
+
+740
+00:24:19,007 --> 00:24:22,137
+could
+
+741
+00:24:19,007 --> 00:24:22,137
+could
+
+742
+00:24:19,007 --> 00:24:22,137
+could
+
+743
+00:24:19,007 --> 00:24:22,137
+could
+
+744
+00:24:19,637 --> 00:24:22,807
+you
+
+745
+00:24:19,637 --> 00:24:22,807
+you
+
+746
+00:24:19,637 --> 00:24:22,807
+you
+
+747
+00:24:19,637 --> 00:24:22,807
+you
+
+748
+00:24:19,637 --> 00:24:22,807
+you
+
+749
+00:24:19,637 --> 00:24:22,807
+you
+
+750
+00:24:19,637 --> 00:24:22,807
+you
+
+751
+00:24:19,637 --> 00:24:22,807
+you
+
+752
+00:24:19,637 --> 00:24:22,807
+you
+
+753
+00:24:19,637 --> 00:24:22,807
+you
+
+754
+00:24:19,637 --> 00:24:22,807
+you
+
+755
+00:24:19,637 --> 00:24:22,807
+you
+
+756
+00:24:19,637 --> 00:24:22,807
+you
+
+757
+00:24:19,637 --> 00:24:22,807
+you
+
+758
+00:24:19,637 --> 00:24:22,807
+you
+
+759
+00:24:19,637 --> 00:24:22,807
+you
+
+760
+00:24:19,637 --> 00:24:22,807
+you
+
+761
+00:24:19,637 --> 00:24:22,807
+you
+
+762
+00:24:19,637 --> 00:24:22,807
+you
+
+763
+00:24:19,637 --> 00:24:22,807
+you
+
+764
+00:24:19,637 --> 00:24:22,807
+you
+
+765
+00:24:19,637 --> 00:24:22,807
+you
+
+766
+00:24:19,637 --> 00:24:22,807
+you
+
+767
+00:24:19,637 --> 00:24:22,807
+you
+
+768
+00:24:19,637 --> 00:24:22,807
+you
+
+769
+00:24:19,637 --> 00:24:22,807
+you
+
+770
+00:24:19,637 --> 00:24:22,807
+you
+
+771
+00:24:19,637 --> 00:24:22,807
+you
+
+772
+00:24:19,637 --> 00:24:22,807
+you
+
+773
+00:24:19,637 --> 00:24:22,807
+you
+
+774
+00:24:19,637 --> 00:24:22,807
+you
+
+775
+00:24:19,637 --> 00:24:22,807
+you
+
+776
+00:24:19,637 --> 00:24:22,807
+you
+
+777
+00:24:19,637 --> 00:24:22,807
+you
+
+778
+00:24:19,637 --> 00:24:22,807
+you
+
+779
+00:24:19,637 --> 00:24:22,807
+you
+
+780
+00:24:19,637 --> 00:24:22,807
+you
+
+781
+00:24:19,637 --> 00:24:22,807
+you
+
+782
+00:24:19,637 --> 00:24:22,807
+you
+
+783
+00:24:19,637 --> 00:24:22,807
+you
+
+784
+00:24:20,307 --> 00:24:23,597
+stop
+
+785
+00:24:20,307 --> 00:24:23,597
+stop
+
+786
+00:24:20,307 --> 00:24:23,597
+stop
+
+787
+00:24:20,307 --> 00:24:23,597
+stop
+
+788
+00:24:20,307 --> 00:24:23,597
+stop
+
+789
+00:24:20,307 --> 00:24:23,597
+stop
+
+790
+00:24:20,307 --> 00:24:23,597
+stop
+
+791
+00:24:20,307 --> 00:24:23,597
+stop
+
+792
+00:24:20,307 --> 00:24:23,597
+stop
+
+793
+00:24:20,307 --> 00:24:23,597
+stop
+
+794
+00:24:20,307 --> 00:24:23,597
+stop
+
+795
+00:24:20,307 --> 00:24:23,597
+stop
+
+796
+00:24:20,307 --> 00:24:23,597
+stop
+
+797
+00:24:20,307 --> 00:24:23,597
+stop
+
+798
+00:24:20,307 --> 00:24:23,597
+stop
+
+799
+00:24:20,307 --> 00:24:23,597
+stop
+
+800
+00:24:20,307 --> 00:24:23,597
+stop
+
+801
+00:24:20,307 --> 00:24:23,597
+stop
+
+802
+00:24:20,307 --> 00:24:23,597
+stop
+
+803
+00:24:20,307 --> 00:24:23,597
+stop
+
+804
+00:24:20,307 --> 00:24:23,597
+stop
+
+805
+00:24:20,307 --> 00:24:23,597
+stop
+
+806
+00:24:20,307 --> 00:24:23,597
+stop
+
+807
+00:24:20,307 --> 00:24:23,597
+stop
+
+808
+00:24:20,307 --> 00:24:23,597
+stop
+
+809
+00:24:20,307 --> 00:24:23,597
+stop
+
+810
+00:24:20,307 --> 00:24:23,597
+stop
+
+811
+00:24:20,307 --> 00:24:23,597
+stop
+
+812
+00:24:20,307 --> 00:24:23,597
+stop
+
+813
+00:24:20,307 --> 00:24:23,597
+stop
+
+814
+00:24:20,307 --> 00:24:23,597
+stop
+
+815
+00:24:20,307 --> 00:24:23,597
+stop
+
+816
+00:24:20,307 --> 00:24:23,597
+stop
+
+817
+00:24:20,307 --> 00:24:23,597
+stop
+
+818
+00:24:20,307 --> 00:24:23,597
+stop
+
+819
+00:24:20,307 --> 00:24:23,597
+stop
+
+820
+00:24:20,307 --> 00:24:23,597
+stop
+
+821
+00:24:20,307 --> 00:24:23,597
+stop
+
+822
+00:24:20,307 --> 00:24:23,597
+stop
+
+823
+00:24:20,307 --> 00:24:23,597
+stop
+
+824
+00:24:21,097 --> 00:24:24,517
+the
+
+825
+00:24:21,097 --> 00:24:24,517
+the
+
+826
+00:24:21,097 --> 00:24:24,517
+the
+
+827
+00:24:21,097 --> 00:24:24,517
+the
+
+828
+00:24:21,097 --> 00:24:24,517
+the
+
+829
+00:24:21,097 --> 00:24:24,517
+the
+
+830
+00:24:21,097 --> 00:24:24,517
+the
+
+831
+00:24:21,097 --> 00:24:24,517
+the
+
+832
+00:24:21,097 --> 00:24:24,517
+the
+
+833
+00:24:21,097 --> 00:24:24,517
+the
+
+834
+00:24:21,097 --> 00:24:24,517
+the
+
+835
+00:24:21,097 --> 00:24:24,517
+the
+
+836
+00:24:21,097 --> 00:24:24,517
+the
+
+837
+00:24:21,097 --> 00:24:24,517
+the
+
+838
+00:24:21,097 --> 00:24:24,517
+the
+
+839
+00:24:21,097 --> 00:24:24,517
+the
+
+840
+00:24:21,097 --> 00:24:24,517
+the
+
+841
+00:24:21,097 --> 00:24:24,517
+the
+
+842
+00:24:21,097 --> 00:24:24,517
+the
+
+843
+00:24:21,097 --> 00:24:24,517
+the
+
+844
+00:24:21,097 --> 00:24:24,517
+the
+
+845
+00:24:21,097 --> 00:24:24,517
+the
+
+846
+00:24:21,097 --> 00:24:24,517
+the
+
+847
+00:24:21,097 --> 00:24:24,517
+the
+
+848
+00:24:21,097 --> 00:24:24,517
+the
+
+849
+00:24:21,097 --> 00:24:24,517
+the
+
+850
+00:24:21,097 --> 00:24:24,517
+the
+
+851
+00:24:21,097 --> 00:24:24,517
+the
+
+852
+00:24:21,097 --> 00:24:24,517
+the
+
+853
+00:24:21,097 --> 00:24:24,517
+the
+
+854
+00:24:21,097 --> 00:24:24,517
+the
+
+855
+00:24:21,097 --> 00:24:24,517
+the
+
+856
+00:24:21,097 --> 00:24:24,517
+the
+
+857
+00:24:21,097 --> 00:24:24,517
+the
+
+858
+00:24:21,097 --> 00:24:24,517
+the
+
+859
+00:24:21,097 --> 00:24:24,517
+the
+
+860
+00:24:21,097 --> 00:24:24,517
+the
+
+861
+00:24:21,097 --> 00:24:24,517
+the
+
+862
+00:24:21,097 --> 00:24:24,517
+the
+
+863
+00:24:21,097 --> 00:24:24,517
+the
+
+864
+00:24:22,017 --> 00:24:25,227
+noise,
+
+865
+00:24:22,017 --> 00:24:25,227
+noise,
+
+866
+00:24:22,017 --> 00:24:25,227
+noise,
+
+867
+00:24:22,017 --> 00:24:25,227
+noise,
+
+868
+00:24:22,017 --> 00:24:25,227
+noise,
+
+869
+00:24:22,017 --> 00:24:25,227
+noise,
+
+870
+00:24:22,017 --> 00:24:25,227
+noise,
+
+871
+00:24:22,017 --> 00:24:25,227
+noise,
+
+872
+00:24:22,017 --> 00:24:25,227
+noise,
+
+873
+00:24:22,017 --> 00:24:25,227
+noise,
+
+874
+00:24:22,017 --> 00:24:25,227
+noise,
+
+875
+00:24:22,017 --> 00:24:25,227
+noise,
+
+876
+00:24:22,017 --> 00:24:25,227
+noise,
+
+877
+00:24:22,017 --> 00:24:25,227
+noise,
+
+878
+00:24:22,017 --> 00:24:25,227
+noise,
+
+879
+00:24:22,017 --> 00:24:25,227
+noise,
+
+880
+00:24:22,017 --> 00:24:25,227
+noise,
+
+881
+00:24:22,017 --> 00:24:25,227
+noise,
+
+882
+00:24:22,017 --> 00:24:25,227
+noise,
+
+883
+00:24:22,017 --> 00:24:25,227
+noise,
+
+884
+00:24:22,017 --> 00:24:25,227
+noise,
+
+885
+00:24:22,017 --> 00:24:25,227
+noise,
+
+886
+00:24:22,017 --> 00:24:25,227
+noise,
+
+887
+00:24:22,017 --> 00:24:25,227
+noise,
+
+888
+00:24:22,017 --> 00:24:25,227
+noise,
+
+889
+00:24:22,017 --> 00:24:25,227
+noise,
+
+890
+00:24:22,017 --> 00:24:25,227
+noise,
+
+891
+00:24:22,017 --> 00:24:25,227
+noise,
+
+892
+00:24:22,017 --> 00:24:25,227
+noise,
+
+893
+00:24:22,017 --> 00:24:25,227
+noise,
+
+894
+00:24:22,017 --> 00:24:25,227
+noise,
+
+895
+00:24:22,017 --> 00:24:25,227
+noise,
+
+896
+00:24:22,017 --> 00:24:25,227
+noise,
+
+897
+00:24:22,017 --> 00:24:25,227
+noise,
+
+898
+00:24:22,017 --> 00:24:25,227
+noise,
+
+899
+00:24:22,017 --> 00:24:25,227
+noise,
+
+900
+00:24:22,017 --> 00:24:25,227
+noise,
+
+901
+00:24:22,017 --> 00:24:25,227
+noise,
+
+902
+00:24:22,017 --> 00:24:25,227
+noise,
+
+903
+00:24:22,017 --> 00:24:25,227
+noise,
+
+904
+00:24:22,727 --> 00:24:25,937
+I'm
+
+905
+00:24:22,727 --> 00:24:25,937
+I'm
+
+906
+00:24:22,727 --> 00:24:25,937
+I'm
+
+907
+00:24:22,727 --> 00:24:25,937
+I'm
+
+908
+00:24:22,727 --> 00:24:25,937
+I'm
+
+909
+00:24:22,727 --> 00:24:25,937
+I'm
+
+910
+00:24:22,727 --> 00:24:25,937
+I'm
+
+911
+00:24:22,727 --> 00:24:25,937
+I'm
+
+912
+00:24:22,727 --> 00:24:25,937
+I'm
+
+913
+00:24:22,727 --> 00:24:25,937
+I'm
+
+914
+00:24:22,727 --> 00:24:25,937
+I'm
+
+915
+00:24:22,727 --> 00:24:25,937
+I'm
+
+916
+00:24:22,727 --> 00:24:25,937
+I'm
+
+917
+00:24:22,727 --> 00:24:25,937
+I'm
+
+918
+00:24:22,727 --> 00:24:25,937
+I'm
+
+919
+00:24:22,727 --> 00:24:25,937
+I'm
+
+920
+00:24:22,727 --> 00:24:25,937
+I'm
+
+921
+00:24:22,727 --> 00:24:25,937
+I'm
+
+922
+00:24:22,727 --> 00:24:25,937
+I'm
+
+923
+00:24:22,727 --> 00:24:25,937
+I'm
+
+924
+00:24:22,727 --> 00:24:25,937
+I'm
+
+925
+00:24:22,727 --> 00:24:25,937
+I'm
+
+926
+00:24:22,727 --> 00:24:25,937
+I'm
+
+927
+00:24:22,727 --> 00:24:25,937
+I'm
+
+928
+00:24:22,727 --> 00:24:25,937
+I'm
+
+929
+00:24:22,727 --> 00:24:25,937
+I'm
+
+930
+00:24:22,727 --> 00:24:25,937
+I'm
+
+931
+00:24:22,727 --> 00:24:25,937
+I'm
+
+932
+00:24:22,727 --> 00:24:25,937
+I'm
+
+933
+00:24:22,727 --> 00:24:25,937
+I'm
+
+934
+00:24:22,727 --> 00:24:25,937
+I'm
+
+935
+00:24:22,727 --> 00:24:25,937
+I'm
+
+936
+00:24:22,727 --> 00:24:25,937
+I'm
+
+937
+00:24:22,727 --> 00:24:25,937
+I'm
+
+938
+00:24:22,727 --> 00:24:25,937
+I'm
+
+939
+00:24:22,727 --> 00:24:25,937
+I'm
+
+940
+00:24:22,727 --> 00:24:25,937
+I'm
+
+941
+00:24:22,727 --> 00:24:25,937
+I'm
+
+942
+00:24:22,727 --> 00:24:25,937
+I'm
+
+943
+00:24:22,727 --> 00:24:25,937
+I'm
+
+944
+00:24:23,437 --> 00:24:26,727
+trying
+
+945
+00:24:23,437 --> 00:24:26,727
+trying
+
+946
+00:24:23,437 --> 00:24:26,727
+trying
+
+947
+00:24:23,437 --> 00:24:26,727
+trying
+
+948
+00:24:23,437 --> 00:24:26,727
+trying
+
+949
+00:24:23,437 --> 00:24:26,727
+trying
+
+950
+00:24:23,437 --> 00:24:26,727
+trying
+
+951
+00:24:23,437 --> 00:24:26,727
+trying
+
+952
+00:24:23,437 --> 00:24:26,727
+trying
+
+953
+00:24:23,437 --> 00:24:26,727
+trying
+
+954
+00:24:23,437 --> 00:24:26,727
+trying
+
+955
+00:24:23,437 --> 00:24:26,727
+trying
+
+956
+00:24:23,437 --> 00:24:26,727
+trying
+
+957
+00:24:23,437 --> 00:24:26,727
+trying
+
+958
+00:24:23,437 --> 00:24:26,727
+trying
+
+959
+00:24:23,437 --> 00:24:26,727
+trying
+
+960
+00:24:23,437 --> 00:24:26,727
+trying
+
+961
+00:24:23,437 --> 00:24:26,727
+trying
+
+962
+00:24:23,437 --> 00:24:26,727
+trying
+
+963
+00:24:23,437 --> 00:24:26,727
+trying
+
+964
+00:24:23,437 --> 00:24:26,727
+trying
+
+965
+00:24:23,437 --> 00:24:26,727
+trying
+
+966
+00:24:23,437 --> 00:24:26,727
+trying
+
+967
+00:24:23,437 --> 00:24:26,727
+trying
+
+968
+00:24:23,437 --> 00:24:26,727
+trying
+
+969
+00:24:23,437 --> 00:24:26,727
+trying
+
+970
+00:24:23,437 --> 00:24:26,727
+trying
+
+971
+00:24:23,437 --> 00:24:26,727
+trying
+
+972
+00:24:23,437 --> 00:24:26,727
+trying
+
+973
+00:24:23,437 --> 00:24:26,727
+trying
+
+974
+00:24:23,437 --> 00:24:26,727
+trying
+
+975
+00:24:23,437 --> 00:24:26,727
+trying
+
+976
+00:24:23,437 --> 00:24:26,727
+trying
+
+977
+00:24:23,437 --> 00:24:26,727
+trying
+
+978
+00:24:23,437 --> 00:24:26,727
+trying
+
+979
+00:24:23,437 --> 00:24:26,727
+trying
+
+980
+00:24:23,437 --> 00:24:26,727
+trying
+
+981
+00:24:23,437 --> 00:24:26,727
+trying
+
+982
+00:24:23,437 --> 00:24:26,727
+trying
+
+983
+00:24:23,437 --> 00:24:26,727
+trying
+
+984
+00:24:24,227 --> 00:24:27,437
+to
+
+985
+00:24:24,227 --> 00:24:27,437
+to
+
+986
+00:24:24,227 --> 00:24:27,437
+to
+
+987
+00:24:24,227 --> 00:24:27,437
+to
+
+988
+00:24:24,227 --> 00:24:27,437
+to
+
+989
+00:24:24,227 --> 00:24:27,437
+to
+
+990
+00:24:24,227 --> 00:24:27,437
+to
+
+991
+00:24:24,227 --> 00:24:27,437
+to
+
+992
+00:24:24,227 --> 00:24:27,437
+to
+
+993
+00:24:24,227 --> 00:24:27,437
+to
+
+994
+00:24:24,227 --> 00:24:27,437
+to
+
+995
+00:24:24,227 --> 00:24:27,437
+to
+
+996
+00:24:24,227 --> 00:24:27,437
+to
+
+997
+00:24:24,227 --> 00:24:27,437
+to
+
+998
+00:24:24,227 --> 00:24:27,437
+to
+
+999
+00:24:24,227 --> 00:24:27,437
+to
+
+1000
+00:24:24,227 --> 00:24:27,437
+to
+
+1001
+00:24:24,227 --> 00:24:27,437
+to
+
+1002
+00:24:24,227 --> 00:24:27,437
+to
+
+1003
+00:24:24,227 --> 00:24:27,437
+to
+
+1004
+00:24:24,227 --> 00:24:27,437
+to
+
+1005
+00:24:24,227 --> 00:24:27,437
+to
+
+1006
+00:24:24,227 --> 00:24:27,437
+to
+
+1007
+00:24:24,227 --> 00:24:27,437
+to
+
+1008
+00:24:24,227 --> 00:24:27,437
+to
+
+1009
+00:24:24,227 --> 00:24:27,437
+to
+
+1010
+00:24:24,227 --> 00:24:27,437
+to
+
+1011
+00:24:24,227 --> 00:24:27,437
+to
+
+1012
+00:24:24,227 --> 00:24:27,437
+to
+
+1013
+00:24:24,227 --> 00:24:27,437
+to
+
+1014
+00:24:24,227 --> 00:24:27,437
+to
+
+1015
+00:24:24,227 --> 00:24:27,437
+to
+
+1016
+00:24:24,227 --> 00:24:27,437
+to
+
+1017
+00:24:24,227 --> 00:24:27,437
+to
+
+1018
+00:24:24,227 --> 00:24:27,437
+to
+
+1019
+00:24:24,227 --> 00:24:27,437
+to
+
+1020
+00:24:24,227 --> 00:24:27,437
+to
+
+1021
+00:24:24,227 --> 00:24:27,437
+to
+
+1022
+00:24:24,227 --> 00:24:27,437
+to
+
+1023
+00:24:24,227 --> 00:24:27,437
+to
+
+1024
+00:24:24,937 --> 00:24:27,937
+get
+
+1025
+00:24:24,937 --> 00:24:27,937
+get
+
+1026
+00:24:24,937 --> 00:24:27,937
+get
+
+1027
+00:24:24,937 --> 00:24:27,937
+get
+
+1028
+00:24:24,937 --> 00:24:27,937
+get
+
+1029
+00:24:24,937 --> 00:24:27,937
+get
+
+1030
+00:24:24,937 --> 00:24:27,937
+get
+
+1031
+00:24:24,937 --> 00:24:27,937
+get
+
+1032
+00:24:24,937 --> 00:24:27,937
+get
+
+1033
+00:24:24,937 --> 00:24:27,937
+get
+
+1034
+00:24:24,937 --> 00:24:27,937
+get
+
+1035
+00:24:24,937 --> 00:24:27,937
+get
+
+1036
+00:24:24,937 --> 00:24:27,937
+get
+
+1037
+00:24:24,937 --> 00:24:27,937
+get
+
+1038
+00:24:24,937 --> 00:24:27,937
+get
+
+1039
+00:24:24,937 --> 00:24:27,937
+get
+
+1040
+00:24:24,937 --> 00:24:27,937
+get
+
+1041
+00:24:24,937 --> 00:24:27,937
+get
+
+1042
+00:24:24,937 --> 00:24:27,937
+get
+
+1043
+00:24:24,937 --> 00:24:27,937
+get
+
+1044
+00:24:24,937 --> 00:24:27,937
+get
+
+1045
+00:24:24,937 --> 00:24:27,937
+get
+
+1046
+00:24:24,937 --> 00:24:27,937
+get
+
+1047
+00:24:24,937 --> 00:24:27,937
+get
+
+1048
+00:24:24,937 --> 00:24:27,937
+get
+
+1049
+00:24:24,937 --> 00:24:27,937
+get
+
+1050
+00:24:24,937 --> 00:24:27,937
+get
+
+1051
+00:24:24,937 --> 00:24:27,937
+get
+
+1052
+00:24:24,937 --> 00:24:27,937
+get
+
+1053
+00:24:24,937 --> 00:24:27,937
+get
+
+1054
+00:24:24,937 --> 00:24:27,937
+get
+
+1055
+00:24:24,937 --> 00:24:27,937
+get
+
+1056
+00:24:24,937 --> 00:24:27,937
+get
+
+1057
+00:24:24,937 --> 00:24:27,937
+get
+
+1058
+00:24:24,937 --> 00:24:27,937
+get
+
+1059
+00:24:24,937 --> 00:24:27,937
+get
+
+1060
+00:24:24,937 --> 00:24:27,937
+get
+
+1061
+00:24:24,937 --> 00:24:27,937
+get
+
+1062
+00:24:24,937 --> 00:24:27,937
+get
+
+1063
+00:24:24,937 --> 00:24:27,937
+get
+
+1064
+00:24:25,437 --> 00:24:28,897
+some
+
+1065
+00:24:25,437 --> 00:24:28,897
+some
+
+1066
+00:24:25,437 --> 00:24:28,897
+some
+
+1067
+00:24:25,437 --> 00:24:28,897
+some
+
+1068
+00:24:25,437 --> 00:24:28,897
+some
+
+1069
+00:24:25,437 --> 00:24:28,897
+some
+
+1070
+00:24:25,437 --> 00:24:28,897
+some
+
+1071
+00:24:25,437 --> 00:24:28,897
+some
+
+1072
+00:24:25,437 --> 00:24:28,897
+some
+
+1073
+00:24:25,437 --> 00:24:28,897
+some
+
+1074
+00:24:25,437 --> 00:24:28,897
+some
+
+1075
+00:24:25,437 --> 00:24:28,897
+some
+
+1076
+00:24:25,437 --> 00:24:28,897
+some
+
+1077
+00:24:25,437 --> 00:24:28,897
+some
+
+1078
+00:24:25,437 --> 00:24:28,897
+some
+
+1079
+00:24:25,437 --> 00:24:28,897
+some
+
+1080
+00:24:25,437 --> 00:24:28,897
+some
+
+1081
+00:24:25,437 --> 00:24:28,897
+some
+
+1082
+00:24:25,437 --> 00:24:28,897
+some
+
+1083
+00:24:25,437 --> 00:24:28,897
+some
+
+1084
+00:24:25,437 --> 00:24:28,897
+some
+
+1085
+00:24:25,437 --> 00:24:28,897
+some
+
+1086
+00:24:25,437 --> 00:24:28,897
+some
+
+1087
+00:24:25,437 --> 00:24:28,897
+some
+
+1088
+00:24:25,437 --> 00:24:28,897
+some
+
+1089
+00:24:25,437 --> 00:24:28,897
+some
+
+1090
+00:24:25,437 --> 00:24:28,897
+some
+
+1091
+00:24:25,437 --> 00:24:28,897
+some
+
+1092
+00:24:25,437 --> 00:24:28,897
+some
+
+1093
+00:24:25,437 --> 00:24:28,897
+some
+
+1094
+00:24:25,437 --> 00:24:28,897
+some
+
+1095
+00:24:25,437 --> 00:24:28,897
+some
+
+1096
+00:24:25,437 --> 00:24:28,897
+some
+
+1097
+00:24:25,437 --> 00:24:28,897
+some
+
+1098
+00:24:25,437 --> 00:24:28,897
+some
+
+1099
+00:24:25,437 --> 00:24:28,897
+some
+
+1100
+00:24:25,437 --> 00:24:28,897
+some
+
+1101
+00:24:25,437 --> 00:24:28,897
+some
+
+1102
+00:24:25,437 --> 00:24:28,897
+some
+
+1103
+00:24:25,437 --> 00:24:28,897
+some
+
+1104
+00:24:26,397 --> 00:24:31,437
+rest
+
+1105
+00:24:26,397 --> 00:24:31,437
+rest
+
+1106
+00:24:26,397 --> 00:24:31,437
+rest
+
+1107
+00:24:26,397 --> 00:24:31,437
+rest
+
+1108
+00:24:26,397 --> 00:24:31,437
+rest
+
+1109
+00:24:26,397 --> 00:24:31,437
+rest
+
+1110
+00:24:26,397 --> 00:24:31,437
+rest
+
+1111
+00:24:26,397 --> 00:24:31,437
+rest
+
+1112
+00:24:26,397 --> 00:24:31,437
+rest
+
+1113
+00:24:26,397 --> 00:24:31,437
+rest
+
+1114
+00:24:26,397 --> 00:24:31,437
+rest
+
+1115
+00:24:26,397 --> 00:24:31,437
+rest
+
+1116
+00:24:26,397 --> 00:24:31,437
+rest
+
+1117
+00:24:26,397 --> 00:24:31,437
+rest
+
+1118
+00:24:26,397 --> 00:24:31,437
+rest
+
+1119
+00:24:26,397 --> 00:24:31,437
+rest
+
+1120
+00:24:26,397 --> 00:24:31,437
+rest
+
+1121
+00:24:26,397 --> 00:24:31,437
+rest
+
+1122
+00:24:26,397 --> 00:24:31,437
+rest
+
+1123
+00:24:26,397 --> 00:24:31,437
+rest
+
+1124
+00:24:26,397 --> 00:24:31,437
+rest
+
+1125
+00:24:26,397 --> 00:24:31,437
+rest
+
+1126
+00:24:26,397 --> 00:24:31,437
+rest
+
+1127
+00:24:26,397 --> 00:24:31,437
+rest
+
+1128
+00:24:26,397 --> 00:24:31,437
+rest
+
+1129
+00:24:26,397 --> 00:24:31,437
+rest
+
+1130
+00:24:26,397 --> 00:24:31,437
+rest
+
+1131
+00:24:26,397 --> 00:24:31,437
+rest
+
+1132
+00:24:26,397 --> 00:24:31,437
+rest
+
+1133
+00:24:26,397 --> 00:24:31,437
+rest
+
+1134
+00:24:26,397 --> 00:24:31,437
+rest
+
+1135
+00:24:26,397 --> 00:24:31,437
+rest
+
+1136
+00:24:26,397 --> 00:24:31,437
+rest
+
+1137
+00:24:26,397 --> 00:24:31,437
+rest
+
+1138
+00:24:26,397 --> 00:24:31,437
+rest
+
+1139
+00:24:26,397 --> 00:24:31,437
+rest
+
+1140
+00:24:26,397 --> 00:24:31,437
+rest
+
+1141
+00:24:26,397 --> 00:24:31,437
+rest
+
+1142
+00:24:26,397 --> 00:24:31,437
+rest
+
+1143
+00:24:26,397 --> 00:24:31,437
+rest
+
+1144
+00:24:35,777 --> 00:24:47,707
+From
+
+1145
+00:24:35,777 --> 00:24:47,707
+all
+
+1146
+00:24:35,777 --> 00:24:47,707
+the
+
+1147
+00:24:35,777 --> 00:24:47,707
+un
+
+1148
+00:24:35,777 --> 00:24:47,707
+born
+
+1149
+00:24:35,777 --> 00:24:47,707
+chic
+
+1150
+00:24:35,777 --> 00:24:47,707
+ken
+
+1151
+00:24:35,777 --> 00:24:47,707
+voi
+
+1152
+00:24:35,777 --> 00:24:47,707
+ces
+
+1153
+00:24:35,777 --> 00:24:47,707
+in
+
+1154
+00:24:35,777 --> 00:24:47,707
+my
+
+1155
+00:24:35,777 --> 00:24:47,707
+head
+
+1156
+00:24:36,197 --> 00:24:39,157
+From
+
+1157
+00:24:36,197 --> 00:24:39,157
+From
+
+1158
+00:24:36,197 --> 00:24:39,157
+From
+
+1159
+00:24:36,197 --> 00:24:39,157
+From
+
+1160
+00:24:36,197 --> 00:24:39,157
+From
+
+1161
+00:24:36,197 --> 00:24:39,157
+From
+
+1162
+00:24:36,197 --> 00:24:39,157
+From
+
+1163
+00:24:36,197 --> 00:24:39,157
+From
+
+1164
+00:24:36,197 --> 00:24:39,157
+From
+
+1165
+00:24:36,197 --> 00:24:39,157
+From
+
+1166
+00:24:36,197 --> 00:24:39,157
+From
+
+1167
+00:24:36,197 --> 00:24:39,157
+From
+
+1168
+00:24:36,197 --> 00:24:39,157
+From
+
+1169
+00:24:36,197 --> 00:24:39,157
+From
+
+1170
+00:24:36,197 --> 00:24:39,157
+From
+
+1171
+00:24:36,197 --> 00:24:39,157
+From
+
+1172
+00:24:36,197 --> 00:24:39,157
+From
+
+1173
+00:24:36,197 --> 00:24:39,157
+From
+
+1174
+00:24:36,197 --> 00:24:39,157
+From
+
+1175
+00:24:36,197 --> 00:24:39,157
+From
+
+1176
+00:24:36,197 --> 00:24:39,157
+From
+
+1177
+00:24:36,197 --> 00:24:39,157
+From
+
+1178
+00:24:36,197 --> 00:24:39,157
+From
+
+1179
+00:24:36,197 --> 00:24:39,157
+From
+
+1180
+00:24:36,197 --> 00:24:39,157
+From
+
+1181
+00:24:36,197 --> 00:24:39,157
+From
+
+1182
+00:24:36,197 --> 00:24:39,157
+From
+
+1183
+00:24:36,197 --> 00:24:39,157
+From
+
+1184
+00:24:36,197 --> 00:24:39,157
+From
+
+1185
+00:24:36,197 --> 00:24:39,157
+From
+
+1186
+00:24:36,197 --> 00:24:39,157
+From
+
+1187
+00:24:36,197 --> 00:24:39,157
+From
+
+1188
+00:24:36,197 --> 00:24:39,157
+From
+
+1189
+00:24:36,197 --> 00:24:39,157
+From
+
+1190
+00:24:36,197 --> 00:24:39,157
+From
+
+1191
+00:24:36,197 --> 00:24:39,157
+From
+
+1192
+00:24:36,197 --> 00:24:39,157
+From
+
+1193
+00:24:36,197 --> 00:24:39,157
+From
+
+1194
+00:24:36,197 --> 00:24:39,157
+From
+
+1195
+00:24:36,197 --> 00:24:39,157
+From
+
+1196
+00:24:36,657 --> 00:24:39,907
+all
+
+1197
+00:24:36,657 --> 00:24:39,907
+all
+
+1198
+00:24:36,657 --> 00:24:39,907
+all
+
+1199
+00:24:36,657 --> 00:24:39,907
+all
+
+1200
+00:24:36,657 --> 00:24:39,907
+all
+
+1201
+00:24:36,657 --> 00:24:39,907
+all
+
+1202
+00:24:36,657 --> 00:24:39,907
+all
+
+1203
+00:24:36,657 --> 00:24:39,907
+all
+
+1204
+00:24:36,657 --> 00:24:39,907
+all
+
+1205
+00:24:36,657 --> 00:24:39,907
+all
+
+1206
+00:24:36,657 --> 00:24:39,907
+all
+
+1207
+00:24:36,657 --> 00:24:39,907
+all
+
+1208
+00:24:36,657 --> 00:24:39,907
+all
+
+1209
+00:24:36,657 --> 00:24:39,907
+all
+
+1210
+00:24:36,657 --> 00:24:39,907
+all
+
+1211
+00:24:36,657 --> 00:24:39,907
+all
+
+1212
+00:24:36,657 --> 00:24:39,907
+all
+
+1213
+00:24:36,657 --> 00:24:39,907
+all
+
+1214
+00:24:36,657 --> 00:24:39,907
+all
+
+1215
+00:24:36,657 --> 00:24:39,907
+all
+
+1216
+00:24:36,657 --> 00:24:39,907
+all
+
+1217
+00:24:36,657 --> 00:24:39,907
+all
+
+1218
+00:24:36,657 --> 00:24:39,907
+all
+
+1219
+00:24:36,657 --> 00:24:39,907
+all
+
+1220
+00:24:36,657 --> 00:24:39,907
+all
+
+1221
+00:24:36,657 --> 00:24:39,907
+all
+
+1222
+00:24:36,657 --> 00:24:39,907
+all
+
+1223
+00:24:36,657 --> 00:24:39,907
+all
+
+1224
+00:24:36,657 --> 00:24:39,907
+all
+
+1225
+00:24:36,657 --> 00:24:39,907
+all
+
+1226
+00:24:36,657 --> 00:24:39,907
+all
+
+1227
+00:24:36,657 --> 00:24:39,907
+all
+
+1228
+00:24:36,657 --> 00:24:39,907
+all
+
+1229
+00:24:36,657 --> 00:24:39,907
+all
+
+1230
+00:24:36,657 --> 00:24:39,907
+all
+
+1231
+00:24:36,657 --> 00:24:39,907
+all
+
+1232
+00:24:36,657 --> 00:24:39,907
+all
+
+1233
+00:24:36,657 --> 00:24:39,907
+all
+
+1234
+00:24:36,657 --> 00:24:39,907
+all
+
+1235
+00:24:36,657 --> 00:24:39,907
+all
+
+1236
+00:24:37,407 --> 00:24:40,737
+the
+
+1237
+00:24:37,407 --> 00:24:40,737
+the
+
+1238
+00:24:37,407 --> 00:24:40,737
+the
+
+1239
+00:24:37,407 --> 00:24:40,737
+the
+
+1240
+00:24:37,407 --> 00:24:40,737
+the
+
+1241
+00:24:37,407 --> 00:24:40,737
+the
+
+1242
+00:24:37,407 --> 00:24:40,737
+the
+
+1243
+00:24:37,407 --> 00:24:40,737
+the
+
+1244
+00:24:37,407 --> 00:24:40,737
+the
+
+1245
+00:24:37,407 --> 00:24:40,737
+the
+
+1246
+00:24:37,407 --> 00:24:40,737
+the
+
+1247
+00:24:37,407 --> 00:24:40,737
+the
+
+1248
+00:24:37,407 --> 00:24:40,737
+the
+
+1249
+00:24:37,407 --> 00:24:40,737
+the
+
+1250
+00:24:37,407 --> 00:24:40,737
+the
+
+1251
+00:24:37,407 --> 00:24:40,737
+the
+
+1252
+00:24:37,407 --> 00:24:40,737
+the
+
+1253
+00:24:37,407 --> 00:24:40,737
+the
+
+1254
+00:24:37,407 --> 00:24:40,737
+the
+
+1255
+00:24:37,407 --> 00:24:40,737
+the
+
+1256
+00:24:37,407 --> 00:24:40,737
+the
+
+1257
+00:24:37,407 --> 00:24:40,737
+the
+
+1258
+00:24:37,407 --> 00:24:40,737
+the
+
+1259
+00:24:37,407 --> 00:24:40,737
+the
+
+1260
+00:24:37,407 --> 00:24:40,737
+the
+
+1261
+00:24:37,407 --> 00:24:40,737
+the
+
+1262
+00:24:37,407 --> 00:24:40,737
+the
+
+1263
+00:24:37,407 --> 00:24:40,737
+the
+
+1264
+00:24:37,407 --> 00:24:40,737
+the
+
+1265
+00:24:37,407 --> 00:24:40,737
+the
+
+1266
+00:24:37,407 --> 00:24:40,737
+the
+
+1267
+00:24:37,407 --> 00:24:40,737
+the
+
+1268
+00:24:37,407 --> 00:24:40,737
+the
+
+1269
+00:24:37,407 --> 00:24:40,737
+the
+
+1270
+00:24:37,407 --> 00:24:40,737
+the
+
+1271
+00:24:37,407 --> 00:24:40,737
+the
+
+1272
+00:24:37,407 --> 00:24:40,737
+the
+
+1273
+00:24:37,407 --> 00:24:40,737
+the
+
+1274
+00:24:37,407 --> 00:24:40,737
+the
+
+1275
+00:24:37,407 --> 00:24:40,737
+the
+
+1276
+00:24:38,237 --> 00:24:41,367
+un
+
+1277
+00:24:38,237 --> 00:24:41,367
+un
+
+1278
+00:24:38,237 --> 00:24:41,367
+un
+
+1279
+00:24:38,237 --> 00:24:41,367
+un
+
+1280
+00:24:38,237 --> 00:24:41,367
+un
+
+1281
+00:24:38,237 --> 00:24:41,367
+un
+
+1282
+00:24:38,237 --> 00:24:41,367
+un
+
+1283
+00:24:38,237 --> 00:24:41,367
+un
+
+1284
+00:24:38,237 --> 00:24:41,367
+un
+
+1285
+00:24:38,237 --> 00:24:41,367
+un
+
+1286
+00:24:38,237 --> 00:24:41,367
+un
+
+1287
+00:24:38,237 --> 00:24:41,367
+un
+
+1288
+00:24:38,237 --> 00:24:41,367
+un
+
+1289
+00:24:38,237 --> 00:24:41,367
+un
+
+1290
+00:24:38,237 --> 00:24:41,367
+un
+
+1291
+00:24:38,237 --> 00:24:41,367
+un
+
+1292
+00:24:38,237 --> 00:24:41,367
+un
+
+1293
+00:24:38,237 --> 00:24:41,367
+un
+
+1294
+00:24:38,237 --> 00:24:41,367
+un
+
+1295
+00:24:38,237 --> 00:24:41,367
+un
+
+1296
+00:24:38,237 --> 00:24:41,367
+un
+
+1297
+00:24:38,237 --> 00:24:41,367
+un
+
+1298
+00:24:38,237 --> 00:24:41,367
+un
+
+1299
+00:24:38,237 --> 00:24:41,367
+un
+
+1300
+00:24:38,237 --> 00:24:41,367
+un
+
+1301
+00:24:38,237 --> 00:24:41,367
+un
+
+1302
+00:24:38,237 --> 00:24:41,367
+un
+
+1303
+00:24:38,237 --> 00:24:41,367
+un
+
+1304
+00:24:38,237 --> 00:24:41,367
+un
+
+1305
+00:24:38,237 --> 00:24:41,367
+un
+
+1306
+00:24:38,237 --> 00:24:41,367
+un
+
+1307
+00:24:38,237 --> 00:24:41,367
+un
+
+1308
+00:24:38,237 --> 00:24:41,367
+un
+
+1309
+00:24:38,237 --> 00:24:41,367
+un
+
+1310
+00:24:38,237 --> 00:24:41,367
+un
+
+1311
+00:24:38,237 --> 00:24:41,367
+un
+
+1312
+00:24:38,237 --> 00:24:41,367
+un
+
+1313
+00:24:38,237 --> 00:24:41,367
+un
+
+1314
+00:24:38,237 --> 00:24:41,367
+un
+
+1315
+00:24:38,237 --> 00:24:41,367
+un
+
+1316
+00:24:38,867 --> 00:24:41,947
+born
+
+1317
+00:24:38,867 --> 00:24:41,947
+born
+
+1318
+00:24:38,867 --> 00:24:41,947
+born
+
+1319
+00:24:38,867 --> 00:24:41,947
+born
+
+1320
+00:24:38,867 --> 00:24:41,947
+born
+
+1321
+00:24:38,867 --> 00:24:41,947
+born
+
+1322
+00:24:38,867 --> 00:24:41,947
+born
+
+1323
+00:24:38,867 --> 00:24:41,947
+born
+
+1324
+00:24:38,867 --> 00:24:41,947
+born
+
+1325
+00:24:38,867 --> 00:24:41,947
+born
+
+1326
+00:24:38,867 --> 00:24:41,947
+born
+
+1327
+00:24:38,867 --> 00:24:41,947
+born
+
+1328
+00:24:38,867 --> 00:24:41,947
+born
+
+1329
+00:24:38,867 --> 00:24:41,947
+born
+
+1330
+00:24:38,867 --> 00:24:41,947
+born
+
+1331
+00:24:38,867 --> 00:24:41,947
+born
+
+1332
+00:24:38,867 --> 00:24:41,947
+born
+
+1333
+00:24:38,867 --> 00:24:41,947
+born
+
+1334
+00:24:38,867 --> 00:24:41,947
+born
+
+1335
+00:24:38,867 --> 00:24:41,947
+born
+
+1336
+00:24:38,867 --> 00:24:41,947
+born
+
+1337
+00:24:38,867 --> 00:24:41,947
+born
+
+1338
+00:24:38,867 --> 00:24:41,947
+born
+
+1339
+00:24:38,867 --> 00:24:41,947
+born
+
+1340
+00:24:38,867 --> 00:24:41,947
+born
+
+1341
+00:24:38,867 --> 00:24:41,947
+born
+
+1342
+00:24:38,867 --> 00:24:41,947
+born
+
+1343
+00:24:38,867 --> 00:24:41,947
+born
+
+1344
+00:24:38,867 --> 00:24:41,947
+born
+
+1345
+00:24:38,867 --> 00:24:41,947
+born
+
+1346
+00:24:38,867 --> 00:24:41,947
+born
+
+1347
+00:24:38,867 --> 00:24:41,947
+born
+
+1348
+00:24:38,867 --> 00:24:41,947
+born
+
+1349
+00:24:38,867 --> 00:24:41,947
+born
+
+1350
+00:24:38,867 --> 00:24:41,947
+born
+
+1351
+00:24:38,867 --> 00:24:41,947
+born
+
+1352
+00:24:38,867 --> 00:24:41,947
+born
+
+1353
+00:24:38,867 --> 00:24:41,947
+born
+
+1354
+00:24:38,867 --> 00:24:41,947
+born
+
+1355
+00:24:38,867 --> 00:24:41,947
+born
+
+1356
+00:24:39,447 --> 00:24:42,827
+chic
+
+1357
+00:24:39,447 --> 00:24:42,827
+chic
+
+1358
+00:24:39,447 --> 00:24:42,827
+chic
+
+1359
+00:24:39,447 --> 00:24:42,827
+chic
+
+1360
+00:24:39,447 --> 00:24:42,827
+chic
+
+1361
+00:24:39,447 --> 00:24:42,827
+chic
+
+1362
+00:24:39,447 --> 00:24:42,827
+chic
+
+1363
+00:24:39,447 --> 00:24:42,827
+chic
+
+1364
+00:24:39,447 --> 00:24:42,827
+chic
+
+1365
+00:24:39,447 --> 00:24:42,827
+chic
+
+1366
+00:24:39,447 --> 00:24:42,827
+chic
+
+1367
+00:24:39,447 --> 00:24:42,827
+chic
+
+1368
+00:24:39,447 --> 00:24:42,827
+chic
+
+1369
+00:24:39,447 --> 00:24:42,827
+chic
+
+1370
+00:24:39,447 --> 00:24:42,827
+chic
+
+1371
+00:24:39,447 --> 00:24:42,827
+chic
+
+1372
+00:24:39,447 --> 00:24:42,827
+chic
+
+1373
+00:24:39,447 --> 00:24:42,827
+chic
+
+1374
+00:24:39,447 --> 00:24:42,827
+chic
+
+1375
+00:24:39,447 --> 00:24:42,827
+chic
+
+1376
+00:24:39,447 --> 00:24:42,827
+chic
+
+1377
+00:24:39,447 --> 00:24:42,827
+chic
+
+1378
+00:24:39,447 --> 00:24:42,827
+chic
+
+1379
+00:24:39,447 --> 00:24:42,827
+chic
+
+1380
+00:24:39,447 --> 00:24:42,827
+chic
+
+1381
+00:24:39,447 --> 00:24:42,827
+chic
+
+1382
+00:24:39,447 --> 00:24:42,827
+chic
+
+1383
+00:24:39,447 --> 00:24:42,827
+chic
+
+1384
+00:24:39,447 --> 00:24:42,827
+chic
+
+1385
+00:24:39,447 --> 00:24:42,827
+chic
+
+1386
+00:24:39,447 --> 00:24:42,827
+chic
+
+1387
+00:24:39,447 --> 00:24:42,827
+chic
+
+1388
+00:24:39,447 --> 00:24:42,827
+chic
+
+1389
+00:24:39,447 --> 00:24:42,827
+chic
+
+1390
+00:24:39,447 --> 00:24:42,827
+chic
+
+1391
+00:24:39,447 --> 00:24:42,827
+chic
+
+1392
+00:24:39,447 --> 00:24:42,827
+chic
+
+1393
+00:24:39,447 --> 00:24:42,827
+chic
+
+1394
+00:24:39,447 --> 00:24:42,827
+chic
+
+1395
+00:24:39,447 --> 00:24:42,827
+chic
+
+1396
+00:24:40,327 --> 00:24:43,577
+ken
+
+1397
+00:24:40,327 --> 00:24:43,577
+ken
+
+1398
+00:24:40,327 --> 00:24:43,577
+ken
+
+1399
+00:24:40,327 --> 00:24:43,577
+ken
+
+1400
+00:24:40,327 --> 00:24:43,577
+ken
+
+1401
+00:24:40,327 --> 00:24:43,577
+ken
+
+1402
+00:24:40,327 --> 00:24:43,577
+ken
+
+1403
+00:24:40,327 --> 00:24:43,577
+ken
+
+1404
+00:24:40,327 --> 00:24:43,577
+ken
+
+1405
+00:24:40,327 --> 00:24:43,577
+ken
+
+1406
+00:24:40,327 --> 00:24:43,577
+ken
+
+1407
+00:24:40,327 --> 00:24:43,577
+ken
+
+1408
+00:24:40,327 --> 00:24:43,577
+ken
+
+1409
+00:24:40,327 --> 00:24:43,577
+ken
+
+1410
+00:24:40,327 --> 00:24:43,577
+ken
+
+1411
+00:24:40,327 --> 00:24:43,577
+ken
+
+1412
+00:24:40,327 --> 00:24:43,577
+ken
+
+1413
+00:24:40,327 --> 00:24:43,577
+ken
+
+1414
+00:24:40,327 --> 00:24:43,577
+ken
+
+1415
+00:24:40,327 --> 00:24:43,577
+ken
+
+1416
+00:24:40,327 --> 00:24:43,577
+ken
+
+1417
+00:24:40,327 --> 00:24:43,577
+ken
+
+1418
+00:24:40,327 --> 00:24:43,577
+ken
+
+1419
+00:24:40,327 --> 00:24:43,577
+ken
+
+1420
+00:24:40,327 --> 00:24:43,577
+ken
+
+1421
+00:24:40,327 --> 00:24:43,577
+ken
+
+1422
+00:24:40,327 --> 00:24:43,577
+ken
+
+1423
+00:24:40,327 --> 00:24:43,577
+ken
+
+1424
+00:24:40,327 --> 00:24:43,577
+ken
+
+1425
+00:24:40,327 --> 00:24:43,577
+ken
+
+1426
+00:24:40,327 --> 00:24:43,577
+ken
+
+1427
+00:24:40,327 --> 00:24:43,577
+ken
+
+1428
+00:24:40,327 --> 00:24:43,577
+ken
+
+1429
+00:24:40,327 --> 00:24:43,577
+ken
+
+1430
+00:24:40,327 --> 00:24:43,577
+ken
+
+1431
+00:24:40,327 --> 00:24:43,577
+ken
+
+1432
+00:24:40,327 --> 00:24:43,577
+ken
+
+1433
+00:24:40,327 --> 00:24:43,577
+ken
+
+1434
+00:24:40,327 --> 00:24:43,577
+ken
+
+1435
+00:24:40,327 --> 00:24:43,577
+ken
+
+1436
+00:24:41,077 --> 00:24:44,157
+voi
+
+1437
+00:24:41,077 --> 00:24:44,157
+voi
+
+1438
+00:24:41,077 --> 00:24:44,157
+voi
+
+1439
+00:24:41,077 --> 00:24:44,157
+voi
+
+1440
+00:24:41,077 --> 00:24:44,157
+voi
+
+1441
+00:24:41,077 --> 00:24:44,157
+voi
+
+1442
+00:24:41,077 --> 00:24:44,157
+voi
+
+1443
+00:24:41,077 --> 00:24:44,157
+voi
+
+1444
+00:24:41,077 --> 00:24:44,157
+voi
+
+1445
+00:24:41,077 --> 00:24:44,157
+voi
+
+1446
+00:24:41,077 --> 00:24:44,157
+voi
+
+1447
+00:24:41,077 --> 00:24:44,157
+voi
+
+1448
+00:24:41,077 --> 00:24:44,157
+voi
+
+1449
+00:24:41,077 --> 00:24:44,157
+voi
+
+1450
+00:24:41,077 --> 00:24:44,157
+voi
+
+1451
+00:24:41,077 --> 00:24:44,157
+voi
+
+1452
+00:24:41,077 --> 00:24:44,157
+voi
+
+1453
+00:24:41,077 --> 00:24:44,157
+voi
+
+1454
+00:24:41,077 --> 00:24:44,157
+voi
+
+1455
+00:24:41,077 --> 00:24:44,157
+voi
+
+1456
+00:24:41,077 --> 00:24:44,157
+voi
+
+1457
+00:24:41,077 --> 00:24:44,157
+voi
+
+1458
+00:24:41,077 --> 00:24:44,157
+voi
+
+1459
+00:24:41,077 --> 00:24:44,157
+voi
+
+1460
+00:24:41,077 --> 00:24:44,157
+voi
+
+1461
+00:24:41,077 --> 00:24:44,157
+voi
+
+1462
+00:24:41,077 --> 00:24:44,157
+voi
+
+1463
+00:24:41,077 --> 00:24:44,157
+voi
+
+1464
+00:24:41,077 --> 00:24:44,157
+voi
+
+1465
+00:24:41,077 --> 00:24:44,157
+voi
+
+1466
+00:24:41,077 --> 00:24:44,157
+voi
+
+1467
+00:24:41,077 --> 00:24:44,157
+voi
+
+1468
+00:24:41,077 --> 00:24:44,157
+voi
+
+1469
+00:24:41,077 --> 00:24:44,157
+voi
+
+1470
+00:24:41,077 --> 00:24:44,157
+voi
+
+1471
+00:24:41,077 --> 00:24:44,157
+voi
+
+1472
+00:24:41,077 --> 00:24:44,157
+voi
+
+1473
+00:24:41,077 --> 00:24:44,157
+voi
+
+1474
+00:24:41,077 --> 00:24:44,157
+voi
+
+1475
+00:24:41,077 --> 00:24:44,157
+voi
+
+1476
+00:24:41,657 --> 00:24:45,157
+ces
+
+1477
+00:24:41,657 --> 00:24:45,157
+ces
+
+1478
+00:24:41,657 --> 00:24:45,157
+ces
+
+1479
+00:24:41,657 --> 00:24:45,157
+ces
+
+1480
+00:24:41,657 --> 00:24:45,157
+ces
+
+1481
+00:24:41,657 --> 00:24:45,157
+ces
+
+1482
+00:24:41,657 --> 00:24:45,157
+ces
+
+1483
+00:24:41,657 --> 00:24:45,157
+ces
+
+1484
+00:24:41,657 --> 00:24:45,157
+ces
+
+1485
+00:24:41,657 --> 00:24:45,157
+ces
+
+1486
+00:24:41,657 --> 00:24:45,157
+ces
+
+1487
+00:24:41,657 --> 00:24:45,157
+ces
+
+1488
+00:24:41,657 --> 00:24:45,157
+ces
+
+1489
+00:24:41,657 --> 00:24:45,157
+ces
+
+1490
+00:24:41,657 --> 00:24:45,157
+ces
+
+1491
+00:24:41,657 --> 00:24:45,157
+ces
+
+1492
+00:24:41,657 --> 00:24:45,157
+ces
+
+1493
+00:24:41,657 --> 00:24:45,157
+ces
+
+1494
+00:24:41,657 --> 00:24:45,157
+ces
+
+1495
+00:24:41,657 --> 00:24:45,157
+ces
+
+1496
+00:24:41,657 --> 00:24:45,157
+ces
+
+1497
+00:24:41,657 --> 00:24:45,157
+ces
+
+1498
+00:24:41,657 --> 00:24:45,157
+ces
+
+1499
+00:24:41,657 --> 00:24:45,157
+ces
+
+1500
+00:24:41,657 --> 00:24:45,157
+ces
+
+1501
+00:24:41,657 --> 00:24:45,157
+ces
+
+1502
+00:24:41,657 --> 00:24:45,157
+ces
+
+1503
+00:24:41,657 --> 00:24:45,157
+ces
+
+1504
+00:24:41,657 --> 00:24:45,157
+ces
+
+1505
+00:24:41,657 --> 00:24:45,157
+ces
+
+1506
+00:24:41,657 --> 00:24:45,157
+ces
+
+1507
+00:24:41,657 --> 00:24:45,157
+ces
+
+1508
+00:24:41,657 --> 00:24:45,157
+ces
+
+1509
+00:24:41,657 --> 00:24:45,157
+ces
+
+1510
+00:24:41,657 --> 00:24:45,157
+ces
+
+1511
+00:24:41,657 --> 00:24:45,157
+ces
+
+1512
+00:24:41,657 --> 00:24:45,157
+ces
+
+1513
+00:24:41,657 --> 00:24:45,157
+ces
+
+1514
+00:24:41,657 --> 00:24:45,157
+ces
+
+1515
+00:24:41,657 --> 00:24:45,157
+ces
+
+1516
+00:24:42,657 --> 00:24:45,787
+in
+
+1517
+00:24:42,657 --> 00:24:45,787
+in
+
+1518
+00:24:42,657 --> 00:24:45,787
+in
+
+1519
+00:24:42,657 --> 00:24:45,787
+in
+
+1520
+00:24:42,657 --> 00:24:45,787
+in
+
+1521
+00:24:42,657 --> 00:24:45,787
+in
+
+1522
+00:24:42,657 --> 00:24:45,787
+in
+
+1523
+00:24:42,657 --> 00:24:45,787
+in
+
+1524
+00:24:42,657 --> 00:24:45,787
+in
+
+1525
+00:24:42,657 --> 00:24:45,787
+in
+
+1526
+00:24:42,657 --> 00:24:45,787
+in
+
+1527
+00:24:42,657 --> 00:24:45,787
+in
+
+1528
+00:24:42,657 --> 00:24:45,787
+in
+
+1529
+00:24:42,657 --> 00:24:45,787
+in
+
+1530
+00:24:42,657 --> 00:24:45,787
+in
+
+1531
+00:24:42,657 --> 00:24:45,787
+in
+
+1532
+00:24:42,657 --> 00:24:45,787
+in
+
+1533
+00:24:42,657 --> 00:24:45,787
+in
+
+1534
+00:24:42,657 --> 00:24:45,787
+in
+
+1535
+00:24:42,657 --> 00:24:45,787
+in
+
+1536
+00:24:42,657 --> 00:24:45,787
+in
+
+1537
+00:24:42,657 --> 00:24:45,787
+in
+
+1538
+00:24:42,657 --> 00:24:45,787
+in
+
+1539
+00:24:42,657 --> 00:24:45,787
+in
+
+1540
+00:24:42,657 --> 00:24:45,787
+in
+
+1541
+00:24:42,657 --> 00:24:45,787
+in
+
+1542
+00:24:42,657 --> 00:24:45,787
+in
+
+1543
+00:24:42,657 --> 00:24:45,787
+in
+
+1544
+00:24:42,657 --> 00:24:45,787
+in
+
+1545
+00:24:42,657 --> 00:24:45,787
+in
+
+1546
+00:24:42,657 --> 00:24:45,787
+in
+
+1547
+00:24:42,657 --> 00:24:45,787
+in
+
+1548
+00:24:42,657 --> 00:24:45,787
+in
+
+1549
+00:24:42,657 --> 00:24:45,787
+in
+
+1550
+00:24:42,657 --> 00:24:45,787
+in
+
+1551
+00:24:42,657 --> 00:24:45,787
+in
+
+1552
+00:24:42,657 --> 00:24:45,787
+in
+
+1553
+00:24:42,657 --> 00:24:45,787
+in
+
+1554
+00:24:42,657 --> 00:24:45,787
+in
+
+1555
+00:24:42,657 --> 00:24:45,787
+in
+
+1556
+00:24:43,287 --> 00:24:46,497
+my
+
+1557
+00:24:43,287 --> 00:24:46,497
+my
+
+1558
+00:24:43,287 --> 00:24:46,497
+my
+
+1559
+00:24:43,287 --> 00:24:46,497
+my
+
+1560
+00:24:43,287 --> 00:24:46,497
+my
+
+1561
+00:24:43,287 --> 00:24:46,497
+my
+
+1562
+00:24:43,287 --> 00:24:46,497
+my
+
+1563
+00:24:43,287 --> 00:24:46,497
+my
+
+1564
+00:24:43,287 --> 00:24:46,497
+my
+
+1565
+00:24:43,287 --> 00:24:46,497
+my
+
+1566
+00:24:43,287 --> 00:24:46,497
+my
+
+1567
+00:24:43,287 --> 00:24:46,497
+my
+
+1568
+00:24:43,287 --> 00:24:46,497
+my
+
+1569
+00:24:43,287 --> 00:24:46,497
+my
+
+1570
+00:24:43,287 --> 00:24:46,497
+my
+
+1571
+00:24:43,287 --> 00:24:46,497
+my
+
+1572
+00:24:43,287 --> 00:24:46,497
+my
+
+1573
+00:24:43,287 --> 00:24:46,497
+my
+
+1574
+00:24:43,287 --> 00:24:46,497
+my
+
+1575
+00:24:43,287 --> 00:24:46,497
+my
+
+1576
+00:24:43,287 --> 00:24:46,497
+my
+
+1577
+00:24:43,287 --> 00:24:46,497
+my
+
+1578
+00:24:43,287 --> 00:24:46,497
+my
+
+1579
+00:24:43,287 --> 00:24:46,497
+my
+
+1580
+00:24:43,287 --> 00:24:46,497
+my
+
+1581
+00:24:43,287 --> 00:24:46,497
+my
+
+1582
+00:24:43,287 --> 00:24:46,497
+my
+
+1583
+00:24:43,287 --> 00:24:46,497
+my
+
+1584
+00:24:43,287 --> 00:24:46,497
+my
+
+1585
+00:24:43,287 --> 00:24:46,497
+my
+
+1586
+00:24:43,287 --> 00:24:46,497
+my
+
+1587
+00:24:43,287 --> 00:24:46,497
+my
+
+1588
+00:24:43,287 --> 00:24:46,497
+my
+
+1589
+00:24:43,287 --> 00:24:46,497
+my
+
+1590
+00:24:43,287 --> 00:24:46,497
+my
+
+1591
+00:24:43,287 --> 00:24:46,497
+my
+
+1592
+00:24:43,287 --> 00:24:46,497
+my
+
+1593
+00:24:43,287 --> 00:24:46,497
+my
+
+1594
+00:24:43,287 --> 00:24:46,497
+my
+
+1595
+00:24:43,287 --> 00:24:46,497
+my
+
+1596
+00:24:43,997 --> 00:24:49,787
+head
+
+1597
+00:24:43,997 --> 00:24:49,787
+head
+
+1598
+00:24:43,997 --> 00:24:49,787
+head
+
+1599
+00:24:43,997 --> 00:24:49,787
+head
+
+1600
+00:24:43,997 --> 00:24:49,787
+head
+
+1601
+00:24:43,997 --> 00:24:49,787
+head
+
+1602
+00:24:43,997 --> 00:24:49,787
+head
+
+1603
+00:24:43,997 --> 00:24:49,787
+head
+
+1604
+00:24:43,997 --> 00:24:49,787
+head
+
+1605
+00:24:43,997 --> 00:24:49,787
+head
+
+1606
+00:24:43,997 --> 00:24:49,787
+head
+
+1607
+00:24:43,997 --> 00:24:49,787
+head
+
+1608
+00:24:43,997 --> 00:24:49,787
+head
+
+1609
+00:24:43,997 --> 00:24:49,787
+head
+
+1610
+00:24:43,997 --> 00:24:49,787
+head
+
+1611
+00:24:43,997 --> 00:24:49,787
+head
+
+1612
+00:24:43,997 --> 00:24:49,787
+head
+
+1613
+00:24:43,997 --> 00:24:49,787
+head
+
+1614
+00:24:43,997 --> 00:24:49,787
+head
+
+1615
+00:24:43,997 --> 00:24:49,787
+head
+
+1616
+00:24:43,997 --> 00:24:49,787
+head
+
+1617
+00:24:43,997 --> 00:24:49,787
+head
+
+1618
+00:24:43,997 --> 00:24:49,787
+head
+
+1619
+00:24:43,997 --> 00:24:49,787
+head
+
+1620
+00:24:43,997 --> 00:24:49,787
+head
+
+1621
+00:24:43,997 --> 00:24:49,787
+head
+
+1622
+00:24:43,997 --> 00:24:49,787
+head
+
+1623
+00:24:43,997 --> 00:24:49,787
+head
+
+1624
+00:24:43,997 --> 00:24:49,787
+head
+
+1625
+00:24:43,997 --> 00:24:49,787
+head
+
+1626
+00:24:43,997 --> 00:24:49,787
+head
+
+1627
+00:24:43,997 --> 00:24:49,787
+head
+
+1628
+00:24:43,997 --> 00:24:49,787
+head
+
+1629
+00:24:43,997 --> 00:24:49,787
+head
+
+1630
+00:24:43,997 --> 00:24:49,787
+head
+
+1631
+00:24:43,997 --> 00:24:49,787
+head
+
+1632
+00:24:43,997 --> 00:24:49,787
+head
+
+1633
+00:24:43,997 --> 00:24:49,787
+head
+
+1634
+00:24:43,997 --> 00:24:49,787
+head
+
+1635
+00:24:43,997 --> 00:24:49,787
+head
+
+1636
+00:24:48,917 --> 00:24:58,547
+What's
+
+1637
+00:24:48,917 --> 00:24:58,547
+that...?
+
+1638
+00:24:49,337 --> 00:24:52,507
+What's
+
+1639
+00:24:49,337 --> 00:24:52,507
+What's
+
+1640
+00:24:49,337 --> 00:24:52,507
+What's
+
+1641
+00:24:49,337 --> 00:24:52,507
+What's
+
+1642
+00:24:49,337 --> 00:24:52,507
+What's
+
+1643
+00:24:49,337 --> 00:24:52,507
+What's
+
+1644
+00:24:49,337 --> 00:24:52,507
+What's
+
+1645
+00:24:49,337 --> 00:24:52,507
+What's
+
+1646
+00:24:49,337 --> 00:24:52,507
+What's
+
+1647
+00:24:49,337 --> 00:24:52,507
+What's
+
+1648
+00:24:49,337 --> 00:24:52,507
+What's
+
+1649
+00:24:49,337 --> 00:24:52,507
+What's
+
+1650
+00:24:49,337 --> 00:24:52,507
+What's
+
+1651
+00:24:49,337 --> 00:24:52,507
+What's
+
+1652
+00:24:49,337 --> 00:24:52,507
+What's
+
+1653
+00:24:49,337 --> 00:24:52,507
+What's
+
+1654
+00:24:49,337 --> 00:24:52,507
+What's
+
+1655
+00:24:49,337 --> 00:24:52,507
+What's
+
+1656
+00:24:49,337 --> 00:24:52,507
+What's
+
+1657
+00:24:49,337 --> 00:24:52,507
+What's
+
+1658
+00:24:49,337 --> 00:24:52,507
+What's
+
+1659
+00:24:49,337 --> 00:24:52,507
+What's
+
+1660
+00:24:49,337 --> 00:24:52,507
+What's
+
+1661
+00:24:49,337 --> 00:24:52,507
+What's
+
+1662
+00:24:49,337 --> 00:24:52,507
+What's
+
+1663
+00:24:49,337 --> 00:24:52,507
+What's
+
+1664
+00:24:49,337 --> 00:24:52,507
+What's
+
+1665
+00:24:49,337 --> 00:24:52,507
+What's
+
+1666
+00:24:49,337 --> 00:24:52,507
+What's
+
+1667
+00:24:49,337 --> 00:24:52,507
+What's
+
+1668
+00:24:49,337 --> 00:24:52,507
+What's
+
+1669
+00:24:49,337 --> 00:24:52,507
+What's
+
+1670
+00:24:49,337 --> 00:24:52,507
+What's
+
+1671
+00:24:49,337 --> 00:24:52,507
+What's
+
+1672
+00:24:49,337 --> 00:24:52,507
+What's
+
+1673
+00:24:49,337 --> 00:24:52,507
+What's
+
+1674
+00:24:49,337 --> 00:24:52,507
+What's
+
+1675
+00:24:49,337 --> 00:24:52,507
+What's
+
+1676
+00:24:49,337 --> 00:24:52,507
+What's
+
+1677
+00:24:49,337 --> 00:24:52,507
+What's
+
+1678
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1679
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1680
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1681
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1682
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1683
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1684
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1685
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1686
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1687
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1688
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1689
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1690
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1691
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1692
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1693
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1694
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1695
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1696
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1697
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1698
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1699
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1700
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1701
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1702
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1703
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1704
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1705
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1706
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1707
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1708
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1709
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1710
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1711
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1712
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1713
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1714
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1715
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1716
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1717
+00:24:49,997 --> 00:25:00,637
+that...?
+
+1718
+00:24:51,457 --> 00:24:57,387
+I
+
+1719
+00:24:51,457 --> 00:24:57,387
+may
+
+1720
+00:24:51,457 --> 00:24:57,387
+be
+
+1721
+00:24:51,457 --> 00:24:57,387
+para
+
+1722
+00:24:51,457 --> 00:24:57,387
+noid,
+
+1723
+00:24:51,457 --> 00:24:57,387
+but
+
+1724
+00:24:51,457 --> 00:24:57,387
+not
+
+1725
+00:24:51,457 --> 00:24:57,387
+an
+
+1726
+00:24:51,457 --> 00:24:57,387
+an
+
+1727
+00:24:51,457 --> 00:24:57,387
+droid
+
+1728
+00:24:51,877 --> 00:24:52,877
+I
+
+1729
+00:24:51,877 --> 00:24:52,877
+I
+
+1730
+00:24:51,877 --> 00:24:52,877
+I
+
+1731
+00:24:51,877 --> 00:24:52,877
+I
+
+1732
+00:24:51,877 --> 00:24:52,877
+I
+
+1733
+00:24:51,877 --> 00:24:52,877
+I
+
+1734
+00:24:51,877 --> 00:24:52,877
+I
+
+1735
+00:24:51,877 --> 00:24:52,877
+I
+
+1736
+00:24:51,877 --> 00:24:52,877
+I
+
+1737
+00:24:51,877 --> 00:24:52,877
+I
+
+1738
+00:24:51,877 --> 00:24:52,877
+I
+
+1739
+00:24:51,877 --> 00:24:52,877
+I
+
+1740
+00:24:51,877 --> 00:24:52,877
+I
+
+1741
+00:24:51,877 --> 00:24:52,877
+I
+
+1742
+00:24:51,877 --> 00:24:52,877
+I
+
+1743
+00:24:51,877 --> 00:24:52,877
+I
+
+1744
+00:24:51,877 --> 00:24:52,877
+I
+
+1745
+00:24:51,877 --> 00:24:52,877
+I
+
+1746
+00:24:51,877 --> 00:24:52,877
+I
+
+1747
+00:24:51,877 --> 00:24:52,877
+I
+
+1748
+00:24:52,087 --> 00:24:53,257
+may
+
+1749
+00:24:52,087 --> 00:24:53,257
+may
+
+1750
+00:24:52,087 --> 00:24:53,257
+may
+
+1751
+00:24:52,087 --> 00:24:53,257
+may
+
+1752
+00:24:52,087 --> 00:24:53,257
+may
+
+1753
+00:24:52,087 --> 00:24:53,257
+may
+
+1754
+00:24:52,087 --> 00:24:53,257
+may
+
+1755
+00:24:52,087 --> 00:24:53,257
+may
+
+1756
+00:24:52,087 --> 00:24:53,257
+may
+
+1757
+00:24:52,087 --> 00:24:53,257
+may
+
+1758
+00:24:52,087 --> 00:24:53,257
+may
+
+1759
+00:24:52,087 --> 00:24:53,257
+may
+
+1760
+00:24:52,087 --> 00:24:53,257
+may
+
+1761
+00:24:52,087 --> 00:24:53,257
+may
+
+1762
+00:24:52,087 --> 00:24:53,257
+may
+
+1763
+00:24:52,087 --> 00:24:53,257
+may
+
+1764
+00:24:52,087 --> 00:24:53,257
+may
+
+1765
+00:24:52,087 --> 00:24:53,257
+may
+
+1766
+00:24:52,087 --> 00:24:53,257
+may
+
+1767
+00:24:52,087 --> 00:24:53,257
+may
+
+1768
+00:24:52,797 --> 00:24:54,007
+be
+
+1769
+00:24:52,797 --> 00:24:54,007
+be
+
+1770
+00:24:52,797 --> 00:24:54,007
+be
+
+1771
+00:24:52,797 --> 00:24:54,007
+be
+
+1772
+00:24:52,797 --> 00:24:54,007
+be
+
+1773
+00:24:52,797 --> 00:24:54,007
+be
+
+1774
+00:24:52,797 --> 00:24:54,007
+be
+
+1775
+00:24:52,797 --> 00:24:54,007
+be
+
+1776
+00:24:52,797 --> 00:24:54,007
+be
+
+1777
+00:24:52,797 --> 00:24:54,007
+be
+
+1778
+00:24:52,797 --> 00:24:54,007
+be
+
+1779
+00:24:52,797 --> 00:24:54,007
+be
+
+1780
+00:24:52,797 --> 00:24:54,007
+be
+
+1781
+00:24:52,797 --> 00:24:54,007
+be
+
+1782
+00:24:52,797 --> 00:24:54,007
+be
+
+1783
+00:24:52,797 --> 00:24:54,007
+be
+
+1784
+00:24:52,797 --> 00:24:54,007
+be
+
+1785
+00:24:52,797 --> 00:24:54,007
+be
+
+1786
+00:24:52,797 --> 00:24:54,007
+be
+
+1787
+00:24:52,797 --> 00:24:54,007
+be
+
+1788
+00:24:53,167 --> 00:24:54,337
+para
+
+1789
+00:24:53,167 --> 00:24:54,337
+para
+
+1790
+00:24:53,167 --> 00:24:54,337
+para
+
+1791
+00:24:53,167 --> 00:24:54,337
+para
+
+1792
+00:24:53,167 --> 00:24:54,337
+para
+
+1793
+00:24:53,167 --> 00:24:54,337
+para
+
+1794
+00:24:53,167 --> 00:24:54,337
+para
+
+1795
+00:24:53,167 --> 00:24:54,337
+para
+
+1796
+00:24:53,167 --> 00:24:54,337
+para
+
+1797
+00:24:53,167 --> 00:24:54,337
+para
+
+1798
+00:24:53,167 --> 00:24:54,337
+para
+
+1799
+00:24:53,167 --> 00:24:54,337
+para
+
+1800
+00:24:53,167 --> 00:24:54,337
+para
+
+1801
+00:24:53,167 --> 00:24:54,337
+para
+
+1802
+00:24:53,167 --> 00:24:54,337
+para
+
+1803
+00:24:53,167 --> 00:24:54,337
+para
+
+1804
+00:24:53,167 --> 00:24:54,337
+para
+
+1805
+00:24:53,167 --> 00:24:54,337
+para
+
+1806
+00:24:53,167 --> 00:24:54,337
+para
+
+1807
+00:24:53,167 --> 00:24:54,337
+para
+
+1808
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1809
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1810
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1811
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1812
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1813
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1814
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1815
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1816
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1817
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1818
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1819
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1820
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1821
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1822
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1823
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1824
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1825
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1826
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1827
+00:24:53,547 --> 00:24:54,717
+noid,
+
+1828
+00:24:54,417 --> 00:24:55,627
+but
+
+1829
+00:24:54,417 --> 00:24:55,627
+but
+
+1830
+00:24:54,417 --> 00:24:55,627
+but
+
+1831
+00:24:54,417 --> 00:24:55,627
+but
+
+1832
+00:24:54,417 --> 00:24:55,627
+but
+
+1833
+00:24:54,417 --> 00:24:55,627
+but
+
+1834
+00:24:54,417 --> 00:24:55,627
+but
+
+1835
+00:24:54,417 --> 00:24:55,627
+but
+
+1836
+00:24:54,417 --> 00:24:55,627
+but
+
+1837
+00:24:54,417 --> 00:24:55,627
+but
+
+1838
+00:24:54,417 --> 00:24:55,627
+but
+
+1839
+00:24:54,417 --> 00:24:55,627
+but
+
+1840
+00:24:54,417 --> 00:24:55,627
+but
+
+1841
+00:24:54,417 --> 00:24:55,627
+but
+
+1842
+00:24:54,417 --> 00:24:55,627
+but
+
+1843
+00:24:54,417 --> 00:24:55,627
+but
+
+1844
+00:24:54,417 --> 00:24:55,627
+but
+
+1845
+00:24:54,417 --> 00:24:55,627
+but
+
+1846
+00:24:54,417 --> 00:24:55,627
+but
+
+1847
+00:24:54,417 --> 00:24:55,627
+but
+
+1848
+00:24:55,127 --> 00:24:56,177
+not
+
+1849
+00:24:55,127 --> 00:24:56,177
+not
+
+1850
+00:24:55,127 --> 00:24:56,177
+not
+
+1851
+00:24:55,127 --> 00:24:56,177
+not
+
+1852
+00:24:55,127 --> 00:24:56,177
+not
+
+1853
+00:24:55,127 --> 00:24:56,177
+not
+
+1854
+00:24:55,127 --> 00:24:56,177
+not
+
+1855
+00:24:55,127 --> 00:24:56,177
+not
+
+1856
+00:24:55,127 --> 00:24:56,177
+not
+
+1857
+00:24:55,127 --> 00:24:56,177
+not
+
+1858
+00:24:55,127 --> 00:24:56,177
+not
+
+1859
+00:24:55,127 --> 00:24:56,177
+not
+
+1860
+00:24:55,127 --> 00:24:56,177
+not
+
+1861
+00:24:55,127 --> 00:24:56,177
+not
+
+1862
+00:24:55,127 --> 00:24:56,177
+not
+
+1863
+00:24:55,127 --> 00:24:56,177
+not
+
+1864
+00:24:55,127 --> 00:24:56,177
+not
+
+1865
+00:24:55,127 --> 00:24:56,177
+not
+
+1866
+00:24:55,127 --> 00:24:56,177
+not
+
+1867
+00:24:55,127 --> 00:24:56,177
+not
+
+1868
+00:24:55,377 --> 00:24:56,547
+an
+
+1869
+00:24:55,377 --> 00:24:56,547
+an
+
+1870
+00:24:55,377 --> 00:24:56,547
+an
+
+1871
+00:24:55,377 --> 00:24:56,547
+an
+
+1872
+00:24:55,377 --> 00:24:56,547
+an
+
+1873
+00:24:55,377 --> 00:24:56,547
+an
+
+1874
+00:24:55,377 --> 00:24:56,547
+an
+
+1875
+00:24:55,377 --> 00:24:56,547
+an
+
+1876
+00:24:55,377 --> 00:24:56,547
+an
+
+1877
+00:24:55,377 --> 00:24:56,547
+an
+
+1878
+00:24:55,377 --> 00:24:56,547
+an
+
+1879
+00:24:55,377 --> 00:24:56,547
+an
+
+1880
+00:24:55,377 --> 00:24:56,547
+an
+
+1881
+00:24:55,377 --> 00:24:56,547
+an
+
+1882
+00:24:55,377 --> 00:24:56,547
+an
+
+1883
+00:24:55,377 --> 00:24:56,547
+an
+
+1884
+00:24:55,377 --> 00:24:56,547
+an
+
+1885
+00:24:55,377 --> 00:24:56,547
+an
+
+1886
+00:24:55,377 --> 00:24:56,547
+an
+
+1887
+00:24:55,377 --> 00:24:56,547
+an
+
+1888
+00:24:56,087 --> 00:24:57,217
+an
+
+1889
+00:24:56,087 --> 00:24:57,217
+an
+
+1890
+00:24:56,087 --> 00:24:57,217
+an
+
+1891
+00:24:56,087 --> 00:24:57,217
+an
+
+1892
+00:24:56,087 --> 00:24:57,217
+an
+
+1893
+00:24:56,087 --> 00:24:57,217
+an
+
+1894
+00:24:56,087 --> 00:24:57,217
+an
+
+1895
+00:24:56,087 --> 00:24:57,217
+an
+
+1896
+00:24:56,087 --> 00:24:57,217
+an
+
+1897
+00:24:56,087 --> 00:24:57,217
+an
+
+1898
+00:24:56,087 --> 00:24:57,217
+an
+
+1899
+00:24:56,087 --> 00:24:57,217
+an
+
+1900
+00:24:56,087 --> 00:24:57,217
+an
+
+1901
+00:24:56,087 --> 00:24:57,217
+an
+
+1902
+00:24:56,087 --> 00:24:57,217
+an
+
+1903
+00:24:56,087 --> 00:24:57,217
+an
+
+1904
+00:24:56,087 --> 00:24:57,217
+an
+
+1905
+00:24:56,087 --> 00:24:57,217
+an
+
+1906
+00:24:56,087 --> 00:24:57,217
+an
+
+1907
+00:24:56,087 --> 00:24:57,217
+an
+
+1908
+00:24:56,427 --> 00:24:57,797
+droid
+
+1909
+00:24:56,427 --> 00:24:57,797
+droid
+
+1910
+00:24:56,427 --> 00:24:57,797
+droid
+
+1911
+00:24:56,427 --> 00:24:57,797
+droid
+
+1912
+00:24:56,427 --> 00:24:57,797
+droid
+
+1913
+00:24:56,427 --> 00:24:57,797
+droid
+
+1914
+00:24:56,427 --> 00:24:57,797
+droid
+
+1915
+00:24:56,427 --> 00:24:57,797
+droid
+
+1916
+00:24:56,427 --> 00:24:57,797
+droid
+
+1917
+00:24:56,427 --> 00:24:57,797
+droid
+
+1918
+00:24:56,427 --> 00:24:57,797
+droid
+
+1919
+00:24:56,427 --> 00:24:57,797
+droid
+
+1920
+00:24:56,427 --> 00:24:57,797
+droid
+
+1921
+00:24:56,427 --> 00:24:57,797
+droid
+
+1922
+00:24:56,427 --> 00:24:57,797
+droid
+
+1923
+00:24:56,427 --> 00:24:57,797
+droid
+
+1924
+00:24:56,427 --> 00:24:57,797
+droid
+
+1925
+00:24:56,427 --> 00:24:57,797
+droid
+
+1926
+00:24:56,427 --> 00:24:57,797
+droid
+
+1927
+00:24:56,427 --> 00:24:57,797
+droid
+
+1928
+00:24:57,757 --> 00:25:05,637
+What's
+
+1929
+00:24:57,757 --> 00:25:05,637
+that...?
+
+1930
+00:24:58,137 --> 00:25:01,347
+What's
+
+1931
+00:24:58,137 --> 00:25:01,347
+What's
+
+1932
+00:24:58,137 --> 00:25:01,347
+What's
+
+1933
+00:24:58,137 --> 00:25:01,347
+What's
+
+1934
+00:24:58,137 --> 00:25:01,347
+What's
+
+1935
+00:24:58,137 --> 00:25:01,347
+What's
+
+1936
+00:24:58,137 --> 00:25:01,347
+What's
+
+1937
+00:24:58,137 --> 00:25:01,347
+What's
+
+1938
+00:24:58,137 --> 00:25:01,347
+What's
+
+1939
+00:24:58,137 --> 00:25:01,347
+What's
+
+1940
+00:24:58,137 --> 00:25:01,347
+What's
+
+1941
+00:24:58,137 --> 00:25:01,347
+What's
+
+1942
+00:24:58,137 --> 00:25:01,347
+What's
+
+1943
+00:24:58,137 --> 00:25:01,347
+What's
+
+1944
+00:24:58,137 --> 00:25:01,347
+What's
+
+1945
+00:24:58,137 --> 00:25:01,347
+What's
+
+1946
+00:24:58,137 --> 00:25:01,347
+What's
+
+1947
+00:24:58,137 --> 00:25:01,347
+What's
+
+1948
+00:24:58,137 --> 00:25:01,347
+What's
+
+1949
+00:24:58,137 --> 00:25:01,347
+What's
+
+1950
+00:24:58,137 --> 00:25:01,347
+What's
+
+1951
+00:24:58,137 --> 00:25:01,347
+What's
+
+1952
+00:24:58,137 --> 00:25:01,347
+What's
+
+1953
+00:24:58,137 --> 00:25:01,347
+What's
+
+1954
+00:24:58,137 --> 00:25:01,347
+What's
+
+1955
+00:24:58,137 --> 00:25:01,347
+What's
+
+1956
+00:24:58,137 --> 00:25:01,347
+What's
+
+1957
+00:24:58,137 --> 00:25:01,347
+What's
+
+1958
+00:24:58,137 --> 00:25:01,347
+What's
+
+1959
+00:24:58,137 --> 00:25:01,347
+What's
+
+1960
+00:24:58,137 --> 00:25:01,347
+What's
+
+1961
+00:24:58,137 --> 00:25:01,347
+What's
+
+1962
+00:24:58,137 --> 00:25:01,347
+What's
+
+1963
+00:24:58,137 --> 00:25:01,347
+What's
+
+1964
+00:24:58,137 --> 00:25:01,347
+What's
+
+1965
+00:24:58,137 --> 00:25:01,347
+What's
+
+1966
+00:24:58,137 --> 00:25:01,347
+What's
+
+1967
+00:24:58,137 --> 00:25:01,347
+What's
+
+1968
+00:24:58,137 --> 00:25:01,347
+What's
+
+1969
+00:24:58,137 --> 00:25:01,347
+What's
+
+1970
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1971
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1972
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1973
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1974
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1975
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1976
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1977
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1978
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1979
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1980
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1981
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1982
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1983
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1984
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1985
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1986
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1987
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1988
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1989
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1990
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1991
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1992
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1993
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1994
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1995
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1996
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1997
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1998
+00:24:58,847 --> 00:25:07,767
+that...?
+
+1999
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2000
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2001
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2002
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2003
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2004
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2005
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2006
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2007
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2008
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2009
+00:24:58,847 --> 00:25:07,767
+that...?
+
+2010
+00:24:59,887 --> 00:25:05,887
+I
+
+2011
+00:24:59,887 --> 00:25:05,887
+may
+
+2012
+00:24:59,887 --> 00:25:05,887
+be
+
+2013
+00:24:59,887 --> 00:25:05,887
+para
+
+2014
+00:24:59,887 --> 00:25:05,887
+noid,
+
+2015
+00:24:59,887 --> 00:25:05,887
+but
+
+2016
+00:24:59,887 --> 00:25:05,887
+not
+
+2017
+00:24:59,887 --> 00:25:05,887
+an
+
+2018
+00:24:59,887 --> 00:25:05,887
+an
+
+2019
+00:24:59,887 --> 00:25:05,887
+droid
+
+2020
+00:25:00,297 --> 00:25:01,307
+I
+
+2021
+00:25:00,297 --> 00:25:01,307
+I
+
+2022
+00:25:00,297 --> 00:25:01,307
+I
+
+2023
+00:25:00,297 --> 00:25:01,307
+I
+
+2024
+00:25:00,297 --> 00:25:01,307
+I
+
+2025
+00:25:00,297 --> 00:25:01,307
+I
+
+2026
+00:25:00,297 --> 00:25:01,307
+I
+
+2027
+00:25:00,297 --> 00:25:01,307
+I
+
+2028
+00:25:00,297 --> 00:25:01,307
+I
+
+2029
+00:25:00,297 --> 00:25:01,307
+I
+
+2030
+00:25:00,297 --> 00:25:01,307
+I
+
+2031
+00:25:00,297 --> 00:25:01,307
+I
+
+2032
+00:25:00,297 --> 00:25:01,307
+I
+
+2033
+00:25:00,297 --> 00:25:01,307
+I
+
+2034
+00:25:00,297 --> 00:25:01,307
+I
+
+2035
+00:25:00,297 --> 00:25:01,307
+I
+
+2036
+00:25:00,297 --> 00:25:01,307
+I
+
+2037
+00:25:00,297 --> 00:25:01,307
+I
+
+2038
+00:25:00,297 --> 00:25:01,307
+I
+
+2039
+00:25:00,297 --> 00:25:01,307
+I
+
+2040
+00:25:00,507 --> 00:25:01,597
+may
+
+2041
+00:25:00,507 --> 00:25:01,597
+may
+
+2042
+00:25:00,507 --> 00:25:01,597
+may
+
+2043
+00:25:00,507 --> 00:25:01,597
+may
+
+2044
+00:25:00,507 --> 00:25:01,597
+may
+
+2045
+00:25:00,507 --> 00:25:01,597
+may
+
+2046
+00:25:00,507 --> 00:25:01,597
+may
+
+2047
+00:25:00,507 --> 00:25:01,597
+may
+
+2048
+00:25:00,507 --> 00:25:01,597
+may
+
+2049
+00:25:00,507 --> 00:25:01,597
+may
+
+2050
+00:25:00,507 --> 00:25:01,597
+may
+
+2051
+00:25:00,507 --> 00:25:01,597
+may
+
+2052
+00:25:00,507 --> 00:25:01,597
+may
+
+2053
+00:25:00,507 --> 00:25:01,597
+may
+
+2054
+00:25:00,507 --> 00:25:01,597
+may
+
+2055
+00:25:00,507 --> 00:25:01,597
+may
+
+2056
+00:25:00,507 --> 00:25:01,597
+may
+
+2057
+00:25:00,507 --> 00:25:01,597
+may
+
+2058
+00:25:00,507 --> 00:25:01,597
+may
+
+2059
+00:25:00,507 --> 00:25:01,597
+may
+
+2060
+00:25:01,257 --> 00:25:02,267
+be
+
+2061
+00:25:01,257 --> 00:25:02,267
+be
+
+2062
+00:25:01,257 --> 00:25:02,267
+be
+
+2063
+00:25:01,257 --> 00:25:02,267
+be
+
+2064
+00:25:01,257 --> 00:25:02,267
+be
+
+2065
+00:25:01,257 --> 00:25:02,267
+be
+
+2066
+00:25:01,257 --> 00:25:02,267
+be
+
+2067
+00:25:01,257 --> 00:25:02,267
+be
+
+2068
+00:25:01,257 --> 00:25:02,267
+be
+
+2069
+00:25:01,257 --> 00:25:02,267
+be
+
+2070
+00:25:01,257 --> 00:25:02,267
+be
+
+2071
+00:25:01,257 --> 00:25:02,267
+be
+
+2072
+00:25:01,257 --> 00:25:02,267
+be
+
+2073
+00:25:01,257 --> 00:25:02,267
+be
+
+2074
+00:25:01,257 --> 00:25:02,267
+be
+
+2075
+00:25:01,257 --> 00:25:02,267
+be
+
+2076
+00:25:01,257 --> 00:25:02,267
+be
+
+2077
+00:25:01,257 --> 00:25:02,267
+be
+
+2078
+00:25:01,257 --> 00:25:02,267
+be
+
+2079
+00:25:01,257 --> 00:25:02,267
+be
+
+2080
+00:25:01,467 --> 00:25:02,677
+para
+
+2081
+00:25:01,467 --> 00:25:02,677
+para
+
+2082
+00:25:01,467 --> 00:25:02,677
+para
+
+2083
+00:25:01,467 --> 00:25:02,677
+para
+
+2084
+00:25:01,467 --> 00:25:02,677
+para
+
+2085
+00:25:01,467 --> 00:25:02,677
+para
+
+2086
+00:25:01,467 --> 00:25:02,677
+para
+
+2087
+00:25:01,467 --> 00:25:02,677
+para
+
+2088
+00:25:01,467 --> 00:25:02,677
+para
+
+2089
+00:25:01,467 --> 00:25:02,677
+para
+
+2090
+00:25:01,467 --> 00:25:02,677
+para
+
+2091
+00:25:01,467 --> 00:25:02,677
+para
+
+2092
+00:25:01,467 --> 00:25:02,677
+para
+
+2093
+00:25:01,467 --> 00:25:02,677
+para
+
+2094
+00:25:01,467 --> 00:25:02,677
+para
+
+2095
+00:25:01,467 --> 00:25:02,677
+para
+
+2096
+00:25:01,467 --> 00:25:02,677
+para
+
+2097
+00:25:01,467 --> 00:25:02,677
+para
+
+2098
+00:25:01,467 --> 00:25:02,677
+para
+
+2099
+00:25:01,467 --> 00:25:02,677
+para
+
+2100
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2101
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2102
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2103
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2104
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2105
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2106
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2107
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2108
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2109
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2110
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2111
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2112
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2113
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2114
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2115
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2116
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2117
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2118
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2119
+00:25:01,847 --> 00:25:03,137
+noid,
+
+2120
+00:25:02,717 --> 00:25:03,887
+but
+
+2121
+00:25:02,717 --> 00:25:03,887
+but
+
+2122
+00:25:02,717 --> 00:25:03,887
+but
+
+2123
+00:25:02,717 --> 00:25:03,887
+but
+
+2124
+00:25:02,717 --> 00:25:03,887
+but
+
+2125
+00:25:02,717 --> 00:25:03,887
+but
+
+2126
+00:25:02,717 --> 00:25:03,887
+but
+
+2127
+00:25:02,717 --> 00:25:03,887
+but
+
+2128
+00:25:02,717 --> 00:25:03,887
+but
+
+2129
+00:25:02,717 --> 00:25:03,887
+but
+
+2130
+00:25:02,717 --> 00:25:03,887
+but
+
+2131
+00:25:02,717 --> 00:25:03,887
+but
+
+2132
+00:25:02,717 --> 00:25:03,887
+but
+
+2133
+00:25:02,717 --> 00:25:03,887
+but
+
+2134
+00:25:02,717 --> 00:25:03,887
+but
+
+2135
+00:25:02,717 --> 00:25:03,887
+but
+
+2136
+00:25:02,717 --> 00:25:03,887
+but
+
+2137
+00:25:02,717 --> 00:25:03,887
+but
+
+2138
+00:25:02,717 --> 00:25:03,887
+but
+
+2139
+00:25:02,717 --> 00:25:03,887
+but
+
+2140
+00:25:03,427 --> 00:25:04,597
+not
+
+2141
+00:25:03,427 --> 00:25:04,597
+not
+
+2142
+00:25:03,427 --> 00:25:04,597
+not
+
+2143
+00:25:03,427 --> 00:25:04,597
+not
+
+2144
+00:25:03,427 --> 00:25:04,597
+not
+
+2145
+00:25:03,427 --> 00:25:04,597
+not
+
+2146
+00:25:03,427 --> 00:25:04,597
+not
+
+2147
+00:25:03,427 --> 00:25:04,597
+not
+
+2148
+00:25:03,427 --> 00:25:04,597
+not
+
+2149
+00:25:03,427 --> 00:25:04,597
+not
+
+2150
+00:25:03,427 --> 00:25:04,597
+not
+
+2151
+00:25:03,427 --> 00:25:04,597
+not
+
+2152
+00:25:03,427 --> 00:25:04,597
+not
+
+2153
+00:25:03,427 --> 00:25:04,597
+not
+
+2154
+00:25:03,427 --> 00:25:04,597
+not
+
+2155
+00:25:03,427 --> 00:25:04,597
+not
+
+2156
+00:25:03,427 --> 00:25:04,597
+not
+
+2157
+00:25:03,427 --> 00:25:04,597
+not
+
+2158
+00:25:03,427 --> 00:25:04,597
+not
+
+2159
+00:25:03,427 --> 00:25:04,597
+not
+
+2160
+00:25:03,807 --> 00:25:04,977
+an
+
+2161
+00:25:03,807 --> 00:25:04,977
+an
+
+2162
+00:25:03,807 --> 00:25:04,977
+an
+
+2163
+00:25:03,807 --> 00:25:04,977
+an
+
+2164
+00:25:03,807 --> 00:25:04,977
+an
+
+2165
+00:25:03,807 --> 00:25:04,977
+an
+
+2166
+00:25:03,807 --> 00:25:04,977
+an
+
+2167
+00:25:03,807 --> 00:25:04,977
+an
+
+2168
+00:25:03,807 --> 00:25:04,977
+an
+
+2169
+00:25:03,807 --> 00:25:04,977
+an
+
+2170
+00:25:03,807 --> 00:25:04,977
+an
+
+2171
+00:25:03,807 --> 00:25:04,977
+an
+
+2172
+00:25:03,807 --> 00:25:04,977
+an
+
+2173
+00:25:03,807 --> 00:25:04,977
+an
+
+2174
+00:25:03,807 --> 00:25:04,977
+an
+
+2175
+00:25:03,807 --> 00:25:04,977
+an
+
+2176
+00:25:03,807 --> 00:25:04,977
+an
+
+2177
+00:25:03,807 --> 00:25:04,977
+an
+
+2178
+00:25:03,807 --> 00:25:04,977
+an
+
+2179
+00:25:03,807 --> 00:25:04,977
+an
+
+2180
+00:25:04,557 --> 00:25:05,727
+an
+
+2181
+00:25:04,557 --> 00:25:05,727
+an
+
+2182
+00:25:04,557 --> 00:25:05,727
+an
+
+2183
+00:25:04,557 --> 00:25:05,727
+an
+
+2184
+00:25:04,557 --> 00:25:05,727
+an
+
+2185
+00:25:04,557 --> 00:25:05,727
+an
+
+2186
+00:25:04,557 --> 00:25:05,727
+an
+
+2187
+00:25:04,557 --> 00:25:05,727
+an
+
+2188
+00:25:04,557 --> 00:25:05,727
+an
+
+2189
+00:25:04,557 --> 00:25:05,727
+an
+
+2190
+00:25:04,557 --> 00:25:05,727
+an
+
+2191
+00:25:04,557 --> 00:25:05,727
+an
+
+2192
+00:25:04,557 --> 00:25:05,727
+an
+
+2193
+00:25:04,557 --> 00:25:05,727
+an
+
+2194
+00:25:04,557 --> 00:25:05,727
+an
+
+2195
+00:25:04,557 --> 00:25:05,727
+an
+
+2196
+00:25:04,557 --> 00:25:05,727
+an
+
+2197
+00:25:04,557 --> 00:25:05,727
+an
+
+2198
+00:25:04,557 --> 00:25:05,727
+an
+
+2199
+00:25:04,557 --> 00:25:05,727
+an
+
+2200
+00:25:04,887 --> 00:25:06,267
+droid
+
+2201
+00:25:04,887 --> 00:25:06,267
+droid
+
+2202
+00:25:04,887 --> 00:25:06,267
+droid
+
+2203
+00:25:04,887 --> 00:25:06,267
+droid
+
+2204
+00:25:04,887 --> 00:25:06,267
+droid
+
+2205
+00:25:04,887 --> 00:25:06,267
+droid
+
+2206
+00:25:04,887 --> 00:25:06,267
+droid
+
+2207
+00:25:04,887 --> 00:25:06,267
+droid
+
+2208
+00:25:04,887 --> 00:25:06,267
+droid
+
+2209
+00:25:04,887 --> 00:25:06,267
+droid
+
+2210
+00:25:04,887 --> 00:25:06,267
+droid
+
+2211
+00:25:04,887 --> 00:25:06,267
+droid
+
+2212
+00:25:04,887 --> 00:25:06,267
+droid
+
+2213
+00:25:04,887 --> 00:25:06,267
+droid
+
+2214
+00:25:04,887 --> 00:25:06,267
+droid
+
+2215
+00:25:04,887 --> 00:25:06,267
+droid
+
+2216
+00:25:04,887 --> 00:25:06,267
+droid
+
+2217
+00:25:04,887 --> 00:25:06,267
+droid
+
+2218
+00:25:04,887 --> 00:25:06,267
+droid
+
+2219
+00:25:04,887 --> 00:25:06,267
+droid
+
+2220
+00:25:30,577 --> 00:25:32,957
+The sages suffer from exhaustion.
+
+2221
+00:25:32,957 --> 00:25:34,797
+The clues intersect.
+
+2222
+00:25:34,797 --> 00:25:37,427
+The whereabouts of the doll who fails to respond to a summons.
+
+2223
+00:25:38,377 --> 00:25:41,097
+As the chase draws to a close...
+
+2224
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2225
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2226
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2227
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2228
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2229
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2230
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2231
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2232
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2233
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2234
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2235
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2236
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2237
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2238
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2239
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2240
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2241
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2242
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2243
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2244
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2245
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2246
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2247
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2248
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2249
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2250
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2251
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2252
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2253
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2254
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2255
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2256
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2257
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2258
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2259
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2260
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2261
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2262
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2263
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2264
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2265
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2266
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2267
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2268
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2269
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2270
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2271
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2272
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2273
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2274
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2275
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2276
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2277
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2278
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2279
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2280
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2281
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2282
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2283
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2284
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2285
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2286
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2287
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2288
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2289
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2290
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2291
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2292
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2293
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2294
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2295
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2296
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2297
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2298
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2299
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2300
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2301
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2302
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2303
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2304
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2305
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2306
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2307
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2308
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2309
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2310
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2311
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2312
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2313
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2314
+00:25:39,507 --> 00:25:44,967
+meditation  leap into a void
+
+2315
+00:25:39,887 --> 00:25:44,967
+meditation  leap into a void
+
+2316
+00:25:39,887 --> 00:25:44,967
+meditation  leap into a void
+
+2317
+00:25:41,097 --> 00:25:43,177
+the portal to utopia opens.
+
